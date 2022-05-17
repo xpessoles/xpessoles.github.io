@@ -1,6 +1,6 @@
 layout: page
-title: "PAGE TITLE"
-permalink: /
+title: "Page d'accueil"
+permalink: /Accueil/
 
 Je ne comprends rien pour le moment.
 = Toujours rien ? =
