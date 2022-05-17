@@ -32,9 +32,11 @@ twitter_username: jekyllrb
 github_username:  xpessoles
 
 # Build settings
-theme: architect
+#theme: architect
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
