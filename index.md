@@ -6,13 +6,7 @@ layout: default
 
 # Exercices d’entraînement
 
-[exos] (./exercices_sii/exercices.html)
-
-
-[Link to another page](./exercices_sii/exercices.html).
-
-
-# [Exercices d'entraînement](./exercices_sii/exercices.html).
+# [Exercices d'entraînement](./exercices_sii/exercices.html)
 
 
 ### Analyser un système, ses performances, ses constituants
