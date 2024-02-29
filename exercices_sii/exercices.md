@@ -5,7 +5,6 @@ layout: default
 # Enseignement des SII en PSI*
 
 # Exercices d’entraînements
-[exos] (./exercices_sii/exercices.html)
 ### Analyser un système, ses performances, ses constituants
 ### Modéliser un système asservi
 ### Déterminer les performances d'un système asservi
