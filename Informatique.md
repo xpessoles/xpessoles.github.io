@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Now
-tagline: What I'm doing now
+title: Informatique
+tagline: Informatique en PTSI
 permalink: /now.html
-ref: now
+ref: Informatique
 order: 2
 ---
 

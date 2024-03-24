@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Now
-tagline: What I'm doing now
-permalink: /now.html
-ref: now
+title: PSI
+tagline: Cours de SII en PSI*
+permalink: /PSI.html
+ref: psi
 order: 2
 ---
 
