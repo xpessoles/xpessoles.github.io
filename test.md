@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Now
+title: Title TEST
 tagline: What I'm doing now
 permalink: /now.html
-ref: now
+ref: test_ref
 order: 2
 ---
 
