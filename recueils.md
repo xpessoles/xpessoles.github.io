@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recueils de documents
+title: Recueils 
 tagline: Recueils de documents
 permalink: /recueils.html
 ref: Recueils

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Travaux Dirigés
+title: Activités SII
 tagline: Activités de SII
 permalink: /activites_sii.html
 ref: Activités - SII
