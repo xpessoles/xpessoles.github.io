@@ -1,9 +1,9 @@
 ---
 layout: page
-title: PSI
-tagline: Cours de SII en PSI*
-permalink: /psi.html
-ref: SII - PSI 
+title: Travaux Dirigés
+tagline: Activités de SII
+permalink: /activites_sii.html
+ref: Activités - SII
 order: 2
 ---
 
