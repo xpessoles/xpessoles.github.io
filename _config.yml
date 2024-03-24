@@ -1,7 +1,30 @@
-remote_theme: pages-themes/cayman@v0.2.0
+title: Cayman Blog Theme
+description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+show_downloads: true
+
+baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+
+
+google_analytics:
+
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+# social
+author: lorepirri
+image: /thumbnail-jumbo.png
+twitter:
+  username: lorepirri
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: SII et Informatique
-description: Sciences de l'Ingénieur et Informatique en CPGE - Lycée La Martinière Monplaisir - Lyon
-show_downloads: true #["true" or "false" (unquoted) to indicate whether to provide a download URL]
-#google_analytics: [Your Google Analytics tracking ID]
+  - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['now', 'about', 'contact']
