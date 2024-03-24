@@ -3,7 +3,7 @@ description: Sciences de Industrielles de l'Ingénieur et Informatique - Lycée 
 show_downloads: true
 
 #baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://xpessoels.github.io" # change this to the base hostname & protocol for your site
+url: "https://xpessoles.github.io" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
