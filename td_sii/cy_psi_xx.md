@@ -16,8 +16,8 @@ title: "Example content"
 
 | Exercice        | Sources          | Sujet | Corrigé | Dépôt |
 |:-------------|:------------------|:------:|:------:|:------:|
-| Exercice 1  | good swedish fish | ![PDF](../images/pdf_32.png)  | ![PDF](../images/pdf_32.png)|![Octocat](../images/octocat_32.png)|
-| Exercice 2 | good and plenty   | nice  | |
+| Exercice 1  | good swedish fish | ![PDF](../images/pdf_32.png)  | ![PDF](../images/pdf_32.png)|<img src="../images/github-mark.png" alt="GitHub" width="32"/>|
+| Je ne connais plus le support | Centrale Supelec 2022 SII PSI   | [![Sujet PDF](../images/pdf_32.png)](https://example.com)  | [![Corrigé PDF](../images/pdf_32.png)](https://example.com)| [![Sources GitHub](../images/github-mark.png)](https://example.com) |
 | Aldkmkl dfmlkermlkgdf,fvcpoi mlskdf lsmkcpo flzkfpdzkf pdofk zpoef pzokf zpofkp zoif sdl,f sqmlkf pozi fpzldkf mqlskf poze fmlkf qmlkf qpo fkmsldfk smlkfsmdlkf o zfksdlf mlsdkf smdlk f           | good `oreos`      | hmm   | |
 | ok           | good `zoute` drop | yumm  | |
 
