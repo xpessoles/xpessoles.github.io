@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Travaux Dirigés
-tagline: Activités de SII
+title: Recueils de documents
+tagline: Recueils de documents
 permalink: /recueils.html
 ref: Recueils
 order: 2
