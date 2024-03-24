@@ -14,9 +14,9 @@ title: "Example content"
 
 ###### [](#header-6)Header 6
 
-| Exercice        | Sources          | Sujet | Corrigé |
-|:-------------|:------------------|:------:|:------:|
-| Exercice 1  | good swedish fish | ![PDF](../images/pdf_32.png)  | ![PDF](../images/pdf_32.png)|
+| Exercice        | Sources          | Sujet | Corrigé | Dépôt |
+|:-------------|:------------------|:------:|:------:|:------:|
+| Exercice 1  | good swedish fish | ![PDF](../images/pdf_32.png)  | ![PDF](../images/pdf_32.png)|![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)|
 | Exercice 2 | good and plenty   | nice  | |
 | Aldkmkl dfmlkermlkgdf,fvcpoi mlskdf lsmkcpo flzkfpdzkf pdofk zpoef pzokf zpofkp zoif sdl,f sqmlkf pozi fpzldkf mqlskf poze fmlkf qmlkf qpo fkmsldfk smlkfsmdlkf o zfksdlf mlsdkf smdlk f           | good `oreos`      | hmm   | |
 | ok           | good `zoute` drop | yumm  | |
