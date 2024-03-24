@@ -9,8 +9,8 @@ title: "Example content"
 
 1.  ![PDF](images/pdf.png)
 2.  ![PDF](https://github.com/xpessoles/xpessoles.github.io/images/pdf.png)
-3.  ![PDF](../images/pdf_32.png)  [![Source](../images/pdf_32.png)](https://example.com)
-3.  ![PDF](pdf.png)
+3.  ![PDF](../images/pdf_32.png)  [![Source](../images/github-mark.png)](https://example.com)
+3.  <img src="../images/github-mark.png" alt="GitHub" width="32"/>
 
 ###### [](#header-6)Header 6
 
