@@ -3,7 +3,7 @@ layout: page
 title: PSI
 tagline: Cours de SII en PSI*
 permalink: /PSI.html
-ref: psi
+ref: PSI 
 order: 2
 ---
 
