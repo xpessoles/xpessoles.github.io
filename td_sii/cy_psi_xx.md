@@ -12,9 +12,7 @@ title: "Example content"
 3.  ![PDF](../images/pdf_32.png)  [![Source](../images/github-mark.png)](https://example.com)
 3.  <img src="../images/github-mark.png" alt="GitHub" width="32"/>
 
-<a href="https://example.com/" title="Ceci est un lien image HTML">
-	<img alt="Sujet PDF" src="../images/pdf_32.png" width="32" height="32" />
-</a>
+<a href="https://example.com/" title="Ceci est un lien image HTML"> <img alt="Sujet PDF" src="../images/pdf_32.png" width="32" height="32" /> </a>
 
 ###### [](#header-6)Header 6
 
