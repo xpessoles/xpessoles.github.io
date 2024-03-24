@@ -9,7 +9,8 @@ title: "Example content"
 
 1.  ![PDF](images/pdf.png)
 2.  ![PDF](https://github.com/xpessoles/xpessoles.github.io/images/pdf.png)
-3.  This is an ordered list following a header.
+3.  ![PDF](../images/pdf.png)
+3.  ![PDF](pdf.png)
 
 ###### [](#header-6)Header 6
 
