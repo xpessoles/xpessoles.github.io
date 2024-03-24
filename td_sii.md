@@ -9,7 +9,7 @@ order: 2
 
 On trouvera peut être ici ma progression de SII en PSI*, qui sait ?
 
-[Cycle de test : xx]({{ 'td_sii/cy_psi_xx.md' | absolute_url }}).
+[Cycle de test : xx]({{ 'td_sii/cy_psi_xx.html' | absolute_url }}).
 
 TEST
 
