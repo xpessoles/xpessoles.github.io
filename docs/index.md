@@ -1,4 +1,45 @@
-# Welcome to MkDocs
+# Page de Titre
+
+## Test Code
+
+Du `Python`
+
+## Encore du code
+``` 
+def coucou(): # Rien
+    return True
+```
+
+``` py
+def coucou(): # py
+    return True
+```
+
+``` py title="titre"
+def coucou(): # py
+    return True
+```
+
+``` py linenums="1"
+def coucou(): # py
+    return True
+```
+
+
+``` py linenums="1",title="Titre + numérotation"
+def coucou(): # py
+    return True
+```
+
+
+``` tex
+def coucou(): % tex
+    return True
+```
+
+
+
+
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
