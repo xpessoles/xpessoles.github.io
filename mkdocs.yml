@@ -23,7 +23,7 @@ theme:
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
-        name: Mpde clair
+        name: Mode clair
       primary: teal
       accent: lime
 
