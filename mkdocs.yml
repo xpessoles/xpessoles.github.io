@@ -64,9 +64,13 @@ copyright: |
 nav:
 - Acceuil: 'index.md'
 - PSI:
-    - 'Cycle 1': '01_psi/Cycle_01.md'
-    - 'Cycle 2': '01_psi/Cycle_02.md'
+    - '2023-2024' : 'PSI/2023_2024.md'
+    - 'Cycle 1': 'PSI/Cycle_01.md'
+    - 'Cycle 2': 'PSI/Cycle_02.md'
 - Informatique:
-    - 'Cycle 1': '02_informatique/Cycle_01.md'
-    - 'Cycle 2': '02_informatique/Cycle_02.md'
-
+    - 'Cycle 1': 'Informatique/Cycle_01.md'
+    - 'Cycle 2': 'Informatique/Cycle_02.md'
+- Labo SII : 
+    - 'Accueil': 'Labo_SII/index.md'
+- Divers : 
+    - 'Ce site': 'Divers/index.md'
