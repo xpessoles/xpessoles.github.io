@@ -1,6 +1,5 @@
 ---
-author: Mon Nom
-title: Mon premier chapitre
+title: Labo SII
 ---
 
 Suite ...
