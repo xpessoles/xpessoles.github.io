@@ -59,3 +59,14 @@ markdown_extensions:
 
 copyright: |
   &copy; 2024 <a href="https://github.com/xpessoles"  target="_blank" rel="noopener">Xavier Pessoles</a>
+  
+
+pages:
+- Acceuil: 'index.md'
+- PSI:
+    - 'Cycle 1': '01_psi/Cycle_01.md'
+    - 'Cycle 2': '01_psi/Cycle_02.md'
+- Informatique:
+    - 'Cycle 1': '02_informatique/Cycle_01.md'
+    - 'Cycle 2': '02_informatique/Cycle_02.md'
+
