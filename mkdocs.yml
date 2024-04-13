@@ -61,7 +61,7 @@ copyright: |
   &copy; 2024 <a href="https://github.com/xpessoles"  target="_blank" rel="noopener">Xavier Pessoles</a>
   
 
-pages:
+nav:
 - Acceuil: 'index.md'
 - PSI:
     - 'Cycle 1': '01_psi/Cycle_01.md'
