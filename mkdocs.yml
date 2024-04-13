@@ -12,18 +12,18 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: en
+  language: fr
   palette:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
+        name: Mode sombre
       primary: teal
       accent: purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
+        name: Mpde clair
       primary: teal
       accent: lime
 
