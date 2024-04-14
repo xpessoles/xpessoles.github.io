@@ -70,8 +70,15 @@ nav:
 - Acceuil: 'index.md'
 - PSI:
     - '2023-2024' : 'PSI/2023_2024.md'
-    - 'Cycle 1': 'PSI/Cycle_01.md'
-    - 'Cycle 2': 'PSI/Cycle_02.md'
+    - 'Modélisation des SLCI': 'PSI/Cycle_01.md'
+    - 'Performance des SLCI': 'PSI/Cycle_02.md'
+    - 'Correction des SLCI': 'PSI/Cycle_03.md'
+    - 'Théorie des mécanismes': 'PSI/Cycle_04.md'
+    - 'Dynamique': 'PSI/Cycle_05.md'
+    - 'Energétique': 'PSI/Cycle_06.md'
+- Révisions:
+    - 'Cinématique': 'Revisions/01_Cinematique'
+    - 'Statique': 'Revisions/02_Statique'
 - Informatique:
     - 'Cycle 1': 'Informatique/Cycle_01.md'
     - 'Cycle 2': 'Informatique/Cycle_02.md'
