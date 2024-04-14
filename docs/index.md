@@ -4,59 +4,9 @@ Je vous souhaite la bienvenue sur ma nième tentative de réalisation d'un site 
 J'espère que cette fois, je parviendrai à proposer un site pérenne et actualisé...
 
 
-## Test Code
+## Quelques liens
 
-Du `Python`
-
-## Encore du code
-``` 
-def coucou(): # Rien
-    return True
-```
-
-``` py
-def coucou(): # py
-    return True
-```
-
-``` py title="titre"
-def coucou(): # py
-    return True
-```
-
-``` py linenums="1"
-def coucou(): # py
-    return True
-```
-
-
-``` py linenums="1",title="Titre + numérotation"
-def coucou(): # py
-    return True
-```
-
-
-``` tex
-def coucou(): % tex
-    return True
-```
-
-
-
-
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+ * [Site des PSI*](http://psietoile.lamartin.fr/)
+ * [Informatique en PTSI](https://ptsilamartin.github.io/info.html)
+ * [La Martinière Monplaisir](https://martiniere-monplaisir.ent.auvergnerhonealpes.fr/)
+ * [UPSTI - Annales](https://www.upsti.fr/espace-etudiants/annales-de-concours)
