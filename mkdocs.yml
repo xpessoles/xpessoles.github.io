@@ -29,7 +29,7 @@ theme:
   icon:
     tag:
       TEST_TAG: simple/python
-      A3-08: octicons/gear-16
+      A308: octicons/gear-16
 
 plugins:
   - social
@@ -37,7 +37,7 @@ plugins:
   - tags:
       tags_file: Divers/tags.md
       test_tag: TEST_TAG
-      Analyser les principes d'intelligence artificielle : A3-08
+      Analyser les principes d'intelligence artificielle : A308
 
   
 
@@ -96,4 +96,4 @@ nav:
     - 'Accueil': 'Labo_SII/index.md'
 - Divers : 
     - 'Ce site': 'Divers/index.md'
-    - 'Index' : 'Divers/tag.md'
+    - 'Index' : 'Divers/tags.md'
