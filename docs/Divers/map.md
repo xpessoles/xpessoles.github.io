@@ -2,6 +2,8 @@
 title: Carte du site
 ---
 
+$\alpha$
+\[ \alpha \]
 * PSI
   * Modélisation des Systèmes
     * Ch.1. Modélisation polyphysique
@@ -26,13 +28,13 @@ title: Carte du site
     * Ch4. Moduler et convertir
   * Prédiction des performances
     * Ch1. Stabilité
-	  * tag_chapitre : scli_stabiltie
+	  - tag_chapitre : scli_stabiltie
 	* Ch2. Rapidité
-	  * tag_chapitre : scli_rapidite
+	  - tag_chapitre : scli_rapidite
 	* Ch3. Précision
-	  * tag_chapitre : scli_precision
+	  - tag_chapitre : scli_precision
 	* Ch4. Révisions
-	  * tag_chapitre : slci_revisions
+	  - tag_chapitre : slci_revisions
   * Conception de la commande
     * Ch1. Correction
 	  * tag_chapitre: slci_correcteurs, slci_p, slci_correcteur, slci_rp, slci_ap, slci_commande, slci_pi 
