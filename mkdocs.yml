@@ -30,7 +30,7 @@ theme:
     tag:
       html: octicons/gear-16
       TESTTAG: simple/python
-      A308: octicons/gear-16
+      a308: octicons/gear-16
 
 plugins:
   - social
@@ -49,7 +49,7 @@ extra:
   tags:
       Compatibility: compat  
       test_tag: TESTTAG
-      A3-08: A308
+      A3-08: a308
       HTML5: html
       
   
