@@ -29,14 +29,16 @@ theme:
   icon:
     tag:
       TEST_TAG: simple/python
-        
+      A3-08: :gear:
 
 plugins:
   - social
   - search
   - tags:
-      tags_file: tags.md
+      tags_file: Divers/tags.md
       test_tag: TEST_TAG
+      A3-08: Analyser les principes d'intelligence artificielle. 
+
   
 
 extra:
@@ -94,3 +96,4 @@ nav:
     - 'Accueil': 'Labo_SII/index.md'
 - Divers : 
     - 'Ce site': 'Divers/index.md'
+    - 'Index' : 'Divers/tag.md'
