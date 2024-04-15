@@ -20,7 +20,7 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Mode sombre
       primary: teal
-      accent: purple 
+      accent: indigo 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
@@ -59,7 +59,7 @@ extra:
   analytics:
     provider: google
     property: G-45JVSEKHDF
-    
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
