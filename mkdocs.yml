@@ -29,7 +29,7 @@ theme:
   icon:
     tag:
       TEST_TAG: simple/python
-      A3-08: gear
+      A3-08: octicons/gear-16
 
 plugins:
   - social
