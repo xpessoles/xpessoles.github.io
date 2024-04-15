@@ -34,12 +34,8 @@ theme:
 plugins:
   - social
   - search
-  - tags:
+  - tags:  
       tags_file: Divers/tags.md
-      test_tag: TESTTAG
-      Analyser les principes d'intelligence artificielle : A308
-
-  
 
 extra:
   social:
@@ -49,7 +45,10 @@ extra:
       #link: https://twitter.com/TheJamesWillett
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/xavier-pessoles-29061968/
-
+  tags:
+      test_tag: TESTTAG
+      Analyser les principes d'intelligence artificielle : A308
+  
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
