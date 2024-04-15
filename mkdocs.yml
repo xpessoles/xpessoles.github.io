@@ -1,5 +1,6 @@
 site_name: SII et Informatique - Lycée La Martinière Monplaisir - Lyon
 site_url: https://xpessoles.github.io/
+repo_url: https://github.com/xpessoles
 theme:
   name: material
   features:
@@ -75,13 +76,15 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-
+  - toc:
+      permalink: true
 copyright: |
   &copy; 2024 <a href="https://github.com/xpessoles"  target="_blank" rel="noopener">Xavier Pessoles</a>
 
 
 extra_javascript:
   - javascripts/mathjax.js
+  - javascripts/feedback.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
