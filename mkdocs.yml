@@ -28,7 +28,7 @@ theme:
       accent: lime
   icon:
     tag:
-      TEST_TAG: :simple/python:
+      TEST_TAG: simple/python
         
 
 plugins:
