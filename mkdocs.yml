@@ -28,6 +28,7 @@ theme:
       accent: lime
   icon:
     tag:
+      html: fontawesome/brands/html5
       TESTTAG: simple/python
       A308: octicons/gear-16
 
@@ -46,8 +47,11 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/xavier-pessoles-29061968/
   tags:
+      Compatibility: compat  
       test_tag: TESTTAG
-      Analyser les principes d'intelligence artificielle : A308
+      Analyser les principes de IA: A308
+      HTML5: html
+      
   
 markdown_extensions:
   - pymdownx.highlight:
