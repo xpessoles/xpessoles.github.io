@@ -6,6 +6,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.tracking # Menu de la page à droite ?
     - toc.integrate
     - navigation.top
     - search.suggest
