@@ -3,7 +3,7 @@ title: Carte du site
 ---
 
 $\alpha$
-\[ \alpha \]
+
 * PSI
   * Modélisation des Systèmes
     * Ch.1. Modélisation polyphysique
