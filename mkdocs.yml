@@ -51,6 +51,10 @@ extra:
       test_tag: TESTTAG
       A3-08: a308
       HTML5: html
+      SLCI: slci
+      CIN: cin
+      STAT: stat
+      CHS: chs
       
   
 markdown_extensions:
