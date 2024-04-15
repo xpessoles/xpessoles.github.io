@@ -55,8 +55,10 @@ extra:
       CIN: cin
       STAT: stat
       CHS: chs
-      
-  
+  analytics:
+    provider: google
+    property: G-7L20PKF0E2 
+    
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
