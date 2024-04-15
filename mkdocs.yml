@@ -28,7 +28,7 @@ theme:
       accent: lime
   icon:
     tag:
-      TEST_TAG: simple/python
+      TESTTAG: simple/python
       A308: octicons/gear-16
 
 plugins:
@@ -36,7 +36,7 @@ plugins:
   - search
   - tags:
       tags_file: Divers/tags.md
-      test_tag: TEST_TAG
+      test_tag: TESTTAG
       Analyser les principes d'intelligence artificielle : A308
 
   
