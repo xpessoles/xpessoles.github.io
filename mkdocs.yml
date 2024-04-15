@@ -37,7 +37,7 @@ plugins:
   - tags:
       tags_file: Divers/tags.md
       test_tag: TEST_TAG
-      A3-08: Analyser les principes d'intelligence artificielle. 
+      Analyser les principes d'intelligence artificielle : A3-08
 
   
 
