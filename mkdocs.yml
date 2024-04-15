@@ -107,5 +107,6 @@ nav:
 - Labo SII : 
     - 'Accueil': 'Labo_SII/index.md'
 - Divers : 
+    - 'Carte' : 'Divers/map.md'
     - 'Ce site': 'Divers/index.md'
     - 'Index' : 'Divers/tags.md'
