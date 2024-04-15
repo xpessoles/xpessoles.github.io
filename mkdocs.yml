@@ -28,7 +28,7 @@ theme:
       accent: lime
   icon:
     tag:
-      html: fontawesome/brands/html5
+      html: octicons/gear-16
       TESTTAG: simple/python
       A308: octicons/gear-16
 
@@ -49,7 +49,7 @@ extra:
   tags:
       Compatibility: compat  
       test_tag: TESTTAG
-      Analyser les principes de IA: A308
+      A3-08: A308
       HTML5: html
       
   
