@@ -57,7 +57,7 @@ extra:
       CHS: chs
   analytics:
     provider: google
-    property: G-7L20PKF0E2 
+    property: G-45JVSEKHDF
     
 markdown_extensions:
   - pymdownx.highlight:
