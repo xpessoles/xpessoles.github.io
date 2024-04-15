@@ -26,11 +26,18 @@ theme:
         name: Mode clair
       primary: teal
       accent: lime
+  icon:
+    tag:
+      TEST_TAG: :simple/python:
+        
 
 plugins:
   - social
   - search
-  - tags
+  - tags:
+      tags_file: tags.md
+      test_tag: TEST_TAG
+  
 
 extra:
   social:
