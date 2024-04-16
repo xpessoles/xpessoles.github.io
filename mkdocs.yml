@@ -103,7 +103,8 @@ nav:
     - Performances des SLCI: PSI/slci-perf.md
     - Modélisation polyphysique: PSI/mod-poly.md
     - Correction des SLCI:
-      - PSI/slci-cor.md
+      - PSI/cor.md
+      - Correcteurs proportionnels: PSI/slci-p.md
     - Théorie des mécanismes: PSI/chs.md
     - Dynamique: PSI/dyn.md
     - Energétique: PSI/tec.md
