@@ -100,8 +100,8 @@ nav:
     - 'Modélisation polyphysique': 'PSI/mod-poly.md'
     - 'Correction des SLCI': 'PSI/slci-cor.md'
     - 'Théorie des mécanismes': 'PSI/chs.md'
-    - 'Dynamique': 'PSI/Cycle_05.md'
-    - 'Energétique': 'PSI/Cycle_06.md'
+    - 'Dynamique': 'PSI/dyn.md'
+    - 'Energétique': 'PSI/tec.md'
 - Révisions:
     - 'Cinématique': 'Revisions/01_Cinematique'
     - 'Statique': 'Revisions/02_Statique'
@@ -111,6 +111,6 @@ nav:
 - Labo SII : 
     - 'Accueil': 'Labo_SII/index.md'
 - Divers : 
-    - 'Carte' : 'Divers/ts.md'
+    - 'Carte' : 'Divers/map.md'
     - 'Ce site': 'Divers/index.md'
     - 'Index' : 'Divers/tags.md'
