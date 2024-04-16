@@ -23,7 +23,7 @@ title: PSI
 
     [:octicons-arrow-right-24: Performances des SLCI](#)
 
--   :material-format-font:{ .lg .middle } __Modélisation des systèmes polyphysiques__
+-   -   :material-resistor:{ .lg .middle } __Modélisation des systèmes polyphysiques__
 
     ---
 
@@ -31,7 +31,7 @@ title: PSI
 
     [:octicons-arrow-right-24: Modélisation polyphysique](#)
 
--   :material-resistor:{ .lg .middle } __Chaînes de solides__
+-   :simple-graphql:{ .lg .middle } __Chaînes de solides__
 
     ---
 
