@@ -28,6 +28,7 @@ theme:
       primary: teal
       accent: teal
   icon:
+    logo: material/robot-industrial-outline
     tag:
       html: octicons/gear-16
       TESTTAG: simple/python
