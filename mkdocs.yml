@@ -92,11 +92,13 @@ extra_javascript:
 nav:
 - Acceuil: 'index.md'
 - PSI:
-    - '2023-2024' : 'PSI/2023_2024.md'
-    - 'Modélisation des SLCI': 'PSI/Cycle_01.md'
-    - 'Performance des SLCI': 'PSI/Cycle_02.md'
-    - 'Correction des SLCI': 'PSI/Cycle_03.md'
-    - 'Théorie des mécanismes': 'PSI/Cycle_04.md'
+    - PSI/index.md
+    - 'Documents 2023-2024' : 'PSI/2023_2024.md'
+    - 'Modélisation des SLCI': 'PSI/slci-mod.md'
+    - 'Performances des SLCI': 'PSI/slci-perf.md'
+    - 'Modélisation polyphysique': 'PSI/mod-poly.md'
+    - 'Correction des SLCI': 'PSI/slci-cor.md'
+    - 'Théorie des mécanismes': 'PSI/chs.md'
     - 'Dynamique': 'PSI/Cycle_05.md'
     - 'Energétique': 'PSI/Cycle_06.md'
 - Révisions:
