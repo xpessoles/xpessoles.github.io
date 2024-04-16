@@ -108,10 +108,10 @@ nav:
     - Modélisation polyphysique: PSI/mod-poly.md
     - Correction des SLCI:
       - PSI/cor/index.md
-      - Correcteur proportionnel: PSI/cor/slci-p.md
-      - Correcteur proportionnel intégral: PSI/cor/slci-pi.md
-      - Correcteur à avance de phase: PSI/cor/slci-ap.md
-      - Correcteur à retard de phase: PSI/cor/slci-rp.md
+      - Correcteur proportionnel: PSI/slci-p.md
+      - Correcteur proportionnel intégral: PSI/slci-pi.md
+      - Correcteur à avance de phase: PSI/slci-ap.md
+      - Correcteur à retard de phase: PSI/slci-rp.md
     - Théorie des mécanismes:
       - PSI/chs/index.md
       - Liaisons équivalentes: PSI/chs/chs-leq.md
@@ -145,6 +145,7 @@ nav:
     - Statique: 
       - Revisions/stat/stat.md
       - Modélisation des AM: Revisions/stat/stat-mam.md
+      - Frottement sec: Revisions/stat/stat-frot.md
       - Résolution du PFS 2D: Revisions/stat/stat-pfs-2d.md
       - Résolution du PFS 3D: Revisions/stat/stat-pfs-3d.md
 - Informatique:
