@@ -2,9 +2,14 @@
 title: Liaisons équivalentes 
 ---
 
-### Travaux Dirigés 
+### Applications 
  
-| Travaux Dirigés | Sujet | Corrigé | Sources  | 
+| Applications | Sujet | Corrigé | Sources  | 
+| :-------------- | :---: | :-----: | :------: | 
+| Mât réacteur A320 | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_06_01_Application_03_MatReacteur_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_06_01_Application_03_MatReacteur_Corrige.pdf) | 
+###  
+ 
+|  | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
 | Liaisons équivalentes | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_06_01_Application_01_Sujet.pdf) | [:fontawesome-regular-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_06_01_Application_01_Corrige.pdf) | 
 | Tour de la terreur | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_06_01_Application_02_Terreur_Sujet.pdf) | [:fontawesome-regular-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_06_01_Application_02_Terreur_Corrige.pdf) | 

@@ -2,9 +2,17 @@
 title: PFD - Chaînes ouvertes 
 ---
 
-### Travaux Dirigés 
+### Applications 
  
-| Travaux Dirigés | Sujet | Corrigé | Sources  | 
+| Applications | Sujet | Corrigé | Sources  | 
+| :-------------- | :---: | :-----: | :------: | 
+| Wheeling moto | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_App_01_MotoWheeling_Sujet.pdf) | [:fontawesome-regular-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_App_01_MotoWheeling_Corrige.pdf) | 
+| Banc d'essai vibrant | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_App_02_BancVib_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_App_02_BancVib_Corrige.pdf) | 
+| Centrifugeuse géotechnique | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_App_03_Centrifugeuse_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_App_03_Centrifugeuse_Corrige.pdf) | 
+| Chargement et déchargement des cargos porte-conteneurs | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_App_04_ChargementCargo_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_App_04_ChargementCargo_Corrige.pdf) | 
+###  
+ 
+|  | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
 | Exosquelette Atalante | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_TD_01_ExosqueletteAtalante_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_TD_01_ExosqueletteAtalante_Corrige.pdf) | 
 | Gyrolock | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_TD_02_Gyrolock_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_03_PFD_CO_TD_02_Gyrolock_Corrige.pdf) | 

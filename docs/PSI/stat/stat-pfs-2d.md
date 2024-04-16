@@ -2,9 +2,16 @@
 title: Résolution du PFS 2D 
 ---
 
-### Travaux Dirigés 
+### Applications 
  
-| Travaux Dirigés | Sujet | Corrigé | Sources  | 
+| Applications | Sujet | Corrigé | Sources  | 
+| :-------------- | :---: | :-----: | :------: | 
+| Mécanisme de levage | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_11_Ch_03_PFS_2D_Application_01_Levage_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_11_Ch_03_PFS_2D_Application_01_Levage_Corrige.pdf) | 
+| Suspension automobile | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_11_Ch_03_PFS_2D_Application_02_FM_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_11_Ch_03_PFS_2D_Application_02_FM_Corrige.pdf) | 
+| Étude d'un robot Kuka | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_11_Ch_03_PFS_2D_Application_03_Kuka_Sujet.pdf) | [:fontawesome-regular-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_11_Ch_03_PFS_2D_Application_03_Kuka_Corrige.pdf) | 
+###  
+ 
+|  | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
 | Modélisation d'un hayon de coffre électrique | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_11_Ch_03_PFS_2D_TD_01_Hayon_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_11_Ch_03_PFS_2D_TD_01_Hayon_Corrige.pdf) | 
 | Dépose de bagage automatique dans les aéroports | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_11_Ch_03_PFS_2D_TD_02_DBA_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_11_Ch_03_PFS_2D_TD_02_DBA_Corrige.pdf) | 

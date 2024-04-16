@@ -120,9 +120,9 @@ nav:
       - PSI/dyn/index.md
       - Caractéristiques inertielles: PSI/dyn/dyn-inertie.md
       - Cinétique: PSI/dyn/dyn-cin.md
-      - PFD - Chaînes ouvertes: PSI/dyn/dyn-co.md
-      - PFD - Chaînes fermées: PSI/dyn/dyn-cf.md
-      - PFD - Véhicules: PSI/dyn/dyn-vehicules.md
+      - PFD - Chaînes ouvertes: PSI/dyn/dyn-pfd-co.md
+      - PFD - Chaînes fermées: PSI/dyn/dyn-pfd-cf.md
+      - PFD - Véhicules: PSI/dyn/dyn-pfd-vehicule.md
     - Energétique:
       - PSI/tec/index.md
       - Cours: PSI/tec/tec-cours.md
