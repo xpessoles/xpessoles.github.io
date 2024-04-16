@@ -1,5 +1,5 @@
 ---
-title:  
+title: Détemination du torseur dynamique 
 ---
 
 ### Travaux Dirigés 

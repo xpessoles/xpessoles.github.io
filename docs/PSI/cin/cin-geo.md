@@ -1,5 +1,5 @@
 ---
-title: Géométrie
+title: Géométrie 
 ---
 
 ### Travaux Dirigés 

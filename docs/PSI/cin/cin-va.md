@@ -1,5 +1,5 @@
 ---
-title:  
+title: Résolution cinématique 
 ---
 
 ### Travaux Dirigés 
