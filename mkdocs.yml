@@ -99,14 +99,19 @@ nav:
       - Transformée de Laplace: PSI/slci/slci-laplace.md
       - Modélisation par schéma-blocs: PSI/slci/slci-blocs.md
       - Systèmes d'ordre 1 et 2:  PSI/slci/slci-ordre12.md
-      - Analyse fréquentielle: PSI/slci/slci-bode
-    - Performances des SLCI: PSI/slci-perf.md
+      - Analyse fréquentielle: PSI/slci/slci-bode.md
+    - Performances des SLCI: 
+      - PSI/slci/slci-perf.md
+      - Stablité des systèmes: PSI/slci/slci-stab.md
+      - Précision des systèmes: PSI/slci/slci-precision.md
+      - Rapidité des systèmes: PSI/slci/slci-rapidite.md
     - Modélisation polyphysique: PSI/mod-poly.md
     - Correction des SLCI:
       - PSI/cor/index.md
       - Correcteur proportionnel: PSI/cor/slci-p.md
       - Correcteur proportionnel intégral: PSI/cor/slci-pi.md
       - Correcteur à avance de phase: PSI/cor/slci-ap.md
+      - Correcteur à retard de phase: PSI/cor/slci-rp.md
     - Théorie des mécanismes:
       - PSI/chs/index.md
       - Liaisons équivalentes: PSI/chs/chs-leq.md
@@ -114,16 +119,17 @@ nav:
     - Dynamique: 
       - PSI/dyn/index.md
       - Caractéristiques inertielles: PSI/dyn/dyn-inertie.md
-      - Cinétique: PSI/dyn/dyn-cin
-      - PFD - Chaînes ouvertes: PSI/dyn/dyn-co
-      - PFD - Chaînes fermées: PSI/dyn/dyn-cf
-      - PFD - Véhicules: PSI/dyn/dyn-cf
+      - Cinétique: PSI/dyn/dyn-cin.md
+      - PFD - Chaînes ouvertes: PSI/dyn/dyn-co.md
+      - PFD - Chaînes fermées: PSI/dyn/dyn-cf.md
+      - PFD - Véhicules: PSI/dyn/dyn-vehicules.md
     - Energétique:
       - PSI/tec/index.md
       - Cours: PSI/tec/tec-cours.md
       - Inertie équivalente: PSI/tec/tec-jeq.md
       - TEC Mouvements simples: PSI/tec/tec-1d.md
       - TEC Mouvements complexes: PSI/tec/tec-3d.md
+      - TEC Véhicules: PSI/tec/tec-vehicule.md
     - Résolution numérique:
       - PSI/num/index.md
       - Méthodes numériques : PSI/num/num-mn.md
@@ -138,7 +144,7 @@ nav:
       - Cinématique du point: Revisions/cin/cin-point.md
     - Statique: 
       - Revisions/stat/stat.md
-      - Modélisation des AM: Revisions/stat/stat-am.md
+      - Modélisation des AM: Revisions/stat/stat-mam.md
       - Résolution du PFS 2D: Revisions/stat/stat-pfs-2d.md
       - Résolution du PFS 3D: Revisions/stat/stat-pfs-3d.md
 - Informatique:
