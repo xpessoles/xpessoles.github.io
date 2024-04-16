@@ -31,7 +31,7 @@ title: PSI
 
     [:octicons-arrow-right-24: Modélisation polyphysique](#)
 
--   :simple-graphql:{ .lg .middle } __Chaînes de solides__
+-   :material-resistor:{ .lg .middle } __Chaînes de solides__
 
     ---
 
