@@ -46,6 +46,14 @@ def coucou(): % tex
 ```
 
 
+!!! tip Test admonition 
+Test
+!!!
+
+
+??? tip Test admonition 
+Test
+???
 
 
 
