@@ -103,8 +103,9 @@ nav:
     - 'Dynamique': 'PSI/dyn.md'
     - 'Energétique': 'PSI/tec.md'
 - Révisions:
-    - 'Cinématique': 'Revisions/01_Cinematique'
-    - 'Statique': 'Revisions/02_Statique'
+    - Revisions/index.md
+    - 'Cinématique': 'Revisions/cin.md'
+    - 'Statique': 'Revisions/stat.md'
 - Informatique:
     - 'Cycle 1': 'Informatique/Cycle_01.md'
     - 'Cycle 2': 'Informatique/Cycle_02.md'
@@ -114,3 +115,4 @@ nav:
     - 'Carte' : 'Divers/map.md'
     - 'Ce site': 'Divers/index.md'
     - 'Index' : 'Divers/tags.md'
+
