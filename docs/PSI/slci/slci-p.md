@@ -1,5 +1,5 @@
 ---
-title: Correcteurs proportionnels
+title: Correcteur proportionnel 
 ---
 
 ### Travaux Dirigés 
