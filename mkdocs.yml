@@ -103,15 +103,44 @@ nav:
     - Performances des SLCI: PSI/slci-perf.md
     - Modélisation polyphysique: PSI/mod-poly.md
     - Correction des SLCI:
-      - PSI/cor.md
-      - Correcteurs proportionnels: PSI/slci-p.md
-    - Théorie des mécanismes: PSI/chs.md
-    - Dynamique: PSI/dyn.md
-    - Energétique: PSI/tec.md
+      - PSI/cor/index.md
+      - Correcteur proportionnel: PSI/cor/slci-p.md
+      - Correcteur proportionnel intégral: PSI/cor/slci-pi.md
+      - Correcteur à avance de phase: PSI/cor/slci-ap.md
+    - Théorie des mécanismes:
+      - PSI/chs/index.md
+      - Liaisons équivalentes: PSI/chs/chs-leq.md
+      - Théorie des mécanismes: PSI/chs/chs-hs.md
+    - Dynamique: 
+      - PSI/dyn/index.md
+      - Caractéristiques inertielles: PSI/dyn/dyn-inertie.md
+      - Cinétique: PSI/dyn/dyn-cin
+      - PFD - Chaînes ouvertes: PSI/dyn/dyn-co
+      - PFD - Chaînes fermées: PSI/dyn/dyn-cf
+      - PFD - Véhicules: PSI/dyn/dyn-cf
+    - Energétique:
+      - PSI/tec/index.md
+      - Cours: PSI/tec/tec-cours.md
+      - Inertie équivalente: PSI/tec/tec-jeq.md
+      - TEC Mouvements simples: PSI/tec/tec-1d.md
+      - TEC Mouvements complexes: PSI/tec/tec-3d.md
+    - Résolution numérique:
+      - PSI/num/index.md
+      - Méthodes numériques : PSI/num/num-mn.md
+      - Introduction IA : PSI/num/num-ia.md
+      - Introduction RN : PSI/num/num-rn.md
 - Révisions:
     - Revisions/index.md
-    - Cinématique: Revisions/cin.md
-    - Statique: Revisions/stat.md
+    - Cinématique: 
+      - Revisions/cin/index.md
+      - Modélisation: Revisions/cin/cin-mod.md
+      - Résolution cinématique: Revisions/cin/cin-va.md
+      - Cinématique du point: Revisions/cin/cin-point.md
+    - Statique: 
+      - Revisions/stat/stat.md
+      - Modélisation des AM: Revisions/stat/stat-am.md
+      - Résolution du PFS 2D: Revisions/stat/stat-pfs-2d.md
+      - Résolution du PFS 3D: Revisions/stat/stat-pfs-3d.md
 - Informatique:
     - Cycle 1: 'Informatique/Cycle_01.md'
     - Cycle 2: 'Informatique/Cycle_02.md'
