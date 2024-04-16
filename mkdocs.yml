@@ -105,7 +105,7 @@ nav:
       - Stablité des systèmes: PSI/slci/slci-stabilite.md
       - Précision des systèmes: PSI/slci/slci-precision.md
       - Rapidité des systèmes: PSI/slci/slci-rapidite.md
-    - Modélisation polyphysique: PSI/mod-poly.md
+    - Modélisation polyphysique: PSI/slci/slci-multiphy.md
     - Correction des SLCI:
       - PSI/cor/index.md
       - Correcteur proportionnel: PSI/slci/slci-p.md
