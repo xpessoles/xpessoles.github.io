@@ -91,24 +91,29 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-- Acceuil: 'index.md'
+- Acceuil: index.md
 - PSI:
     - PSI/index.md
-    - 'Documents 2023-2024' : 'PSI/2023_2024.md'
-    - 'Modélisation des SLCI': 'PSI/slci-mod.md'
-    - 'Performances des SLCI': 'PSI/slci-perf.md'
-    - 'Modélisation polyphysique': 'PSI/mod-poly.md'
-    - 'Correction des SLCI': 'PSI/slci-cor.md'
-    - 'Théorie des mécanismes': 'PSI/chs.md'
-    - 'Dynamique': 'PSI/dyn.md'
-    - 'Energétique': 'PSI/tec.md'
+    - Documents 2023-2024: PSI/2023_2024.md
+    - Modélisation des SLCI: 
+      - Transformée de Laplace: PSI/slci/slci-laplace.md
+      - Modélisation par schéma-blocs: PSI/slci/slci-blocs.md
+      - Systèmes d'ordre 1 et 2:  PSI/slci/slci-ordre12.md
+      - Analyse fréquentielle: PSI/slci/slci-bode
+    - Performances des SLCI: PSI/slci-perf.md
+    - Modélisation polyphysique: PSI/mod-poly.md
+    - Correction des SLCI:
+      - PSI/slci-cor.md
+    - Théorie des mécanismes: PSI/chs.md
+    - Dynamique: PSI/dyn.md
+    - Energétique: PSI/tec.md
 - Révisions:
     - Revisions/index.md
-    - 'Cinématique': 'Revisions/cin.md'
-    - 'Statique': 'Revisions/stat.md'
+    - Cinématique: Revisions/cin.md
+    - Statique: Revisions/stat.md
 - Informatique:
-    - 'Cycle 1': 'Informatique/Cycle_01.md'
-    - 'Cycle 2': 'Informatique/Cycle_02.md'
+    - Cycle 1: 'Informatique/Cycle_01.md'
+    - Cycle 2: 'Informatique/Cycle_02.md'
 - Labo SII : 
     - 'Accueil': 'Labo_SII/index.md'
 - Divers : 
