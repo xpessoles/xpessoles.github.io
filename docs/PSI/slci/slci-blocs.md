@@ -1,5 +1,5 @@
 ---
-title: Modalisation par schéma-blocs 
+title: Modélisation par schéma-blocs 
 ---
 
 ### Travaux Dirigés 
