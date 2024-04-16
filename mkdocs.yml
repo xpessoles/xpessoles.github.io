@@ -7,7 +7,6 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.tracking # Menu de la page à droite ?
-    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
@@ -21,13 +20,13 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Mode sombre
       primary: teal
-      accent: indigo 
+      accent: teal 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Mode clair
       primary: teal
-      accent: lime
+      accent: teal
   icon:
     tag:
       html: octicons/gear-16
