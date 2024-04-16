@@ -102,7 +102,7 @@ nav:
       - Analyse fréquentielle: PSI/slci/slci-bode.md
     - Performances des SLCI: 
       - PSI/slci/slci-perf.md
-      - Stablité des systèmes: PSI/slci/slci-stab.md
+      - Stablité des systèmes: PSI/slci/slci-stabilite.md
       - Précision des systèmes: PSI/slci/slci-precision.md
       - Rapidité des systèmes: PSI/slci/slci-rapidite.md
     - Modélisation polyphysique: PSI/mod-poly.md
