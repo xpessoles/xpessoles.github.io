@@ -10,3 +10,6 @@ title: Modélisation polyphysique
 | La Seine Musicale | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Application_02_SeineMusicale_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Application_02_SeineMusicale_Corrige.pdf) | 
 | Direction automatique découplée | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Application_03_DirectionDecouplee_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Application_03_DirectionDecouplee_Corrige.pdf) | 
 
+
+
+

@@ -10,3 +10,6 @@ title: Caractéristiques inertielles
 | Vilebrequin de moteur | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_01_Application_01_Vilebrequin_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_01_Application_01_Vilebrequin_Corrige.pdf) | 
 | Triaxe | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_01_Application_02_Triaxe_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_04_01_Application_02_Triaxe_Corrige.pdf) | 
 
+
+
+
