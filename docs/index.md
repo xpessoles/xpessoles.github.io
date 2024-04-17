@@ -5,7 +5,9 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 
 :material-information-outline:{ title="Important information" }
 
+[Hover me][example]
 
+  [example]: https://example.com "I'm a tooltip!"
 
 ## Quelques liens
 
