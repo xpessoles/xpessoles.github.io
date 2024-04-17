@@ -1,6 +1,9 @@
 ---
 title: Rapidité des systèmes 
+tags:
+  - C2-03 : Déterminer les performances d'un système asservi.
 ---
+
 
 
 ### Travaux Dirigés 

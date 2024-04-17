@@ -2,6 +2,7 @@
 title: Inertie équivalente 
 ---
 
+
 ### Applications 
  
 | Applications | Sujet | Corrigé | Sources  | 

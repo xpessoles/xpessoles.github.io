@@ -1,6 +1,10 @@
 ---
 title: Correcteurs des SLCI 
+tags:
+  - C1-02 : Proposer une démarche de réglage d'un correcteur.
+  - C2-04 : Mettre en œuvre une démarche de réglage d’un correcteur.
 ---
+
 
 
 

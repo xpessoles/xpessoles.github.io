@@ -1,6 +1,10 @@
 ---
 title: TEC Véhicules 
+tags:
+  - C1-05 : Proposer une démarche permettant la détermination d’une action mécanique inconnue ou d'une loi de mouvement.
+  - C2-08 : Déterminer les actions mécaniques en dynamique dans le cas où le mouvement est imposé.
 ---
+
 
 
 ### Travaux Dirigés 

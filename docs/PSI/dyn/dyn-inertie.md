@@ -1,6 +1,9 @@
 ---
 title: Caractéristiques inertielles 
+tags:
+  - B2-10 : Déterminer les caractéristiques d'un solide ou d'un ensemble de solides indéformables.
 ---
+
 
 ### Applications 
  

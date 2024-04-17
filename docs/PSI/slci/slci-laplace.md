@@ -1,6 +1,11 @@
 ---
 title: Transformée de Laplace 
+tags:
+  - B2-07 : Modéliser un système par schéma-blocs.
+  - B2-04 : Établir un modèle de connaissance par des fonctions de transfert.
+  - C2-03 : Déterminer les performances d'un système asservi.
 ---
+
 
 
 ### Travaux Dirigés 
@@ -12,11 +17,6 @@ title: Transformée de Laplace
 | Micromanipulateur compact pour la chirurgie endoscopique | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_01_Ch_02_Colle_01_MC2E_Ordre2_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_01_Ch_02_Colle_01_MC2E_Ordre2_Corrige.pdf) | 
 | Tour en fosse utilisé pour le reprofilage des roues ferroviaires | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_01_Ch_02_Colle_03_PorteOutil_Sujet.pdf) | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_01_Ch_02_Colle_03_PorteOutil_Corrige.pdf) | 
 | Gyropode à usage professionnel HUBLEX | [:fontawesome-solid-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_01_Ch_02_Colle_04_Hublex_Sujet.pdf) | [:fontawesome-regular-file-pdf:](http://xpessoles-cpge.fr/pdf/Cy_01_Ch_02_Colle_04_Hublex_Corrige.pdf) | 
-
-Coucou {title="TEST"}
-
-[SUR MOI][REF]
-[REF]: ("BULLE")
 
 ### Colles 
  

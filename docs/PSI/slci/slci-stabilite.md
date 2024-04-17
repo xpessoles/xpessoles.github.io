@@ -1,6 +1,11 @@
 ---
 title: Stablité des systèmes 
+tags:
+  - C1-01 : Proposer une démarche permettant d'évaluer les performances des systèmes asservis.
+  - C2-03 : Déterminer les performances d'un système asservi.
+  - C1-03 : Choisir une démarche de résolution d’un problème d'ingénierie numérique ou d'intelligence artificielle.
 ---
+
 
 ### Applications 
  
