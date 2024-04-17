@@ -15,7 +15,7 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
   [ex2]: "I'm a tooltip!"
 
 
-[EX 2][ex2]
+[EX 4][ex4]
 
   [ex2]: "![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }"
 
