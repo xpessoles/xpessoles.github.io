@@ -7,12 +7,14 @@ title: Divers, Bac à sable
 
 [Hover me][example]
 
-  [example]: https://example.com "I'm a tooltip!"
-
+  [example]: https://example.com "I'm a tooltip avec lien"
+  
+### TEST
 
 [Ici][bulle]
 
-  [bulle]: "Ici Bulle"
+  [bulle]: {title= "Ici Bulle sans lien" }
+
 
  
  
