@@ -14,7 +14,7 @@ Coucouucu
  
 [Exemple a][exa]
 
-  [exa]: https://example.com "I'm a tooltip!"
+  [exa]: https://example.com "I'm a tooltip! ![Image title](https://dummyimage.com/120x80/eee/aaa){ align=left }"
 
 
 [Exemple B][exb]
