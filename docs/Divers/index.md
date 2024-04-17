@@ -11,9 +11,7 @@ title: Divers, Bac à sable
   
 ### TEST
 
-[Ici][bulle]
-
-  [bulle]: {title= "Ici Bulle sans lien" }
+Blablabla Bulle{title= "Ici Bulle sans lien" }
 
 
  
