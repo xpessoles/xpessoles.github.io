@@ -21,6 +21,7 @@ Coucouucu
   [exampleb]: ![Image title](../img/fig_00.jpg) "I'm a tooltip!"
 
 ```
+
 [Hover me][exampleb]
 
   [exampleb]: ![Image title](../img/fig_00.jpg) "I'm a tooltip!"
@@ -33,6 +34,7 @@ Coucouucu
 
   [examplea]:  "I'm a tooltip! ![Image title](../img/fig_00.jpg)"
 ```
+
 [Hover me][examplea]
 
   [examplea]:  "I'm a tooltip! ![Image title](../img/fig_00.jpg)"
