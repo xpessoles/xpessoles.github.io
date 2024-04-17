@@ -23,9 +23,9 @@ Coucouucu
 - [Attribute Lists]
 - [Snippets]
 
-  [Abbreviations]: ../setup/python-markdown.md#abbreviations
-  [Attribute Lists]: ../setup/python-markdown.md#attribute-lists
-  [Snippets]: ../setup/extensions/python-markdown-extensions.md#snippets
+  [Abbreviations]: Divers/python-markdown.md#abbreviations
+  [Attribute Lists]: Divers/python-markdown.md#attribute-lists
+  [Snippets]: Divers/extensions/python-markdown-extensions.md#snippets
  
 
 ## FIN TEST

@@ -152,13 +152,13 @@ nav:
       - Résolution du PFS 2D: Revisions/stat/stat-pfs-2d.md
       - Résolution du PFS 3D: Revisions/stat/stat-pfs-3d.md
 - Informatique:
-    - Cycle 1: 'Informatique/Cycle_01.md'
-    - Cycle 2: 'Informatique/Cycle_02.md'
+    - Cycle 1: Informatique/Cycle_01.md
+    - Cycle 2: Informatique/Cycle_02.md
 - Labo SII : 
-    - 'Accueil': 'Labo_SII/index.md'
+    - Accueil: Labo_SII/index.md
 - Divers : 
-    - Carte: 'Divers/map.md'
-    - Ce site: 'Divers/index.md'
-    - Index: 'Divers/tags.md'
+    - Carte: Divers/map.md
+    - Ce site: Divers/index.md
+    - Index: Divers/tags.md
     - Python Markdown: Divers/python-markdown.md
 
