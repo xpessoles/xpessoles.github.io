@@ -8,20 +8,22 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 [Hover me][example]
 
   [example]: https://example.com "I'm a tooltip!"
-  
-  
+
+Coucouucu
+
+ 
 [Exemple a][exa]
 
-  [exa]: "I'm a tooltip!"
+  [exa]: https://example.com "I'm a tooltip!"
 
 
 [Exemple B][exb]
 
-  [exb]: "![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }"
+  [exb]: "![Image title](https://dummyimage.com/120x80/eee/aaa){ align=left }"
 
 [Exemple c][exc]
 
-  [exc]: ![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
+  [exc]: ![Image title](https://dummyimage.com/120x80/eee/aaa){ align=left }
 
 
 
