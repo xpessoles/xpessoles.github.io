@@ -17,14 +17,20 @@ Coucouucu
   [exa]: https://example.com "I'm a tooltip! ![Image title](https://dummyimage.com/120x80/eee/aaa){ align=left }"
 
 
-[Exemple B][exb]
+## TEST
 
-  [exb]: "![Image title](https://dummyimage.com/120x80/eee/aaa){ align=left }"
+- [Abbreviations]
+- [Attribute Lists]
+- [Snippets]
 
-[Exemple c][exc]
+  [Abbreviations]: ../setup/extensions/python-markdown.md#abbreviations
+  [Attribute Lists]: ../setup/extensions/python-markdown.md#attribute-lists
+  [Snippets]: ../setup/extensions/python-markdown-extensions.md#snippets
+ 
 
-  [exc]: ![Image title](https://dummyimage.com/120x80/eee/aaa){ align=left }
+## FIN TEST
 
+blabla
 
 
 
