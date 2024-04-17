@@ -11,7 +11,9 @@ title: Divers, Bac à sable
   
 ### TEST
 
-Blablabla Bulle{title= "Ici Bulle sans lien" }
+Blablabla Bulle{ title="Ici Bulle sans lien" }
+
+:material-information-outline:{ title="Ca marche qu'avec les icônes ?" }
 
 
  
