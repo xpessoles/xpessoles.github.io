@@ -3,6 +3,9 @@
 Je vous souhaite la bienvenue sur ma nième tentative de réalisation d'un site web pour partager mes cours...
 J'espère que cette fois, je parviendrai à proposer un site pérenne et actualisé...
 
+:material-information-outline:{ title="Important information" }
+
+
 
 ## Quelques liens
 
