@@ -10,21 +10,21 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
   [example]: https://example.com "I'm a tooltip!"
   
   
-[EX 2][ex2]
+[Exemple a][exa]
 
-  [ex2]: "I'm a tooltip!"
-
-
-[EX 4][ex4]
-
-  [ex2]: "![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }"
-
-[EX 3][ex3]
-
-  [ex3]: ![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
+  [exa]: "I'm a tooltip!"
 
 
-![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
+[Exemple B][exb]
+
+  [exb]: "![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }"
+
+[Exemple c][exc]
+
+  [exc]: ![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
+
+
+
 
 ## Quelques liens
 
