@@ -8,6 +8,23 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 [Hover me][example]
 
   [example]: https://example.com "I'm a tooltip!"
+  
+  
+[EX 2][ex2]
+
+  [ex2]: "I'm a tooltip!"
+
+
+[EX 2][ex2]
+
+  [ex2]: "![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }"
+
+[EX 3][ex3]
+
+  [ex3]: ![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
+
+
+![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
 
 ## Quelques liens
 
