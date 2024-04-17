@@ -15,16 +15,27 @@ Coucouucu
  
  
 ### Test 1
-[Hover me][example]
+```
+[Hover me][exampleb]
 
-  [example]: ![Image title](../img/fig_00.jpg) "I'm a tooltip!"
+  [exampleb]: ![Image title](../img/fig_00.jpg) "I'm a tooltip!"
+
+```
+[Hover me][exampleb]
+
+  [exampleb]: ![Image title](../img/fig_00.jpg) "I'm a tooltip!"
   
 
  
 ### Test 2
-[Hover me][example]
+```
+[Hover me][examplea]
 
-  [example]:  "I'm a tooltip! ![Image title](../img/fig_00.jpg)"
+  [examplea]:  "I'm a tooltip! ![Image title](../img/fig_00.jpg)"
+```
+[Hover me][examplea]
+
+  [examplea]:  "I'm a tooltip! ![Image title](../img/fig_00.jpg)"
   
   
 ### Test 2bis
