@@ -3,14 +3,9 @@
 <!-- md:version 1.0.0 -->
 <!-- md:extension [abbr][Abbreviations] -->
 
-The [Abbreviations] extension adds the ability to add a small tooltip to an
-element, by wrapping it with an `abbr` tag. Only plain text (no markup) is
-supported. Enable it via `mkdocs.yml`:
+The [Abbreviations] extension adds the ability to add a small tooltip to an element, by wrapping it with an `abbr` tag. Only plain text (no markup) is supported. Enable it via `mkdocs.yml`:
 
-``` yaml
-markdown_extensions:
-  - abbr
-```
+
 
 No configuration options are available. See reference for usage:
 
