@@ -3,36 +3,6 @@
 Je vous souhaite la bienvenue sur ma nième tentative de réalisation d'un site web pour partager mes cours...
 J'espère que cette fois, je parviendrai à proposer un site pérenne et actualisé...
 
-:material-information-outline:{ title="Important information" }
-
-[Hover me][example]
-
-  [example]: https://example.com "I'm a tooltip!"
-
-Coucouucu
-
- 
-[Exemple a][exa]
-
-  [exa]: https://example.com "I'm a tooltip! ![Image title](https://dummyimage.com/120x80/eee/aaa){ align=left }"
-
-
-## TEST
-
-- [Abbreviations]
-- [Attribute Lists]
-- [Snippets]
-
-  [Abbreviations]: Divers/python-markdown.md#abbreviations
-  [Attribute Lists]: Divers/python-markdown.md#attribute-lists
-  [Snippets]: Divers/extensions/python-markdown-extensions.md#snippets
- 
-
-## FIN TEST
-
-blabla
-
-
 
 ## Quelques liens
 
