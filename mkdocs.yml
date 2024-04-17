@@ -155,10 +155,8 @@ nav:
 - Informatique:
     - Cycle 1: Informatique/Cycle_01.md
     - Cycle 2: Informatique/Cycle_02.md
-- Labo SII : 
-    - Accueil: 
-      - Labo_SII/index.md
-      - BGR-300 : Labo_SII/bgr-300.md
+- Labo SII : Labo_SII/index.md
+    - BGR-300 : Labo_SII/bgr-300.md
     
 - Divers : 
     - Carte: Divers/map.md
