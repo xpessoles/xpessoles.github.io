@@ -1,8 +1,8 @@
 ---
 title: Modélisation par schéma-blocs 
 tags:
-  - B2-07 : Modéliser un système par schéma-blocs.
-  - C2-03 : Déterminer les performances d'un système asservi.
+  - B2-07
+  - C2-03
 ---
 
 

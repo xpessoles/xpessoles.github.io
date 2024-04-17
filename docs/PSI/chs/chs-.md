@@ -1,7 +1,7 @@
 ---
 title: Théorie des mécanismes 
 tags:
-  - B2-16 : Modifier un modèle pour le rendre isostatique.
+  - B2-16
 ---
 
 

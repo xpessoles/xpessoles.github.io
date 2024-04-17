@@ -1,8 +1,8 @@
 ---
 title: PFD - Chaînes fermées 
 tags:
-  - C1-05 : Proposer une démarche permettant la détermination d’une action mécanique inconnue ou d'une loi de mouvement.
-  - C2-09 : Déterminer la loi de mouvement dans le cas où les efforts extérieurs sont connus.
+  - C1-05
+  - C2-09
 ---
 
 

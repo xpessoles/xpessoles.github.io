@@ -1,9 +1,9 @@
 ---
 title: Modélisation des AM 
 tags:
-  - B2-14 : Modéliser une action mécanique.
-  - C1-05 : Proposer une démarche permettant la détermination d’une action mécanique inconnue ou d'une loi de mouvement.
-  - C2-07 : Déterminer les actions mécaniques en statique.
+  - B2-14
+  - C1-05
+  - C2-07
 ---
 
 

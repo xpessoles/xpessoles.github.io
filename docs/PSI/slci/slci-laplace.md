@@ -1,9 +1,9 @@
 ---
 title: Transformée de Laplace 
 tags:
-  - B2-07 : Modéliser un système par schéma-blocs.
-  - B2-04 : Établir un modèle de connaissance par des fonctions de transfert.
-  - C2-03 : Déterminer les performances d'un système asservi.
+  - B2-07
+  - B2-04
+  - C2-03
 ---
 
 

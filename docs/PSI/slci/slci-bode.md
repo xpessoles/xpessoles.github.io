@@ -1,7 +1,7 @@
 ---
 title: Analyse fréquentielle des SLCI 
 tags:
-  - B2-04 : Établir un modèle de connaissance par des fonctions de transfert.
+  - B2-04
 ---
 
 

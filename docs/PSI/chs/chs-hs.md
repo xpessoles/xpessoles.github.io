@@ -1,9 +1,9 @@
 ---
 title: Théorie des mécanismes 
 tags:
-  - B2-16 : Modifier un modèle pour le rendre isostatique.
-  - C1-02 : Proposer une démarche de réglage d'un correcteur.
-  - C2-04 : Mettre en œuvre une démarche de réglage d’un correcteur.
+  - B2-16
+  - C1-02
+  - C2-04
 ---
 
 
