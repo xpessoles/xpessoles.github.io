@@ -101,10 +101,10 @@ nav:
     - Modélisation des SLCI: 
       - Transformée de Laplace: PSI/slci/slci-laplace.md
       - Modélisation par schéma-blocs: PSI/slci/slci-blocs.md
-      - Systèmes d'ordre 1 et 2:  PSI/slci/slci-ordre12.md
+#      - Systèmes d'ordre 1 et 2:  PSI/slci/slci-ordre12.md
       - Analyse fréquentielle: PSI/slci/slci-bode.md
     - Performances des SLCI: 
-      - PSI/slci/slci-perf.md
+      #- PSI/slci/slci-perf.md
       - Stablité des systèmes: PSI/slci/slci-stabilite.md
       - Précision des systèmes: PSI/slci/slci-precision.md
       - Rapidité des systèmes: PSI/slci/slci-rapidite.md
