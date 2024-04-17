@@ -142,11 +142,12 @@ nav:
     - Revisions/index.md
     - Cinématique: 
       - Revisions/cin/index.md
+      - Géométrie: Revisions/cin/cin-geo.md
       - Modélisation: Revisions/cin/cin-mod.md
       - Résolution cinématique: Revisions/cin/cin-va.md
       - Cinématique du point: Revisions/cin/cin-point.md
     - Statique: 
-      - Revisions/stat/stat.md
+      - Revisions/stat/index.md
       - Modélisation des AM: Revisions/stat/stat-mam.md
       - Frottement sec: Revisions/stat/stat-frot.md
       - Résolution du PFS 2D: Revisions/stat/stat-pfs-2d.md
