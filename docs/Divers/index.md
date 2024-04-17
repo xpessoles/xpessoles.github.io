@@ -11,15 +11,23 @@ title: Divers, Bac à sable
 
 Coucouucu
 
-### Test 1
-
- ![Image title](img/fig_00.jpg){ align=left }
-
-### Test 2
-
- ![Image title](fig_00.jpg){ align=left }
  
- ### Test 2bis
+ 
+ 
+### Test 1
+[Hover me][example]
+
+  [example]: ![Image title](../img/fig_00.jpg) "I'm a tooltip!"
+  
+
+ 
+### Test 2
+[Hover me][example]
+
+  [example]:  "I'm a tooltip! ![Image title](../img/fig_00.jpg)"
+  
+  
+### Test 2bis
 
  ![Image title](../img/fig_00.jpg){ align=left }
 
