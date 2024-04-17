@@ -24,7 +24,7 @@ Coucouucu
 
 [Hover me][exampleb]
 
-  [exampleb]: ![Image title](../img/fig_00.jpg) "I'm a tooltip!"
+  [exampleb]: https://xpessoles.github.io/img/fig_00.jpg "I'm a tooltip!"
   
 
  
