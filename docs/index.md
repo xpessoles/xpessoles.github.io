@@ -23,8 +23,8 @@ Coucouucu
 - [Attribute Lists]
 - [Snippets]
 
-  [Abbreviations]: ../setup/extensions/python-markdown.md#abbreviations
-  [Attribute Lists]: ../setup/extensions/python-markdown.md#attribute-lists
+  [Abbreviations]: ../setup/python-markdown.md#abbreviations
+  [Attribute Lists]: ../setup/python-markdown.md#attribute-lists
   [Snippets]: ../setup/extensions/python-markdown-extensions.md#snippets
  
 
