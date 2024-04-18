@@ -2,7 +2,7 @@
 title: PSI
 ---
 
-[Les polys de l'année 2023-2024](PSI/2023_2024.md){ .md-button .md-button--primary }
+[Polycopiés 2023-2024](2023_2024.md){ .md-button .md-button--primary }
 
 
 <div class="grid cards" markdown>
@@ -13,7 +13,9 @@ title: PSI
 
     Rappels sur la modélisation des Systèmes Linéaires Continus Invariants.
 	
-    [:octicons-arrow-right-24: Modélisation des SLCI](#)
+    [:octicons-arrow-right-24: Transformée de Laplace](slci-laplace.md)
+	[:octicons-arrow-right-24: Modélisation par schéma blocs](slci-blocs.md)
+	[:octicons-arrow-right-24: Analyse fréquentielle](slci-bode)
 
 -   :octicons-graph-16:{ .lg .middle } __Performances des SLCI__
 
