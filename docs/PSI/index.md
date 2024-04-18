@@ -13,9 +13,11 @@ title: PSI
 
     Rappels sur la modélisation des Systèmes Linéaires Continus Invariants.
 	
-    [:octicons-arrow-right-24: Transformée de Laplace](slci-laplace.md)
-	[:octicons-arrow-right-24: Modélisation par schéma blocs](slci-blocs.md)
-	[:octicons-arrow-right-24: Analyse fréquentielle](slci-bode)
+    [:octicons-arrow-right-24: Transformée de Laplace](slci/slci-laplace.md)
+	
+	[:octicons-arrow-right-24: Modélisation par schéma blocs](slci/slci-blocs.md)
+	
+	[:octicons-arrow-right-24: Analyse fréquentielle](slci/slci-bode)
 
 -   :octicons-graph-16:{ .lg .middle } __Performances des SLCI__
 
