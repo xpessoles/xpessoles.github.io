@@ -7,22 +7,12 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 <div class="grid cards" markdown>
 
 - [Documents 2023-2024](https://xpessoles.github.io/PSI/2023_2024/)
-- [Documents PSI] (PSI/)
-- [Révisions Sup] (Revisions/index.md)
-- [Informatique] (Informatique/index.md)
+- [Documents PSI] (https://xpessoles.github.io/PSI/)
+- [Révisions Sup] (https://xpessoles.github.io/Revisions/)
+- [Informatique] (https://xpessoles.github.io/Informatique/)
 
 </div>
 
-[Documents 2023-2024]: https://xpessoles.github.io/PSI/2023_2024/
-
-
-[Documents 2023-2024](https://xpessoles.github.io/PSI/2023_2024/){ .md-button .md-button--primary }
-
-[Documents PSI](https://xpessoles.github.io/PSI/){ .md-button .md-button--primary }
-
-[Révisions Sup](https://xpessoles.github.io/Revisions/){ .md-button .md-button--primary }
-
-[Informatique](https://xpessoles.github.io/Informatique/){ .md-button .md-button--primary }
 
 
 ## Quelques liens
