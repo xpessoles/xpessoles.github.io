@@ -6,9 +6,9 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 
 <div class="grid cards" markdown>
 
-- [Documents 2023-2024](https://xpessoles.github.io/PSI/2023_2024/)
-- [Documents PSI](https://xpessoles.github.io/PSI/)
-- [Révisions Sup](https://xpessoles.github.io/Revisions/)
+- [Documents 2023-2024](PSI/2023_2024/)
+- [Documents PSI](PSI/)
+- [Révisions Sup](Revisions/)
 - [Informatique](Informatique/)
 
 </div>
