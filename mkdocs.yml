@@ -103,38 +103,45 @@ nav:
       - Modélisation par schéma-blocs: PSI/slci/slci-blocs.md
 #      - Systèmes d'ordre 1 et 2:  PSI/slci/slci-ordre12.md
       - Analyse fréquentielle: PSI/slci/slci-bode.md
+      - Synthèse: PSI/slci/slci-synthese.md
     - Performances des SLCI: 
       #- PSI/slci/slci-perf.md
       - Stablité des systèmes: PSI/slci/slci-stabilite.md
       - Précision des systèmes: PSI/slci/slci-precision.md
       - Rapidité des systèmes: PSI/slci/slci-rapidite.md
+      - Révisions: PSI/slci/slci-revisions.md
     - Modélisation polyphysique: PSI/slci/slci-multiphy.md
     - Correction des SLCI:
-      - PSI/cor/index.md
+      #- PSI/cor/index.md
       - Correcteur proportionnel: PSI/slci/slci-p.md
       - Correcteur proportionnel intégral: PSI/slci/slci-pi.md
       - Correcteur à avance de phase: PSI/slci/slci-ap.md
       - Correcteur à retard de phase: PSI/slci/slci-rp.md
+      - Correcteur: PSI/slci/slci-correcteur.md
+      - Correcteurs: PSI/slci/slci-correcteurs.md
+      - Commande des systèmes: PSI/slci/slci-commande.md
     - Théorie des mécanismes:
-      - PSI/chs/index.md
+      #- PSI/chs/index.md
       - Liaisons équivalentes: PSI/chs/chs-leq.md
       - Théorie des mécanismes: PSI/chs/chs-hs.md
     - Dynamique: 
-      - PSI/dyn/index.md
+      #- PSI/dyn/index.md
       - Caractéristiques inertielles: PSI/dyn/dyn-inertie.md
       - Cinétique: PSI/dyn/dyn-cin.md
+      - PFD - Mouvements 1d: PSI/dyn/dyn-1d.md
+      - PFD: PSI/dyn/dyn-pfd.md
       - PFD - Chaînes ouvertes: PSI/dyn/dyn-pfd-co.md
       - PFD - Chaînes fermées: PSI/dyn/dyn-pfd-cf.md
       - PFD - Véhicules: PSI/dyn/dyn-pfd-vehicule.md
     - Energétique:
-      - PSI/tec/index.md
+      #- PSI/tec/index.md
       - Cours: PSI/tec/tec-cours.md
       - Inertie équivalente: PSI/tec/tec-jeq.md
       - TEC Mouvements simples: PSI/tec/tec-1d.md
       - TEC Mouvements complexes: PSI/tec/tec-3d.md
       - TEC Véhicules: PSI/tec/tec-vehicule.md
     - Résolution numérique:
-      - PSI/num/index.md
+      #- PSI/num/index.md
       - Méthodes numériques : PSI/num/num-mn.md
       - Introduction IA : PSI/num/num-ia.md
       - Introduction RN : PSI/num/num-rn.md

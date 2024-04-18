@@ -25,7 +25,13 @@ title: PSI
 
     Rappels sur l'évaluation des performances des SLCI
 
-    [:octicons-arrow-right-24: Performances des SLCI](#)
+    [:octicons-arrow-right-24: Stabilité des systèmes](slci/slci-stabilite)
+	
+	[:octicons-arrow-right-24: Précisions des systèmes](slci/slci-precision)
+	
+	[:octicons-arrow-right-24: Rapidité des systèmes](slci/slci-rapidite)
+	
+	[:octicons-arrow-right-24: Rapidité des systèmes](slci/slci-revisions)
 
 -   -   :material-resistor:{ .lg .middle } __Modélisation des systèmes polyphysiques__
 
@@ -41,7 +47,9 @@ title: PSI
 
     Théorie des mécanismes : détermination des liaisons équivalentes et analyse de l'hyperstaticité dans les mécanismes.
 
-    [:octicons-arrow-right-24: Théorie des mécanismes](#)
+    ![:octicons-arrow-right-24: Liaisons équivalentes](chs/chs-leq.md)
+
+	![:octicons-arrow-right-24: Hyperstatisme](chs/chs-hs.md)
 
 -   :simple-target:{ .lg .middle } __Correcteurs des SLCI__
 
@@ -49,7 +57,18 @@ title: PSI
 
     Analyse et conception des correcteurs des systèmes asservis
 
-    [:octicons-arrow-right-24: Correction des SLCI](#)
+    [:octicons-arrow-right-24: Correcteur P](slci/slci-p.md)
+	
+	[:octicons-arrow-right-24: Correcteur PI](slci/slci-pi.md)
+	
+	[:octicons-arrow-right-24: Correcteur à avance de phase](slci/slci-ap.md)
+	
+	[:octicons-arrow-right-24: Correcteur à retard de phase](slci/slci-rp.md)
+	
+	[:octicons-arrow-right-24: Correcteur](slci/slci-correcteur.md)
+	[:octicons-arrow-right-24: Correcteurs](slci/slci-correcteurs.md)
+	
+	[:octicons-arrow-right-24: Commande des systèmes](slci/slci-commande.md)
 
 -   :material-engine-outline:{ .lg .middle } __Dynamique__
 
@@ -57,7 +76,19 @@ title: PSI
 
     Détermination des lois de mouvements, dimensionnement des liaisons et des actionneurs en utilisant le principe fondamental de la dynamique
 
-    [:octicons-arrow-right-24: Energétique](#)
+    [:octicons-arrow-right-24: Caractéristiques inertielles des solides](dyn/dyn-inertie)
+	
+	[:octicons-arrow-right-24: Torseurs cinétiques et dynamiques](dyn/dyn-cin)
+	
+	[:octicons-arrow-right-24: PFD dans les problèmes 1d](dyn/dyn-1d)
+	
+	[:octicons-arrow-right-24: PFD](dyn/dyn-pfd)
+	
+	[:octicons-arrow-right-24: PFD - Chaînes ouvertes](dyn/dyn-pfd-co)
+	
+	[:octicons-arrow-right-24: PFD - Chaînes fermées](dyn/dyn-pfd-cf)
+	
+	[:octicons-arrow-right-24: PFD - Véhicules](dyn/dyn-pfd-vehicule)
 	
 -   :material-wind-power:{ .lg .middle } __Energétique__
 
@@ -65,8 +96,13 @@ title: PSI
 
     Détermination des lois de mouvements et dimensionnement des actionneurs en utilisant une approche énergétique
 
-    [:octicons-arrow-right-24: Energétique](#)
+    [:octicons-arrow-right-24: Caractéristiques inertielles](tec/tec-jeq.md)
+	
+	[:octicons-arrow-right-24: TEC Mouvements simples](tec/tec-1d.md)
+	
+	[:octicons-arrow-right-24: TEC Mouvements complexes](tec/tec-3d.md)
+	
+	[:octicons-arrow-right-24: EnergétiqueTEC Véhicules(tec/tec-vehicule.md)
 	
 </div>
-
 
