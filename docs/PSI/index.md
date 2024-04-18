@@ -33,7 +33,7 @@ title: PSI
 	
 	[:octicons-arrow-right-24: Rapidité des systèmes](slci/slci-revisions)
 
--   -   :material-resistor:{ .lg .middle } __Modélisation des systèmes polyphysiques__
+-   :material-resistor:{ .lg .middle } __Modélisation des systèmes polyphysiques__
 
     ---
 
@@ -47,9 +47,9 @@ title: PSI
 
     Théorie des mécanismes : détermination des liaisons équivalentes et analyse de l'hyperstaticité dans les mécanismes.
 
-    ![:octicons-arrow-right-24: Liaisons équivalentes](chs/chs-leq.md)
+    [:octicons-arrow-right-24: Liaisons équivalentes](chs/chs-leq.md)
 
-	![:octicons-arrow-right-24: Hyperstatisme](chs/chs-hs.md)
+	[:octicons-arrow-right-24: Hyperstatisme](chs/chs-hs.md)
 
 -   :simple-target:{ .lg .middle } __Correcteurs des SLCI__
 
