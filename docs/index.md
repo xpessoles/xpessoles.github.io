@@ -6,12 +6,14 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 
 <div class="grid cards" markdown>
 
-- [Documents 2023-2024] (PSI/2023_2024.md)
+- [Documents 2023-2024] 
 - [Documents PSI] (PSI/index.md)
 - [Révisions Sup] (Revisions/index.md)
 - [Informatique] (Informatique/index.md)
 
 </div>
+
+[Documents 2023-2024]: https://xpessoles.github.io/PSI/2023_2024/
 
 ## Quelques liens
 
