@@ -102,7 +102,7 @@ title: PSI
 	
 	[:octicons-arrow-right-24: TEC Mouvements complexes](tec/tec-3d.md)
 	
-	[:octicons-arrow-right-24: EnergétiqueTEC Véhicules(tec/tec-vehicule.md)
+	[:octicons-arrow-right-24: EnergétiqueTEC Véhicules](tec/tec-vehicule.md)
 	
 </div>
 
