@@ -2,8 +2,7 @@
 title: Informatique
 ---
 
-Suite ...
+<div class="grid cards" markdown>
 
-
-
-Vous trouverez ici des ressources pour les élèves de PSI.
+- [Documents 2023-2024](2023_2024/)
+</div>
