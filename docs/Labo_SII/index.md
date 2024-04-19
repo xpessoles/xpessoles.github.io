@@ -2,6 +2,10 @@ TO DO
 
 
 
+<a href="icone_capytale_128.png" class="glightbox">
+  <img src="../img/icone_capytale_128.png" alt="image" />
+</a>
+
 
 <div class="grid cards" markdown>
 
@@ -9,8 +13,9 @@ TO DO
 
     ---
 
-    Boule girostabilisée DIDASTEL.
-	
+    Boule gyrostabilisée DIDASTEL.
+	![BGR-300](../img/icone_capytale_128.png){ align=left }
+
     [:octicons-arrow-right-24: BGR-300](bgr-300)
 	
 -   :octicons-graph-16:{ .lg .middle } __Bras Beta__
