@@ -42,7 +42,9 @@ plugins:
   - search
   - tags:  
       tags_file: Divers/tags.md
-
+  - mkdocs-jupyter
+  
+  
 extra:
   social:
     - icon: fontawesome/brands/github-alt
@@ -175,4 +177,5 @@ nav:
     - Ce site: Divers/index.md
     - Index: Divers/tags.md
     - Python Markdown: Divers/python-markdown.md
+    - Jupyter: Divers/archive/test.ipynb
 
