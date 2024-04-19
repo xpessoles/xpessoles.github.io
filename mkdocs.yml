@@ -14,6 +14,8 @@ theme:
     - content.code.annotation
     - content.code.copy
     - content.tooltips  # pour les infobulles sur les mots ?
+  icon: 
+    logo: bootstrap/logo-capytale
   language: fr
   palette:
     - scheme: default
@@ -80,6 +82,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:  # Ajouter de nouveaux icones
+        custom_icons:
+          - overrides/.icons
   - toc:
       permalink: true
   
