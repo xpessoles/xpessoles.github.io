@@ -42,7 +42,7 @@ plugins:
   - search
   - tags:  
       tags_file: Divers/tags.md
-  - glightbox
+  #- glightbox Marche pas
   #- mkdocs-jupyter # CA MARCHE PAS
   
   
