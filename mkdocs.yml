@@ -170,9 +170,34 @@ nav:
 - Informatique:
     - Informatique/index.md
     - 2023-2024: Informatique/2023-2024.md
-- Labo SII : 
-    - Labo_SII/index.md
+- Labo SII: 
+    - Labo_SII/index.md 
     - BGR-300 : Labo_SII/bgr-300.md
+    - Bras BETA : Labo_SII/bras-beta.md
+    - Cheville NAO : Labo_SII/cheville-nao.md
+    - CoMAX : Labo_SII/comax.md
+    - ControlX : Labo_SII/controlx.md
+    - Cordeuse : Labo_SII/cordeuse.md
+    - Direction Assistée Electrique : Labo_SII/dae.md
+    - D2C : Labo_SII/d2c.md
+    - Ericc 3 : Labo_SII/ericc.md
+    - Evolap : Labo_SII/evolap.md
+    - MaxPID : Labo_SII/maxpid.md
+    - Moteur à courant continu : Labo_SII/moteurcc.md
+    - Moby Crea : Labo_SII/moby-crea.md
+    - Pilote Automatique de Voilier : Labo_SII/pilote-auto.md
+    - Portail ABB : Labo_SII/portail.md
+    - Robot à câbles RC4 : Labo_SII/rc4.md
+    - Robot Delta 2D : Labo_SII/robot-delta.md
+    - Robot Haptique : Labo_SII/robot-haptique.md
+    - Barrière Symapct : Labo_SII/sympact.md
+    - Toit de 206 cc : Labo_SII/toit-206.md
+    - Tourelle 2 axes : Labo_SII/tourelle.md
+    - Imprimante 3D : Labo_SII/i3d.md
+    - Plateforme 6 axes : Labo_SII/plateforme.md
+    - Arduino : Labo_SII/arduino.md
+    - Solidworks : Labo_SII/sw.md
+    - Matlab Simulink : Labo_SII/matlab.md
 - Divers : 
     - Carte: Divers/map.md
     - Ce site: Divers/index.md

@@ -221,7 +221,7 @@
     --- 
  
     Modélisation géométrique et cinématique avec SolidWors et Méca 3D. [Dassault Systèmes](https://www.3ds.com/fr/)
-    ![Solidworks](../img/sw.png){ align=left } 
+    ![Solidworks](../img/sw.svg){ align=left } 
  
     [:octicons-arrow-right-24: Solidworks](sw) 
 

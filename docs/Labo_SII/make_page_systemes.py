@@ -282,7 +282,7 @@ liste_dico_syst = [
     'equip'         :'Dassault Systèmes',
     'site_equip'    :'https://www.3ds.com/fr/',
     'description'   :"Modélisation géométrique et cinématique avec SolidWors et Méca 3D.",
-    'logo'          :"../img/sw.png",
+    'logo'          :"../img/sw.svg",
     'page'          :"sw",
     'flag'          :True
     },
@@ -317,6 +317,19 @@ def creation_index(liste_sys):
             fid.write("    [:octicons-arrow-right-24: "+systeme['nom']+"]("+systeme['page']+ ") \n\n")
     fid.close()
 
+def creation_nav(liste_sys):
+    """
+    Création de fichiers correspodas aux systèmes
+    """
+    fid = open("nav_labo.yml","w",encoding = 'utf8')
+    fid.write('- Labo SII: \n')
+    fid.write('    - Labo_SII/index.md \n')
+
+    for systeme in liste_sys :
+        if systeme['flag']:
+            fid.write('    - '+systeme['nom']+' : Labo_SII/'+systeme['systeme']+'.md\n')
+    fid.close()
+
 def creation_fichiers_systemes(liste_sys):
     """
     Création de fichiers correspodas aux systèmes
@@ -329,3 +342,4 @@ def creation_fichiers_systemes(liste_sys):
 
 creation_index(liste_dico_syst)
 creation_fichiers_systemes(liste_dico_syst)
+creation_nav(liste_dico_syst)
