@@ -13,8 +13,8 @@ TO DO
 
     ---
 
-    Boule gyrostabilisée DIDASTEL.
-	![BGR-300](../img/icone_capytale_128.png){ align=left }
+    Boule gyrostabilisée [DIDASTEL](http://www.didastel.fr/}.
+	![BGR-300](../img/ibgr-300.png){ align=left }
 
     [:octicons-arrow-right-24: BGR-300](bgr-300)
 	
@@ -22,7 +22,9 @@ TO DO
 
     ---
 
-    [Bras Beta S2IDIDAC](https://s2ididac.com/)
+    Bras Beta [S2IDIDAC](https://s2ididac.com/)
+	
+	![Bras Beta](../img/bras-beta.png){ align=left }
 	
     [:octicons-arrow-right-24: Bras Beta](bras-beta)
 
@@ -30,39 +32,49 @@ TO DO
 
     ---
 
-    .
+    Cheville du robot NAO - ERM
 	
-    [:octicons-arrow-right-24: BGR-300](cheville-nao)
+	![Bras Beta](../img/cheville-nao.png){ align=left }
+	
+    [:octicons-arrow-right-24: Cheville NAO](cheville-nao)
 
 -   :octicons-graph-16:{ .lg .middle } __CoMAX__
 
     ---
 
-    .
+    Robot CoMAX, assistance au maniement de charges lourdes [Didastel](http://www.didastel.fr/}
 	
-    [:octicons-arrow-right-24: BGR-300](comax)
+	![CoMAX](../img/comax.png){ align=left }
+	
+    [:octicons-arrow-right-24: CoMAX](comax)
 
 -   :octicons-graph-16:{ .lg .middle } __ControlX__
 
     ---
 
-    .
+    Commande d'axe industriel linéaire
 	
-    [:octicons-arrow-right-24: BGR-300](control-x)
+	![ControlX](../img/control-x.png){ align=left }
+	
+    [:octicons-arrow-right-24: ControlX](control-x)
 
 -   :octicons-graph-16:{ .lg .middle } __Cordeuse de raquette__
 
     ---
 
-    .
+    Cordeuse de raquette
 	
-    [:octicons-arrow-right-24: BGR-300](cordeuse)
+	![Cordeuse de raquette](../img/cordeuse.png){ align=left }
+	
+    [:octicons-arrow-right-24: Cordeuse](cordeuse)
 
 -   :octicons-graph-16:{ .lg .middle } __Direction Assistée Electrique__
 
     ---
 
-    .
+    Direction assistée électriqued de Twingo
+	
+	![DAE](../img/dae.png){ align=left }
 	
     [:octicons-arrow-right-24: DAE](dae)
 
@@ -70,7 +82,9 @@ TO DO
 
     ---
 
-	.
+	Drone didactique controlé. Asservissement de l'axe de tangage
+	
+	![D2C](../img/d2c.png){ align=left }
 	
     [:octicons-arrow-right-24: D2C](d2c)
 
@@ -78,7 +92,9 @@ TO DO
 
     ---
 
-    Ericc.
+    Robot industriel 6 axes
+	
+	![EriccC](../img/ericc.png){ align=left }
 	
     [:octicons-arrow-right-24: Ericc](ericc)
 
@@ -86,7 +102,9 @@ TO DO
 
     ---
 
-    MaxPID et MaxPID-E
+    Robots MaxPID et MaxPID-E
+	
+	![MaxPID](../img/maxpid.png){ align=left }
 	
     [:octicons-arrow-right-24: MaxPID](maxpid)	
 	
