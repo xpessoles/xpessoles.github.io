@@ -304,9 +304,10 @@ def creation_index(liste_sys):
     """
     Creation de la page index.md des systèmes.
     """
-    print("Creatio du fichier index.md")
-    fid = open('index.md',"w",encoding='utf8')
+    print("Creation du fichier index.md")
 
+    fid = open('index.md',"w",encoding='utf8')
+    fid.write('[comment]: <> (Généré automatiquement par make_page_systemes.py, creation_index)\n\n')
     fid.write('<div class="grid cards" markdown> \n')
     fid.write('\n')
     for systeme in liste_sys :
@@ -322,6 +323,7 @@ def creation_nav(liste_sys):
     """
     Création du fichier du paragraphe de nav à ajouter dans mkdocs.yml
     """
+
     fid = open("nav_labo.yml","w",encoding = 'utf8')
     fid.write('- Labo SII: \n')
     fid.write('    - Labo_SII/index.md \n')
@@ -338,12 +340,14 @@ def creation_fichiers_systemes(liste_sys):
     """
     Création de fichiers correspodas aux systèmes
     """
+    print("Creation d'un fichier md par système.")
     for systeme in liste_sys :
         fid = open(systeme['page']+".md","w",encoding = 'utf8')
+        fid.write('[comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)\n\n')
         fid.write('## TODO  \n')
         fid.close()
 
 
 creation_index(liste_dico_syst)
-#creation_fichiers_systemes(liste_dico_syst)
+creation_fichiers_systemes(liste_dico_syst)
 #creation_nav(liste_dico_syst)

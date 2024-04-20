@@ -1,3 +1,5 @@
+[comment]: <> (Généré automatiquement par make_page_systemes.py, creation_index)
+
 <div class="grid cards" markdown> 
 
 -   :octicons-graph-16:{ .lg .middle } __BGR-300__
