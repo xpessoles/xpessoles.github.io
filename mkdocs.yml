@@ -129,9 +129,10 @@ nav:
       - Correcteurs: PSI/slci/slci-correcteurs.md
       - Commande des systèmes: PSI/slci/slci-commande.md
     - Théorie des mécanismes:
-      #- PSI/chs/index.md
+      - PSI/chs/index.md
       - Liaisons équivalentes: PSI/chs/chs-leq.md
       - Théorie des mécanismes: PSI/chs/chs-hs.md
+      - PSI/chs/chs-.md
     - Dynamique: 
       #- PSI/dyn/index.md
       - Caractéristiques inertielles: PSI/dyn/dyn-inertie.md
@@ -141,6 +142,7 @@ nav:
       - PFD - Chaînes ouvertes: PSI/dyn/dyn-pfd-co.md
       - PFD - Chaînes fermées: PSI/dyn/dyn-pfd-cf.md
       - PFD - Véhicules: PSI/dyn/dyn-pfd-vehicule.md
+      - PSI/dyn/dyn-.md
     - Energétique:
       #- PSI/tec/index.md
       #- Cours: PSI/tec/tec-cours.md
@@ -148,8 +150,9 @@ nav:
       - TEC Mouvements simples: PSI/tec/tec-1d.md
       - TEC Mouvements complexes: PSI/tec/tec-3d.md
       - TEC Véhicules: PSI/tec/tec-vehicule.md
-    - Résolution numérique:
-      - PSI/num/index.md
+      - PSI/tec/tec-.md
+    #- Résolution numérique:
+      #- PSI/num/index.md
       #- Méthodes numériques : PSI/num/num-mn.md
       #- Introduction IA : PSI/num/num-ia.md
       #- Introduction RN : PSI/num/num-rn.md
@@ -202,6 +205,5 @@ nav:
     - Carte: Divers/map.md
     - Ce site: Divers/index.md
     - Index: Divers/tags.md
-    - Python Markdown: Divers/python-markdown.md
     - Jupyter: Divers/archive/test.ipynb
 

@@ -61,7 +61,6 @@ Blablabla Bulle{ title="Ici Bulle sans lien" }
 
 
 
-
 ## Configuration
 * mkdocs-material
 * Github

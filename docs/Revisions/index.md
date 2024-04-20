@@ -2,6 +2,7 @@
 title: Révisions de Première année
 ---
 
+[comment]: <> (Page manuelle)
 
 <div class="grid cards" markdown>
 
@@ -26,12 +27,12 @@ title: Révisions de Première année
 
     Rappels de statique.
 
-    [:octicons-arrow-right-24: Modélisation des actions mécaniques](stat/stat-mam)
+    [:octicons-arrow-right-24: Modélisation des actions mécaniques](stat/stat-mam.md)
 	
-	[:octicons-arrow-right-24: Frottement sec](stat/stat-frot)
+	[:octicons-arrow-right-24: Frottement sec](stat/stat-frot.md)
 	
-	[:octicons-arrow-right-24: Résolution des problèmes plans](stat/stat-pfs-2d)
+	[:octicons-arrow-right-24: Résolution des problèmes plans](stat/stat-pfs-2d.md)
 	
-	[:octicons-arrow-right-24: Résolution des problèmes 3D](stat/stat-pfs-3d)
+	[:octicons-arrow-right-24: Résolution des problèmes 3D](stat/stat-pfs-3d.md)
 	
 </div>

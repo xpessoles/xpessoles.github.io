@@ -2,6 +2,8 @@
 title: PSI
 ---
 
+[comment]: <> (Page manuelle)
+
 [Polycopiés 2023-2024](2023_2024.md){ .md-button .md-button--primary }
 
 
@@ -17,7 +19,7 @@ title: PSI
 	
 	[:octicons-arrow-right-24: Modélisation par schéma blocs](slci/slci-blocs.md)
 	
-	[:octicons-arrow-right-24: Analyse fréquentielle](slci/slci-bode)
+	[:octicons-arrow-right-24: Analyse fréquentielle](slci/slci-bode.md)
 
 -   :octicons-graph-16:{ .lg .middle } __Performances des SLCI__
 
@@ -25,13 +27,13 @@ title: PSI
 
     Rappels sur l'évaluation des performances des SLCI
 
-    [:octicons-arrow-right-24: Stabilité des systèmes](slci/slci-stabilite)
+    [:octicons-arrow-right-24: Stabilité des systèmes](slci/slci-stabilite.md)
 	
-	[:octicons-arrow-right-24: Précisions des systèmes](slci/slci-precision)
+	[:octicons-arrow-right-24: Précisions des systèmes](slci/slci-precision.md)
 	
-	[:octicons-arrow-right-24: Rapidité des systèmes](slci/slci-rapidite)
+	[:octicons-arrow-right-24: Rapidité des systèmes](slci/slci-rapidite.md)
 	
-	[:octicons-arrow-right-24: Rapidité des systèmes](slci/slci-revisions)
+	[:octicons-arrow-right-24: Rapidité des systèmes](slci/slci-revisions.md)
 
 -   :material-resistor:{ .lg .middle } __Modélisation des systèmes polyphysiques__
 
@@ -76,19 +78,19 @@ title: PSI
 
     Détermination des lois de mouvements, dimensionnement des liaisons et des actionneurs en utilisant le principe fondamental de la dynamique
 
-    [:octicons-arrow-right-24: Caractéristiques inertielles des solides](dyn/dyn-inertie)
+    [:octicons-arrow-right-24: Caractéristiques inertielles des solides](dyn/dyn-inertie.md)
 	
-	[:octicons-arrow-right-24: Torseurs cinétiques et dynamiques](dyn/dyn-cin)
+	[:octicons-arrow-right-24: Torseurs cinétiques et dynamiques](dyn/dyn-cin.md)
 	
-	[:octicons-arrow-right-24: PFD dans les problèmes 1d](dyn/dyn-1d)
+	[:octicons-arrow-right-24: PFD dans les problèmes 1d](dyn/dyn-1d.md)
 	
-	[:octicons-arrow-right-24: PFD](dyn/dyn-pfd)
+	[:octicons-arrow-right-24: PFD](dyn/dyn-pfd.md)
 	
-	[:octicons-arrow-right-24: PFD - Chaînes ouvertes](dyn/dyn-pfd-co)
+	[:octicons-arrow-right-24: PFD - Chaînes ouvertes](dyn/dyn-pfd-co.md)
 	
-	[:octicons-arrow-right-24: PFD - Chaînes fermées](dyn/dyn-pfd-cf)
+	[:octicons-arrow-right-24: PFD - Chaînes fermées](dyn/dyn-pfd-cf.md)
 	
-	[:octicons-arrow-right-24: PFD - Véhicules](dyn/dyn-pfd-vehicule)
+	[:octicons-arrow-right-24: PFD - Véhicules](dyn/dyn-pfd-vehicule.md)
 	
 -   :material-wind-power:{ .lg .middle } __Energétique__
 

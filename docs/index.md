@@ -6,10 +6,10 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 
 <div class="grid cards" markdown>
 
-- [Documents 2023-2024](PSI/2023_2024/)
-- [Documents PSI](PSI/)
-- [Révisions Sup](Revisions/)
-- [Informatique](Informatique/)
+- [Documents 2023-2024](PSI/2023_2024.md)
+- [Documents PSI](PSI/index.md)
+- [Révisions Sup](Revisions/index.md)
+- [Informatique](Informatique/index.md)
 
 </div>
 
