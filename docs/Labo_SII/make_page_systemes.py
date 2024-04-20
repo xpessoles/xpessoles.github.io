@@ -8,7 +8,8 @@ liste_dico_syst = [
     'site_equip'    :'http://www.didastel.fr/',
     'description'   :"Boule gyrostabilisée 2 étages",
     'logo'          :"../img/bgr-300.png",
-    'page'          :"bgr-300"
+    'page'          :"bgr-300",
+    'flag'          :True
     },
     {
     'num'           :'02',
@@ -18,7 +19,8 @@ liste_dico_syst = [
     'site_equip'    :'https://s2ididac.com/',
     'description'   :"Le Bras BETA reproduit un système de cotrôle de tubes de géérateur de vapeur.",
     'logo'          :"../img/bras-beta.png",
-    'page'          :"bras-beta"
+    'page'          :"bras-beta",
+    'flag'          :True
     },
     {
     'num'           :'03',
@@ -28,7 +30,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Cheville didactisée du robot NAO",
     'logo'          :"../img/cheville-nao.png",
-    'page'          :"cheville-nao"
+    'page'          :"cheville-nao",
+    'flag'          :True
     },
     {
     'num'           :'04',
@@ -38,7 +41,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Le robot collaboratif CoMAX est un système permettant d'assister le maniemnent des charges lourdes.",
     'logo'          :"../img/comax.png",
-    'page'          :"comax"
+    'page'          :"comax",
+    'flag'          :True
     },
     {
     'num'           :'05',
@@ -48,7 +52,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Le controle X est un axe industriel asservi.",
     'logo'          :"../img/controlx.png",
-    'page'          :"controlx"
+    'page'          :"controlx",
+    'flag'          :True
     },
     {
     'num'           :'06',
@@ -58,7 +63,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Cordeuse de raquette didactisée.",
     'logo'          :"../img/cordeuse.png",
-    'page'          :"cordeuse"
+    'page'          :"cordeuse",
+    'flag'          :True
     },
     {
     'num'           :'07',
@@ -68,7 +74,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"La DAE est un système instrumentée issue d'une TWINGO",
     'logo'          :"../img/dae.png",
-    'page'          :"dae"
+    'page'          :"dae",
+    'flag'          :True
     },
     {
     'num'           :'08',
@@ -78,7 +85,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Le Drone Didactique Commandé permet d'anlyser le tangage d'un drone",
     'logo'          :"../img/d2c.png",
-    'page'          :"d2c"
+    'page'          :"d2c",
+    'flag'          :True
     },
     {
     'num'           :'09',
@@ -88,7 +96,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Le robot Ericc 3 est un robot industriel 6 axes.",
     'logo'          :"../img/ericc.png",
-    'page'          :"ericc"
+    'page'          :"ericc",
+    'flag'          :True
     },
     {
     'num'           :'10',
@@ -98,7 +107,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"L'evolap s'inspire du fonctionnement d'un robot endoscopique.",
     'logo'          :"../img/evolap.png",
-    'page'          :"evolap"
+    'page'          :"evolap",
+    'flag'          :True
     },
     {
     'num'           :'11',
@@ -108,7 +118,8 @@ liste_dico_syst = [
     'site_equip'    :'DIDASTEL',
     'description'   :"Les MaxPID et MaxPID-E sont la partie opérative de robots.",
     'logo'          :"../img/maxpid.png",
-    'page'          :"maxpid"
+    'page'          :"maxpid",
+    'flag'          :True
     },
     {
     'num'           :'12',
@@ -118,7 +129,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Platine équipée d'un moteur à courant continu permettant d'analyser son fonctionnement.",
     'logo'          :"../img/moteurcc.png",
-    'page'          :"moteurcc"
+    'page'          :"moteurcc",
+    'flag'          :True
     },
     {
     'num'           :'13',
@@ -128,7 +140,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Système permettant d'aider au bercement des bébés.",
     'logo'          :"../img/moby-crea.png",
-    'page'          :"moby-crea"
+    'page'          :"moby-crea",
+    'flag'          :True
     },
     {
     'num'           :'14',
@@ -138,7 +151,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Bloc hydraulique permettant d'asservir la position du safran d'un voilier.",
     'logo'          :"../img/pilote-auto.png",
-    'page'          :"pilote-auto"
+    'page'          :"pilote-auto",
+    'flag'          :True
     },
     {
     'num'           :'15',
@@ -148,7 +162,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Fermeture automatique d'un portail.",
     'logo'          :"../img/portail.png",
-    'page'          :"portail"
+    'page'          :"portail",
+    'flag'          :True
     },
     {
     'num'           :'16',
@@ -158,7 +173,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Robot à câbles plan",
     'logo'          :"../img/rc4.png",
-    'page'          :"rc4"
+    'page'          :"rc4",
+    'flag'          :True
     },
     {
     'num'           :'17',
@@ -168,7 +184,8 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Robot delta2D plan",
     'logo'          :"../img/robot-delta.png",
-    'page'          :"robot-delta"
+    'page'          :"robot-delta",
+    'flag'          :True
     },
     {
     'num'           :'18',
@@ -178,17 +195,63 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"Robot à retour de forces.",
     'logo'          :"../img/robot-haptique.png",
-    'page'          :"robot-haptique"
+    'page'          :"robot-haptique",
+    'flag'          :True
     },
     {
-    'num'           :'1',
-    'systeme'       :'',
-    'nom'           :'',
+    'num'           :'19',
+    'systeme'       :'sympact',
+    'nom'           :'Barrière Symapct',
+    'equip'         :'DIDASTEL',
+    'site_equip'    :'',
+    'description'   :"Barrière automatisée.",
+    'logo'          :"../img/sympact.png",
+    'page'          :"sympact",
+    'flag'          :True
+    },
+    {
+    'num'           :'20',
+    'systeme'       :'toit-206',
+    'nom'           :'Toit de 206 cc',
+    'equip'         :'DMS',
+    'site_equip'    :'',
+    'description'   :"Toit automatisé de 206 CC piloté par un groupe hydraulique.",
+    'logo'          :"../img/toit-202.png",
+    'page'          :"toit-206",
+    'flag'          :True
+    },
+    {
+    'num'           :'21',
+    'systeme'       :'tourelle',
+    'nom'           :'Tourelle 2 axes',
+    'equip'         :'S2IDidac',
+    'site_equip'    :'',
+    'description'   :"Tourelle 2 axes pour faire des vidéos avec des téléphones portables.",
+    'logo'          :"../img/tourelle.png",
+    'page'          :"tourelle",
+    'flag'          :True
+    },
+    {
+    'num'           :'22',
+    'systeme'       :'i3d',
+    'nom'           :'Imprimante 3D',
+    'equip'         :'DIDASTEL',
+    'site_equip'    :'',
+    'description'   :"Imprimante 3D didactisée",
+    'logo'          :"../img/.png",
+    'page'          :"i3d",
+    'flag'          :True
+    },
+    {
+    'num'           :'23',
+    'systeme'       :'plateforme',
+    'nom'           :'Plateforme 6 axes',
     'equip'         :'',
     'site_equip'    :'',
-    'description'   :"",
-    'logo'          :"../img/.png",
-    'page'          :""
+    'description'   :"Plateforme Stewart 6 axes, vérins électriques",
+    'logo'          :"../img/plateforme.png",
+    'page'          :"plateforme",
+    'flag'          :True
     },
     {
     'num'           :'2',
@@ -198,7 +261,57 @@ liste_dico_syst = [
     'site_equip'    :'',
     'description'   :"",
     'logo'          :"../img/.png",
-    'page'          :""
+    'page'          :"",
+    'flag'          :False
+    },
+    {
+    'num'           :'90',
+    'systeme'       :'arduino',
+    'nom'           :'Arduino',
+    'equip'         :'Arduino',
+    'site_equip'    :'https://www.arduino.cc/',
+    'description'   :"Pilotage de cartes Arduino",
+    'logo'          :"../img/arduino.png",
+    'page'          :"arduino",
+    'flag'          :True
+    },
+    {
+    'num'           :'91',
+    'systeme'       :'sw',
+    'nom'           :'Solidworks',
+    'equip'         :'Dassault Systèmes',
+    'site_equip'    :'https://www.3ds.com/fr/',
+    'description'   :"Modélisation géométrique et cinématique avec SolidWors et Méca 3D.",
+    'logo'          :"../img/sw.png",
+    'page'          :"sw"
+    },
+    {
+    'num'           :'92',
+    'systeme'       :'matlab',
+    'nom'           :'Matlab Simulink',
+    'equip'         :'Mathworks',
+    'site_equip'    :'',
+    'description'   :"Modélisation des systèmes avec Matlab et Simulink.",
+    'logo'          :"../img/matlab.png",
+    'page'          :"matlab"
     },
 
 ]
+
+def creation_index(liste_sys):
+    """
+    Creation de la page index.md des systèmes.
+    """
+    fid = open('index.md',"w",encoding='utf8')
+
+    fid.write('<div class="grid cards" markdown> \n')
+    fid.write('\n')
+    for systeme in liste_sys :
+        fid.write("-   :octicons-graph-16:{ .lg .middle } __"+systeme['nom']+"__\n \n" )
+        fid.write('--- \n \n')
+        fid.write("    "+systeme['description']+ " ["+systeme['equip']+"]("+systeme['site_equip']+")\n")
+        fid.write('    !['+systeme['nom']+']('+systeme['logo']+"{ align=left } \n \n")
+        fid.write("    [:octicons-arrow-right-24: "+systeme['nom']+"]("+systeme['page']+ ") \n\n")
+    fid.close()
+
+creation_index(liste_dico_syst)
