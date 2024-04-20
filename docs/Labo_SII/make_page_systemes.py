@@ -314,4 +314,15 @@ def creation_index(liste_sys):
         fid.write("    [:octicons-arrow-right-24: "+systeme['nom']+"]("+systeme['page']+ ") \n\n")
     fid.close()
 
+def creation_fichiers_systemes(liste_sys)
+    """
+    Création de fichiers correspodas aux systèmes
+    """
+    for systeme in liste_sys :
+        fid.open(systeme['page']+".md","w",encoding = 'utf8')
+        fid.write('## TODO  \n')
+        fid.close()
+
+
 creation_index(liste_dico_syst)
+
