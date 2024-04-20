@@ -176,7 +176,7 @@
     --- 
  
     Toit automatisé de 206 CC piloté par un groupe hydraulique. [DMS](https://www.dmseducation.eu/)
-    ![Toit de 206 cc](../img/toit-202.png){ align=left } 
+    ![Toit de 206 cc](../img/toit-206.png){ align=left } 
  
     [:octicons-arrow-right-24: Toit de 206 cc](toit-206) 
 

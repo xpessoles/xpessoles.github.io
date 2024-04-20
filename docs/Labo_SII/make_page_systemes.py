@@ -216,7 +216,7 @@ liste_dico_syst = [
     'equip'         :'DMS',
     'site_equip'    :'https://www.dmseducation.eu/',
     'description'   :"Toit automatisé de 206 CC piloté par un groupe hydraulique.",
-    'logo'          :"../img/toit-202.png",
+    'logo'          :"../img/toit-206.png",
     'page'          :"toit-206",
     'flag'          :True
     },
