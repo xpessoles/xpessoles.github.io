@@ -230,7 +230,7 @@
     --- 
  
     Modélisation des systèmes avec Matlab et Simulink. [Mathworks](https://fr.mathworks.com/)
-    ![Matlab Simulink](../img/matlab.png){ align=left } 
+    ![Matlab Simulink](../img/matlab.svg){ align=left } 
  
     [:octicons-arrow-right-24: Matlab Simulink](matlab) 
 
