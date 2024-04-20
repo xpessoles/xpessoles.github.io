@@ -194,7 +194,7 @@
     --- 
  
     Imprimante 3D didactisée [DIDASTEL](http://www.didastel.fr/)
-    ![Imprimante 3D](../img/.png){ align=left } 
+    ![Imprimante 3D](../img/i3d.png){ align=left } 
  
     [:octicons-arrow-right-24: Imprimante 3D](i3d) 
 

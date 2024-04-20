@@ -238,7 +238,7 @@ liste_dico_syst = [
     'equip'         :'DIDASTEL',
     'site_equip'    :'http://www.didastel.fr/',
     'description'   :"Imprimante 3D didactisée",
-    'logo'          :"../img/.png",
+    'logo'          :"../img/i3d.png",
     'page'          :"i3d",
     'flag'          :True
     },
