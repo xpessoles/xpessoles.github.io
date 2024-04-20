@@ -57,20 +57,7 @@ Blablabla Bulle{ title="Ici Bulle sans lien" }
   [exa]: https://example.com "I'm a tooltip! ![Image title](https://dummyimage.com/120x80/eee/aaa){ align=left }"
 
 
-## TEST
 
-- [Abbreviations]
-- [Attribute Lists]
-- [Snippets]
-
-  [Abbreviations]: Divers/python-markdown.md#abbreviations
-  [Attribute Lists]: Divers/python-markdown.md#attribute-lists
-  [Snippets]: Divers/extensions/python-markdown-extensions.md#snippets
- 
-
-## FIN TEST
-
-blabla
 
 
 

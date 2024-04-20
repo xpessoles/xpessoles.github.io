@@ -304,6 +304,7 @@ def creation_index(liste_sys):
     """
     Creation de la page index.md des systèmes.
     """
+    print("Creatio du fichier index.md")
     fid = open('index.md',"w",encoding='utf8')
 
     fid.write('<div class="grid cards" markdown> \n')
@@ -314,12 +315,12 @@ def creation_index(liste_sys):
             fid.write('    --- \n \n')
             fid.write("    "+systeme['description']+ " ["+systeme['equip']+"]("+systeme['site_equip']+")\n")
             fid.write('    !['+systeme['nom']+']('+systeme['logo']+"){ align=left } \n \n")
-            fid.write("    [:octicons-arrow-right-24: "+systeme['nom']+"]("+systeme['page']+ ") \n\n")
+            fid.write("    [:octicons-arrow-right-24: "+systeme['nom']+"]("+systeme['page']+".md) \n\n")
     fid.close()
 
 def creation_nav(liste_sys):
     """
-    Création de fichiers correspodas aux systèmes
+    Création du fichier du paragraphe de nav à ajouter dans mkdocs.yml
     """
     fid = open("nav_labo.yml","w",encoding = 'utf8')
     fid.write('- Labo SII: \n')
@@ -329,6 +330,9 @@ def creation_nav(liste_sys):
         if systeme['flag']:
             fid.write('    - '+systeme['nom']+' : Labo_SII/'+systeme['systeme']+'.md\n')
     fid.close()
+
+    print("Modifier le fichier mkdocs.yml")
+
 
 def creation_fichiers_systemes(liste_sys):
     """
@@ -341,5 +345,5 @@ def creation_fichiers_systemes(liste_sys):
 
 
 creation_index(liste_dico_syst)
-creation_fichiers_systemes(liste_dico_syst)
-creation_nav(liste_dico_syst)
+#creation_fichiers_systemes(liste_dico_syst)
+#creation_nav(liste_dico_syst)
