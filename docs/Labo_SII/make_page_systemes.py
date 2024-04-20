@@ -293,7 +293,7 @@ liste_dico_syst = [
     'equip'         :'Mathworks',
     'site_equip'    :'https://fr.mathworks.com/',
     'description'   :"Modélisation des systèmes avec Matlab et Simulink.",
-    'logo'          :"../img/matlab.png",
+    'logo'          :"../img/matlab.svg",
     'page'          :"matlab",
     'flag'          :True
     },
