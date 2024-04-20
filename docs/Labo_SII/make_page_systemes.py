@@ -27,7 +27,7 @@ liste_dico_syst = [
     'systeme'       :'cheville-nao',
     'nom'           :'Cheville NAO',
     'equip'         :'ERM',
-    'site_equip'    :'',
+    'site_equip'    :'https://www.erm-automatismes.com/',
     'description'   :"Cheville didactisée du robot NAO",
     'logo'          :"../img/cheville-nao.png",
     'page'          :"cheville-nao",
@@ -38,7 +38,7 @@ liste_dico_syst = [
     'systeme'       :'comax',
     'nom'           :'CoMAX',
     'equip'         :'DIDASTEL',
-    'site_equip'    :'',
+    'site_equip'    :'http://www.didastel.fr/',
     'description'   :"Le robot collaboratif CoMAX est un système permettant d'assister le maniemnent des charges lourdes.",
     'logo'          :"../img/comax.png",
     'page'          :"comax",
@@ -49,8 +49,8 @@ liste_dico_syst = [
     'systeme'       :'controlx',
     'nom'           :'ControlX',
     'equip'         :'DMS',
-    'site_equip'    :'',
-    'description'   :"Le controle X est un axe industriel asservi.",
+    'site_equip'    :'https://www.dmseducation.eu/',
+    'description'   :"Le ControlX est un axe industriel asservi.",
     'logo'          :"../img/controlx.png",
     'page'          :"controlx",
     'flag'          :True
@@ -60,7 +60,7 @@ liste_dico_syst = [
     'systeme'       :'cordeuse',
     'nom'           :'Cordeuse',
     'equip'         :'DMS',
-    'site_equip'    :'',
+    'site_equip'    :'https://www.dmseducation.eu/',
     'description'   :"Cordeuse de raquette didactisée.",
     'logo'          :"../img/cordeuse.png",
     'page'          :"cordeuse",
@@ -71,7 +71,7 @@ liste_dico_syst = [
     'systeme'       :'dae',
     'nom'           :'Direction Assistée Electrique',
     'equip'         :'DMS',
-    'site_equip'    :'',
+    'site_equip'    :'https://www.dmseducation.eu/',
     'description'   :"La DAE est un système instrumentée issue d'une TWINGO",
     'logo'          :"../img/dae.png",
     'page'          :"dae",
@@ -82,7 +82,7 @@ liste_dico_syst = [
     'systeme'       :'d2c',
     'nom'           :'D2C',
     'equip'         :'DMS',
-    'site_equip'    :'',
+    'site_equip'    :'https://www.dmseducation.eu/',
     'description'   :"Le Drone Didactique Commandé permet d'anlyser le tangage d'un drone",
     'logo'          :"../img/d2c.png",
     'page'          :"d2c",
@@ -104,7 +104,7 @@ liste_dico_syst = [
     'systeme'       :'evolap',
     'nom'           :'Evolap',
     'equip'         :'DMS',
-    'site_equip'    :'',
+    'site_equip'    :'https://www.dmseducation.eu/',
     'description'   :"L'evolap s'inspire du fonctionnement d'un robot endoscopique.",
     'logo'          :"../img/evolap.png",
     'page'          :"evolap",
@@ -115,7 +115,7 @@ liste_dico_syst = [
     'systeme'       :'maxpid',
     'nom'           :'MaxPID',
     'equip'         :'DIDASTEL',
-    'site_equip'    :'DIDASTEL',
+    'site_equip'    :'http://www.didastel.fr/',
     'description'   :"Les MaxPID et MaxPID-E sont la partie opérative de robots.",
     'logo'          :"../img/maxpid.png",
     'page'          :"maxpid",
@@ -126,7 +126,7 @@ liste_dico_syst = [
     'systeme'       :'moteurcc',
     'nom'           :'Moteur à courant continu',
     'equip'         :'3sigma',
-    'site_equip'    :'',
+    'site_equip'    :'https://3sigma.fr/Accueil.html',
     'description'   :"Platine équipée d'un moteur à courant continu permettant d'analyser son fonctionnement.",
     'logo'          :"../img/moteurcc.png",
     'page'          :"moteurcc",
@@ -137,7 +137,7 @@ liste_dico_syst = [
     'systeme'       :'moby-crea',
     'nom'           :'Moby Crea',
     'equip'         :'CREA',
-    'site_equip'    :'',
+    'site_equip'    :'https://crea-technologie.com/fr/',
     'description'   :"Système permettant d'aider au bercement des bébés.",
     'logo'          :"../img/moby-crea.png",
     'page'          :"moby-crea",
@@ -148,7 +148,7 @@ liste_dico_syst = [
     'systeme'       :'pilote-auto',
     'nom'           :'Pilote Automatique de Voilier',
     'equip'         :'CREA',
-    'site_equip'    :'',
+    'site_equip'    :'https://crea-technologie.com/fr/',
     'description'   :"Bloc hydraulique permettant d'asservir la position du safran d'un voilier.",
     'logo'          :"../img/pilote-auto.png",
     'page'          :"pilote-auto",
@@ -170,7 +170,7 @@ liste_dico_syst = [
     'systeme'       :'rc4',
     'nom'           :'Robot à câbles RC4',
     'equip'         :'DIDASTEL',
-    'site_equip'    :'',
+    'site_equip'    :'http://www.didastel.fr/',
     'description'   :"Robot à câbles plan",
     'logo'          :"../img/rc4.png",
     'page'          :"rc4",
@@ -181,7 +181,7 @@ liste_dico_syst = [
     'systeme'       :'robot-delta',
     'nom'           :'Robot Delta 2D',
     'equip'         :'3sigma',
-    'site_equip'    :'',
+    'site_equip'    :'https://3sigma.fr/Accueil.html',
     'description'   :"Robot delta2D plan",
     'logo'          :"../img/robot-delta.png",
     'page'          :"robot-delta",
@@ -203,7 +203,7 @@ liste_dico_syst = [
     'systeme'       :'sympact',
     'nom'           :'Barrière Symapct',
     'equip'         :'DIDASTEL',
-    'site_equip'    :'',
+    'site_equip'    :'http://www.didastel.fr/',
     'description'   :"Barrière automatisée.",
     'logo'          :"../img/sympact.png",
     'page'          :"sympact",
@@ -214,7 +214,7 @@ liste_dico_syst = [
     'systeme'       :'toit-206',
     'nom'           :'Toit de 206 cc',
     'equip'         :'DMS',
-    'site_equip'    :'',
+    'site_equip'    :'https://www.dmseducation.eu/',
     'description'   :"Toit automatisé de 206 CC piloté par un groupe hydraulique.",
     'logo'          :"../img/toit-202.png",
     'page'          :"toit-206",
@@ -224,8 +224,8 @@ liste_dico_syst = [
     'num'           :'21',
     'systeme'       :'tourelle',
     'nom'           :'Tourelle 2 axes',
-    'equip'         :'S2IDidac',
-    'site_equip'    :'',
+    'equip'         :'S2IDIDAC',
+    'site_equip'    :'https://s2ididac.com/',
     'description'   :"Tourelle 2 axes pour faire des vidéos avec des téléphones portables.",
     'logo'          :"../img/tourelle.png",
     'page'          :"tourelle",
@@ -236,7 +236,7 @@ liste_dico_syst = [
     'systeme'       :'i3d',
     'nom'           :'Imprimante 3D',
     'equip'         :'DIDASTEL',
-    'site_equip'    :'',
+    'site_equip'    :'http://www.didastel.fr/',
     'description'   :"Imprimante 3D didactisée",
     'logo'          :"../img/.png",
     'page'          :"i3d",
@@ -283,17 +283,19 @@ liste_dico_syst = [
     'site_equip'    :'https://www.3ds.com/fr/',
     'description'   :"Modélisation géométrique et cinématique avec SolidWors et Méca 3D.",
     'logo'          :"../img/sw.png",
-    'page'          :"sw"
+    'page'          :"sw",
+    'flag'          :True
     },
     {
     'num'           :'92',
     'systeme'       :'matlab',
     'nom'           :'Matlab Simulink',
     'equip'         :'Mathworks',
-    'site_equip'    :'',
+    'site_equip'    :'https://fr.mathworks.com/',
     'description'   :"Modélisation des systèmes avec Matlab et Simulink.",
     'logo'          :"../img/matlab.png",
-    'page'          :"matlab"
+    'page'          :"matlab",
+    'flag'          :True
     },
 
 ]
@@ -307,22 +309,23 @@ def creation_index(liste_sys):
     fid.write('<div class="grid cards" markdown> \n')
     fid.write('\n')
     for systeme in liste_sys :
-        fid.write("-   :octicons-graph-16:{ .lg .middle } __"+systeme['nom']+"__\n \n" )
-        fid.write('    --- \n \n')
-        fid.write("    "+systeme['description']+ " ["+systeme['equip']+"]("+systeme['site_equip']+")\n")
-        fid.write('    !['+systeme['nom']+']('+systeme['logo']+"){ align=left } \n \n")
-        fid.write("    [:octicons-arrow-right-24: "+systeme['nom']+"]("+systeme['page']+ ") \n\n")
+        if systeme['flag']:
+            fid.write("-   :octicons-graph-16:{ .lg .middle } __"+systeme['nom']+"__\n \n" )
+            fid.write('    --- \n \n')
+            fid.write("    "+systeme['description']+ " ["+systeme['equip']+"]("+systeme['site_equip']+")\n")
+            fid.write('    !['+systeme['nom']+']('+systeme['logo']+"){ align=left } \n \n")
+            fid.write("    [:octicons-arrow-right-24: "+systeme['nom']+"]("+systeme['page']+ ") \n\n")
     fid.close()
 
-def creation_fichiers_systemes(liste_sys)
+def creation_fichiers_systemes(liste_sys):
     """
     Création de fichiers correspodas aux systèmes
     """
     for systeme in liste_sys :
-        fid.open(systeme['page']+".md","w",encoding = 'utf8')
+        fid = open(systeme['page']+".md","w",encoding = 'utf8')
         fid.write('## TODO  \n')
         fid.close()
 
 
 creation_index(liste_dico_syst)
-
+creation_fichiers_systemes(liste_dico_syst)

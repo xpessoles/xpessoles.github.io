@@ -22,7 +22,7 @@
  
     --- 
  
-    Cheville didactisée du robot NAO [ERM]()
+    Cheville didactisée du robot NAO [ERM](https://www.erm-automatismes.com/)
     ![Cheville NAO](../img/cheville-nao.png){ align=left } 
  
     [:octicons-arrow-right-24: Cheville NAO](cheville-nao) 
@@ -31,7 +31,7 @@
  
     --- 
  
-    Le robot collaboratif CoMAX est un système permettant d'assister le maniemnent des charges lourdes. [DIDASTEL]()
+    Le robot collaboratif CoMAX est un système permettant d'assister le maniemnent des charges lourdes. [DIDASTEL](http://www.didastel.fr/)
     ![CoMAX](../img/comax.png){ align=left } 
  
     [:octicons-arrow-right-24: CoMAX](comax) 
@@ -40,7 +40,7 @@
  
     --- 
  
-    Le controle X est un axe industriel asservi. [DMS]()
+    Le ControlX est un axe industriel asservi. [DMS](https://www.dmseducation.eu/)
     ![ControlX](../img/controlx.png){ align=left } 
  
     [:octicons-arrow-right-24: ControlX](controlx) 
@@ -49,7 +49,7 @@
  
     --- 
  
-    Cordeuse de raquette didactisée. [DMS]()
+    Cordeuse de raquette didactisée. [DMS](https://www.dmseducation.eu/)
     ![Cordeuse](../img/cordeuse.png){ align=left } 
  
     [:octicons-arrow-right-24: Cordeuse](cordeuse) 
@@ -58,7 +58,7 @@
  
     --- 
  
-    La DAE est un système instrumentée issue d'une TWINGO [DMS]()
+    La DAE est un système instrumentée issue d'une TWINGO [DMS](https://www.dmseducation.eu/)
     ![Direction Assistée Electrique](../img/dae.png){ align=left } 
  
     [:octicons-arrow-right-24: Direction Assistée Electrique](dae) 
@@ -67,7 +67,7 @@
  
     --- 
  
-    Le Drone Didactique Commandé permet d'anlyser le tangage d'un drone [DMS]()
+    Le Drone Didactique Commandé permet d'anlyser le tangage d'un drone [DMS](https://www.dmseducation.eu/)
     ![D2C](../img/d2c.png){ align=left } 
  
     [:octicons-arrow-right-24: D2C](d2c) 
@@ -85,7 +85,7 @@
  
     --- 
  
-    L'evolap s'inspire du fonctionnement d'un robot endoscopique. [DMS]()
+    L'evolap s'inspire du fonctionnement d'un robot endoscopique. [DMS](https://www.dmseducation.eu/)
     ![Evolap](../img/evolap.png){ align=left } 
  
     [:octicons-arrow-right-24: Evolap](evolap) 
@@ -94,7 +94,7 @@
  
     --- 
  
-    Les MaxPID et MaxPID-E sont la partie opérative de robots. [DIDASTEL](DIDASTEL)
+    Les MaxPID et MaxPID-E sont la partie opérative de robots. [DIDASTEL](http://www.didastel.fr/)
     ![MaxPID](../img/maxpid.png){ align=left } 
  
     [:octicons-arrow-right-24: MaxPID](maxpid) 
@@ -103,7 +103,7 @@
  
     --- 
  
-    Platine équipée d'un moteur à courant continu permettant d'analyser son fonctionnement. [3sigma]()
+    Platine équipée d'un moteur à courant continu permettant d'analyser son fonctionnement. [3sigma](https://3sigma.fr/Accueil.html)
     ![Moteur à courant continu](../img/moteurcc.png){ align=left } 
  
     [:octicons-arrow-right-24: Moteur à courant continu](moteurcc) 
@@ -112,7 +112,7 @@
  
     --- 
  
-    Système permettant d'aider au bercement des bébés. [CREA]()
+    Système permettant d'aider au bercement des bébés. [CREA](https://crea-technologie.com/fr/)
     ![Moby Crea](../img/moby-crea.png){ align=left } 
  
     [:octicons-arrow-right-24: Moby Crea](moby-crea) 
@@ -121,7 +121,7 @@
  
     --- 
  
-    Bloc hydraulique permettant d'asservir la position du safran d'un voilier. [CREA]()
+    Bloc hydraulique permettant d'asservir la position du safran d'un voilier. [CREA](https://crea-technologie.com/fr/)
     ![Pilote Automatique de Voilier](../img/pilote-auto.png){ align=left } 
  
     [:octicons-arrow-right-24: Pilote Automatique de Voilier](pilote-auto) 
@@ -139,7 +139,7 @@
  
     --- 
  
-    Robot à câbles plan [DIDASTEL]()
+    Robot à câbles plan [DIDASTEL](http://www.didastel.fr/)
     ![Robot à câbles RC4](../img/rc4.png){ align=left } 
  
     [:octicons-arrow-right-24: Robot à câbles RC4](rc4) 
@@ -148,7 +148,7 @@
  
     --- 
  
-    Robot delta2D plan [3sigma]()
+    Robot delta2D plan [3sigma](https://3sigma.fr/Accueil.html)
     ![Robot Delta 2D](../img/robot-delta.png){ align=left } 
  
     [:octicons-arrow-right-24: Robot Delta 2D](robot-delta) 
@@ -166,7 +166,7 @@
  
     --- 
  
-    Barrière automatisée. [DIDASTEL]()
+    Barrière automatisée. [DIDASTEL](http://www.didastel.fr/)
     ![Barrière Symapct](../img/sympact.png){ align=left } 
  
     [:octicons-arrow-right-24: Barrière Symapct](sympact) 
@@ -175,7 +175,7 @@
  
     --- 
  
-    Toit automatisé de 206 CC piloté par un groupe hydraulique. [DMS]()
+    Toit automatisé de 206 CC piloté par un groupe hydraulique. [DMS](https://www.dmseducation.eu/)
     ![Toit de 206 cc](../img/toit-202.png){ align=left } 
  
     [:octicons-arrow-right-24: Toit de 206 cc](toit-206) 
@@ -184,7 +184,7 @@
  
     --- 
  
-    Tourelle 2 axes pour faire des vidéos avec des téléphones portables. [S2IDidac]()
+    Tourelle 2 axes pour faire des vidéos avec des téléphones portables. [S2IDIDAC](https://s2ididac.com/)
     ![Tourelle 2 axes](../img/tourelle.png){ align=left } 
  
     [:octicons-arrow-right-24: Tourelle 2 axes](tourelle) 
@@ -193,7 +193,7 @@
  
     --- 
  
-    Imprimante 3D didactisée [DIDASTEL]()
+    Imprimante 3D didactisée [DIDASTEL](http://www.didastel.fr/)
     ![Imprimante 3D](../img/.png){ align=left } 
  
     [:octicons-arrow-right-24: Imprimante 3D](i3d) 
@@ -206,15 +206,6 @@
     ![Plateforme 6 axes](../img/plateforme.png){ align=left } 
  
     [:octicons-arrow-right-24: Plateforme 6 axes](plateforme) 
-
--   :octicons-graph-16:{ .lg .middle } ____
- 
-    --- 
- 
-     []()
-    ![](../img/.png){ align=left } 
- 
-    [:octicons-arrow-right-24: ]() 
 
 -   :octicons-graph-16:{ .lg .middle } __Arduino__
  
@@ -238,7 +229,7 @@
  
     --- 
  
-    Modélisation des systèmes avec Matlab et Simulink. [Mathworks]()
+    Modélisation des systèmes avec Matlab et Simulink. [Mathworks](https://fr.mathworks.com/)
     ![Matlab Simulink](../img/matlab.png){ align=left } 
  
     [:octicons-arrow-right-24: Matlab Simulink](matlab) 
