@@ -308,7 +308,7 @@ def creation_index(liste_sys):
     fid.write('\n')
     for systeme in liste_sys :
         fid.write("-   :octicons-graph-16:{ .lg .middle } __"+systeme['nom']+"__\n \n" )
-        fid.write('--- \n \n')
+        fid.write('    --- \n \n')
         fid.write("    "+systeme['description']+ " ["+systeme['equip']+"]("+systeme['site_equip']+")\n")
         fid.write('    !['+systeme['nom']+']('+systeme['logo']+"{ align=left } \n \n")
         fid.write("    [:octicons-arrow-right-24: "+systeme['nom']+"]("+systeme['page']+ ") \n\n")
