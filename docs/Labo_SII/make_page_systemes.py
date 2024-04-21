@@ -359,8 +359,20 @@ def creation_fichiers_systemes(liste_sys,docx_lst):
         docx = get_dico_syst_in_liste_dico_syst(systeme['page'],docx_lst)
 
         fid = open(systeme['page']+".md","w",encoding = 'utf8')
+
+        ## Titre de la page & Tags
+        fid.write('---\n')
+        fid.write('title: '+systeme["nom"]+" \n")
+        fid.write("tags:\n")
+        fid.write('  - '+systeme["page"]+"\n")
+        for doc in docx :
+            if 'tp' in doc['type']:
+                fid.write("  - TP-"+doc["code_tp"]+"\n")
+        fid.write('---\n\n')
+
         fid.write('[comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)\n\n')
         fid.write('## TODO  \n')
+
 
         ## Documentation
         fid.write("## Documentation \n")
@@ -458,7 +470,7 @@ def verif(root,file):
     "00_",
     "Colle",
     "old",'TODO',"OLD",
-    "99_","98_","TD_Systemes"
+    "99_","98_","TD_Systemes",DocumentsLogicielsSimulation.docx
     ]
     for t in test :
         if (t in root) or (t in file) :
