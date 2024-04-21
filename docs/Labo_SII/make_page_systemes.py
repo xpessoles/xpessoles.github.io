@@ -371,7 +371,7 @@ def creation_fichiers_systemes(liste_sys,docx_lst):
         fid.write('---\n\n')
 
         fid.write('[comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)\n\n')
-        fid.write('## TODO  \n')
+
 
 
         ## Documentation
@@ -470,7 +470,8 @@ def verif(root,file):
     "00_",
     "Colle",
     "old",'TODO',"OLD",
-    "99_","98_","TD_Systemes",DocumentsLogicielsSimulation.docx
+    "99_","98_","TD_Systemes",
+    "DocumentsLogicielsSimulation.docx"
     ]
     for t in test :
         if (t in root) or (t in file) :
