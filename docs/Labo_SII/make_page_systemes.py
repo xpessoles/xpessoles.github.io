@@ -1,4 +1,4 @@
-
+import os
 liste_dico_syst = [
     {
     'num'           :'01',
@@ -348,6 +348,47 @@ def creation_fichiers_systemes(liste_sys):
         fid.close()
 
 
-creation_index(liste_dico_syst)
-creation_fichiers_systemes(liste_dico_syst)
-#creation_nav(liste_dico_syst)
+
+
+def make_docx_list(chemins:[str]):
+    """
+    Réalisation de la liste de tous les fichier tex.
+    REnvoie une liste de dictionnaires :
+    dico = {'fichier':file,'last_modif':modif:....}
+    """
+    docx_liste=[]
+    for path in chemins :
+        for root, dirs, files in os.walk(path):
+            for file in files:
+                if file.endswith(".docx"):
+                    if verif(root,file) :
+                        #dico = make_dico_from_tex_file(root, file)
+                        docx_liste.append([root,file])
+
+
+    return docx_liste
+
+def verif(root,file):
+    """
+    Exclusion de fichiers
+    """
+    test = [
+    "00_Maitre.docx",
+    "Colle"
+    ]
+    for t in test :
+        if (t in root) or (t in file) :
+            return False
+    return True
+
+chemins_docx = [
+                "../../../TP_Sujets",
+                "../../../TP_Documents_PSI",]
+
+docx_lst=make_docx_list(chemins_docx)
+# A DECOMENTER SUIVANT CE QU'ON VEUT
+
+
+# creation_index(liste_dico_syst)
+# creation_fichiers_systemes(liste_dico_syst)
+# creation_nav(liste_dico_syst)

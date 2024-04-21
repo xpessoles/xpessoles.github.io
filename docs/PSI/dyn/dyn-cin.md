@@ -1,7 +1,6 @@
 ---
 title: Détemination du torseur dynamique 
----
-
+tags:
   - C1-05
   - C2-09
 ---
