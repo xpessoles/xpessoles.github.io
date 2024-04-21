@@ -297,9 +297,21 @@ liste_dico_syst = [
     'page'          :"matlab",
     'flag'          :True
     },
-
 ]
 
+dico_code_tp = {
+        "01" : "Mise en service",
+        "02" : "Chaine Fonctionnelle",
+        "03" : "Chaines de solides",
+        "04" : "Résolution géométrique et cinématique",
+        "05" : "",
+        "06" : "Modélisation système",
+        "07" : "Modélisation composant",
+        "08" : "",
+        "09" : "Dimensionnement d'un actionneur",
+        "10" : "Analyse de l'effet des correcteurs",
+        "11" : "",
+        "12" : "Choix et Synthèse des correcteurs",}
 def creation_index(liste_sys):
     """
     Creation de la page index.md des systèmes.
@@ -336,15 +348,37 @@ def creation_nav(liste_sys):
     print("Modifier le fichier mkdocs.yml")
 
 
-def creation_fichiers_systemes(liste_sys):
+def creation_fichiers_systemes(liste_sys,docx_lst):
     """
     Création de fichiers correspodas aux systèmes
     """
     print("Creation d'un fichier md par système.")
+
     for systeme in liste_sys :
+
+        docx = get_dico_syst_in_liste_dico_syst(systeme['page'],docx_lst)
+
         fid = open(systeme['page']+".md","w",encoding = 'utf8')
         fid.write('[comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)\n\n')
         fid.write('## TODO  \n')
+
+        ## Documentation
+        fid.write("## Documentation \n")
+        for doc in docx :
+            if 'doc' in doc['type']:
+                #print(doc)
+                fid.write("- [:fontawesome-solid-file-word:]("+doc['chemin_word']+") [:material-github:]("+doc['chemin_git']+")   Documentation \n\n")
+
+
+        ## Sujets de TP
+        fid.write("## Sujets \n")
+        for doc in docx :
+            if 'tp' in doc['type']:
+
+                fid.write("- [:fontawesome-solid-file-word:]("+doc['chemin_word']+") [:material-github:]("+doc['chemin_git']+") "+doc["code_tp"]+" : "+dico_code_tp[doc["code_tp"]]+"\n")
+
+
+
         fid.close()
 
 
@@ -383,21 +417,34 @@ def make_dico_from_docx_file(root, file):
     root = root.replace("\\","/")
     modif = os.path.getmtime(fich)
 
+
     dico = {
         'full_chemin':fich,
         'last_modif':modif,
         "chemin":root,
-        "fichier":file,
-        "num_systeme":file[0:2],
-        "systeme"}
+        "fichier":file}
+    dico['num_systeme'] = file[0:2]
+    dico['systeme'] = get_systeme_in_liste_dico_syst(dico['num_systeme'],liste_dico_syst)
 
-    code_tp = file[3:-5].split("_")
+    if "TP_Documents_PSI" in fich :
+        index = fich.index("TP_Documents_PSI")+len("TP_Documents_PSI/")
+        dico['blob']  = fich[index:]
+        dico['depot'] = 'TP_Documents_PSI'
+        c = root.split("/")
+        dico['chemin_git'] = 'https://github.com/xpessoles/TP_Documents_PSI'+"/"+"tree/master/"+c[-1]
+        dico['chemin_word'] = 'https://github.com/xpessoles/'+dico['depot']+'/raw/master/'+dico["blob"]
+        dico['type'] = "(doc)"
 
-    for e in code_tp :
-        try :
-            dico['code_tp'] = e
-        except ValueError:
-            dico['code_tp'] = None
+    elif "TP_Sujets" in fich :
+
+        dico['depot'] = 'TP_Sujets'
+        index = fich.index("TP_Sujets")+len("TP_Sujets/")
+        dico['blob']  = fich[index:]
+        dico['type'] = "(tp)"
+        dico['code_tp'] = dico['blob'][0:2]
+        dico['chemin_word'] = 'https://github.com/xpessoles/'+dico['depot']+'/raw/main/'+dico["blob"]
+        c = root.split("/")
+        dico['chemin_git'] = 'https://github.com/xpessoles/TP_Sujets'+"/"+"tree/main/"+c[-1]
 
     return dico
 
@@ -410,7 +457,8 @@ def verif(root,file):
     test = [
     "00_",
     "Colle",
-    "old",'TODO',"OLD","99_","98_"
+    "old",'TODO',"OLD",
+    "99_","98_","TD_Systemes"
     ]
     for t in test :
         if (t in root) or (t in file) :
@@ -421,12 +469,31 @@ chemins_docx = [
                 "../../../TP_Sujets",
                 "../../../TP_Documents_PSI",]
 
+def get_systeme_in_liste_dico_syst(num_systeme,liste_dico_syst):
+    # Récupere le nim d'un système à partir de son numéro
+
+    for s in liste_dico_syst:
+        if s['num'] == num_systeme :
+            return s['page']
+    return ''
+
+def get_dico_syst_in_liste_dico_syst(systeme,docx_lst):
+    # Récupere les fichiers liés à un systeme
+
+    res = []
+    for d in docx_lst:
+        if d['systeme'] == systeme :
+            res.append(d)
+    return res
+
 docx_lst=make_docx_list(chemins_docx)
+
+
 #for d in docx_lst:
 #    print( d)
 # A DECOMENTER SUIVANT CE QU'ON VEUT
 
 
 # creation_index(liste_dico_syst)
-# creation_fichiers_systemes(liste_dico_syst)
+creation_fichiers_systemes(liste_dico_syst,docx_lst)
 # creation_nav(liste_dico_syst)
