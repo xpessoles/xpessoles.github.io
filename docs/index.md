@@ -10,6 +10,7 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 - [Documents PSI](PSI/index.md)
 - [Révisions Sup](Revisions/index.md)
 - [Informatique](Informatique/index.md)
+- [Labo SII](Labo_SII/index.md)
 
 </div>
 
