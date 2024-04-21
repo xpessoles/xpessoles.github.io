@@ -1,3 +1,12 @@
+---
+title: Pilote Automatique de Voilier 
+tags:
+  - pilote-auto
+  - TP-01
+  - TP-03
+  - TP-04
+---
+
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
 ## TODO  

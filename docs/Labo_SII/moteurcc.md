@@ -1,3 +1,17 @@
+---
+title: Moteur à courant continu 
+tags:
+  - moteurcc
+  - TP-01
+  - TP-02
+  - TP-06
+  - TP-06
+  - TP-06
+  - TP-07
+  - TP-12
+  - TP-12
+---
+
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
 ## TODO  

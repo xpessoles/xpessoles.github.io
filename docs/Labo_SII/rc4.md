@@ -1,3 +1,12 @@
+---
+title: Robot à câbles RC4 
+tags:
+  - rc4
+  - TP-01
+  - TP-02
+  - TP-04
+---
+
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
 ## TODO  

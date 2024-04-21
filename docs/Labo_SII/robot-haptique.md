@@ -1,3 +1,12 @@
+---
+title: Robot Haptique 
+tags:
+  - robot-haptique
+  - TP-01
+  - TP-02
+  - TP-03
+---
+
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
 ## TODO  

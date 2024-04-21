@@ -1,3 +1,16 @@
+---
+title: Moby Crea 
+tags:
+  - moby-crea
+  - TP-01
+  - TP-02
+  - TP-03
+  - TP-04
+  - TP-04
+  - TP-09
+  - TP-09
+---
+
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
 ## TODO  

@@ -1,3 +1,14 @@
+---
+title: CoMAX 
+tags:
+  - comax
+  - TP-01
+  - TP-02
+  - TP-07
+  - TP-09
+  - TP-10
+---
+
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
 ## TODO  

@@ -1,3 +1,14 @@
+---
+title: Imprimante 3D 
+tags:
+  - i3d
+  - TP-01
+  - TP-02
+  - TP-03
+  - TP-04
+  - TP-06
+---
+
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
 ## TODO  

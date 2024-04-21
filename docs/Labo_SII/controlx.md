@@ -1,3 +1,15 @@
+---
+title: ControlX 
+tags:
+  - controlx
+  - TP-01
+  - TP-02
+  - TP-04
+  - TP-06
+  - TP-06
+  - TP-09
+---
+
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
 ## TODO  

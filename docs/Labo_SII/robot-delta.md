@@ -1,3 +1,13 @@
+---
+title: Robot Delta 2D 
+tags:
+  - robot-delta
+  - TP-01
+  - TP-02
+  - TP-03
+  - TP-04
+---
+
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
 ## TODO  
