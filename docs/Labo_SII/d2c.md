@@ -8,7 +8,6 @@ tags:
 
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
-## TODO  
 ## Documentation 
 - [:fontawesome-solid-file-word:](https://github.com/xpessoles/TP_Documents_PSI/raw/master/08_Drone_D2C/08_Documentation_DroneD2C_V3.docx) [:material-github:](https://github.com/xpessoles/TP_Documents_PSI/tree/master/08_Drone_D2C)   Documentation 
 

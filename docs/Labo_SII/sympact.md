@@ -12,7 +12,6 @@ tags:
 
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
-## TODO  
 ## Documentation 
 - [:fontawesome-solid-file-word:](https://github.com/xpessoles/TP_Documents_PSI/raw/master/19_Sympact/19_Documentation_Sympact.docx) [:material-github:](https://github.com/xpessoles/TP_Documents_PSI/tree/master/19_Sympact)   Documentation 
 
