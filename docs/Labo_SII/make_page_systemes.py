@@ -362,19 +362,55 @@ def make_docx_list(chemins:[str]):
             for file in files:
                 if file.endswith(".docx"):
                     if verif(root,file) :
-                        #dico = make_dico_from_tex_file(root, file)
-                        docx_liste.append([root,file])
+                        dico = make_dico_from_docx_file(root, file)
+                        docx_liste.append(dico)
 
 
     return docx_liste
+
+def make_dico_from_docx_file(root, file):
+    """
+    Réalise un dictionnaire à partir d'un fichier tex
+
+    Clés du dico :
+     - full_chemin : chemin relatif + nom de fichier.tex par rapport au dossier de ce script
+     - last_modif : dernière modification
+     - chemin : chemin relatif du dossier
+     - fichier : fichier.docx
+    """
+    fich = os.path.join(root, file)
+    fich = fich.replace("\\","/")
+    root = root.replace("\\","/")
+    modif = os.path.getmtime(fich)
+
+    dico = {
+        'full_chemin':fich,
+        'last_modif':modif,
+        "chemin":root,
+        "fichier":file,
+        "num_systeme":file[0:2],
+        "systeme"}
+
+    code_tp = file[3:-5].split("_")
+
+    for e in code_tp :
+        try :
+            dico['code_tp'] = e
+        except ValueError:
+            dico['code_tp'] = None
+
+    return dico
+
+
 
 def verif(root,file):
     """
     Exclusion de fichiers
     """
     test = [
-    "00_Maitre.docx",
-    "Colle"
+    "00_",
+    "Colle",
+    "old",'TODO',"OLD","99_","98_"
     ]
     for t in test :
         if (t in root) or (t in file) :
@@ -386,6 +422,8 @@ chemins_docx = [
                 "../../../TP_Documents_PSI",]
 
 docx_lst=make_docx_list(chemins_docx)
+#for d in docx_lst:
+#    print( d)
 # A DECOMENTER SUIVANT CE QU'ON VEUT
 
 
