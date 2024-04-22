@@ -2,21 +2,43 @@
 
 <div class="grid cards" markdown> 
 
--   :octicons-graph-16:{ .lg .middle } __BGR-300__
+-   :octicons-graph-16:{ .lg .middle } __Capteur pneumatique__
  
     --- 
  
-    Boule gyrostabilisée 2 étages [DIDASTEL](http://www.didastel.fr/)
-    ![BGR-300](../img/bgr-300.png){ align=left } 
- 
-    [:octicons-arrow-right-24: BGR-300](bgr-300.md) 
+    ![Capteur pneumatique](../img/plans/001_mini.png){ align=left } 
+    [:octicons-arrow-right-24: Plan]() 
+	[:octicons-arrow-right-24: Coloriage]() 
+	[:octicons-arrow-right-24: SW]()
 
--   :octicons-graph-16:{ .lg .middle } __Bras BETA__
+-   :octicons-graph-16:{ .lg .middle } __Pince Schrader__
  
     --- 
  
-    Le Bras BETA reproduit un système de cotrôle de tubes de géérateur de vapeur. [S2IDIDAC](https://s2ididac.com/)
-    ![Bras BETA](../img/bras-beta.png){ align=left } 
+	![Pince Schrader](../img/plans/002_mini.png){ align=left } 
+    [:octicons-arrow-right-24: Plan]() 
+	[:octicons-arrow-right-24: Coloriage]() 
+	[:octicons-arrow-right-24: Schémas]()
+	[:octicons-arrow-right-24: SW]()
+
+-   :octicons-graph-16:{ .lg .middle } __Micro compresseur__
  
-    [:octicons-arrow-right-24: Bras BETA](bras-beta.md) 
+    --- 
+ 
+	![Micro compresseur](../img/plans/003_mini.png){ align=left } 
+    [:octicons-arrow-right-24: Plan]() 
+	[:octicons-arrow-right-24: Coloriage]() 
+	[:octicons-arrow-right-24: Schémas]()
+
+-   :octicons-graph-16:{ .lg .middle } __Pompe Manuelle__
+ 
+    --- 
+ 
+	![Pompe Manuelle](../img/plans/004_mini.png){ align=left } 
+    [:octicons-arrow-right-24: Plan]() 
+	[:octicons-arrow-right-24: Coloriage]() 
+	[:octicons-arrow-right-24: Schémas]()
+
+
+	
 </div>
