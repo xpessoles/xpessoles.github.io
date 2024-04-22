@@ -329,6 +329,7 @@ def creation_index(liste_sys):
             fid.write("    "+systeme['description']+ " ["+systeme['equip']+"]("+systeme['site_equip']+")\n")
             fid.write('    !['+systeme['nom']+']('+systeme['logo']+"){ align=left } \n \n")
             fid.write("    [:octicons-arrow-right-24: "+systeme['nom']+"]("+systeme['page']+".md) \n\n")
+    fid.write("</div> \n")
     fid.close()
 
 def creation_nav(liste_sys):
