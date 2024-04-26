@@ -11,6 +11,8 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 - [Révisions Sup](Revisions/index.md)
 - [Informatique](Informatique/index.md)
 - [Labo SII](Labo_SII/index.md)
+- [Activités SII](activites/index.md)
+- [PTSI-PT](old-ptsi/index.md)
 
 </div>
 
