@@ -10,13 +10,13 @@ tags:
  
 | Applications | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
-| Tapis de course | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/raw/main/PDF/Cy_05_01_Application_02_Tapis_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://github.com/xpessoles/ALL_PDF/raw/main/PDF/Cy_05_01_Application_02_Tapis_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_05_Energetique/tree/main/Chapitre_01_Energetique/Cy_05_01_Application_02_Tapis) | 
+| Tapis de course | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/blob/main/PDF/Cy_05_01_Application_02_Tapis_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://github.com/xpessoles/ALL_PDF/blob/main/PDF/Cy_05_01_Application_02_Tapis_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_05_Energetique/tree/main/Chapitre_01_Energetique/Cy_05_01_Application_02_Tapis) | 
 
 ### Travaux Dirigés 
  
 | Travaux Dirigés | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
-| Système de dépose de poudre | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/raw/main/PDF/Cy_05_01_TD_01_Prehenseur_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://github.com/xpessoles/ALL_PDF/raw/main/PDF/Cy_05_01_TD_01_Prehenseur_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_05_Energetique/tree/main/Chapitre_01_Energetique/Cy_05_01_TD_01_Prehenseur) | 
+| Système de dépose de poudre | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/blob/main/PDF/Cy_05_01_TD_01_Prehenseur_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://github.com/xpessoles/ALL_PDF/blob/main/PDF/Cy_05_01_TD_01_Prehenseur_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_05_Energetique/tree/main/Chapitre_01_Energetique/Cy_05_01_TD_01_Prehenseur) | 
 
 
 

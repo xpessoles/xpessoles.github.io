@@ -10,7 +10,7 @@ tags:
  
 | Applications | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
-| Micromoteur de modélisme | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/raw/main/PDF/Cy_04_03_PFD_CF_App_01_Micromoteur_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/raw/main/PDF/Cy_04_03_PFD_CF_App_01_Micromoteur_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_04_ModelisationDynamique/tree/main/Chapitre_03_Methodologie/PFD_CF/Cy_04_03_PFD_CF_App_01_Micromoteur) | 
+| Micromoteur de modélisme | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/blob/main/PDF/Cy_04_03_PFD_CF_App_01_Micromoteur_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/blob/main/PDF/Cy_04_03_PFD_CF_App_01_Micromoteur_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_04_ModelisationDynamique/tree/main/Chapitre_03_Methodologie/PFD_CF/Cy_04_03_PFD_CF_App_01_Micromoteur) | 
 
 
 

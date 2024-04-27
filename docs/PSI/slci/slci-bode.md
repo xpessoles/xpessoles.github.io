@@ -11,6 +11,6 @@ tags:
  
 | Colles | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
-| Cisaille à découpe au vol | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/raw/main/PDF/Cy_01_Ch_02_Colle_02_Cisaille_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/raw/main/PDF/Cy_01_Ch_02_Colle_02_Cisaille_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_01_ModelisationSystemes/tree/main/Ch_02_RevisionsSLCI/Cy_01_Ch_02_Colle_02_Cisaille) | 
+| Cisaille à découpe au vol | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/blob/main/PDF/Cy_01_Ch_02_Colle_02_Cisaille_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://github.com/xpessoles/ALL_PDF/blob/main/PDF/Cy_01_Ch_02_Colle_02_Cisaille_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_01_ModelisationSystemes/tree/main/Ch_02_RevisionsSLCI/Cy_01_Ch_02_Colle_02_Cisaille) | 
 
 
