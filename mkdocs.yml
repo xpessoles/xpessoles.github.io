@@ -173,6 +173,7 @@ nav:
 - Informatique:
     - Informatique/index.md
     - 2023-2024: Informatique/2023-2024.md
+    - Notebooks: Informatique/notebooks.md
 - Labo SII: 
     - Labo_SII/index.md 
     - BGR-300 : Labo_SII/bgr-300.md
