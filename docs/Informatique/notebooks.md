@@ -1,6 +1,6 @@
 
 * Sujet et Corrigé C : Capytale
-* Sujet et Corrigé C : Jupyter
+* Sujet et Corrigé J : Jupyter
 
 ## Activités Pratiques
 | Activité | Thèmes | Eval | Séquencé | Sujet - C | Corrigé - C | Sujet - J | Corrigé - J |
