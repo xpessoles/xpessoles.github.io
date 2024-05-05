@@ -231,10 +231,10 @@ nav:
 - PTSI-PT :
   - old-ptsi/index.md
   - Plans: old-ptsi/plans.md
- - Informatique:
-    - Informatique/index.md
-    - 2023-2024: Informatique/2023-2024.md
- - Notebooks: Informatique/notebooks.md
+- Informatique:
+  - Informatique/index.md
+  - 2023-2024: Informatique/2023-2024.md
+- Notebooks: Informatique/notebooks.md
 - Divers : 
     - Carte: Divers/map.md
     - Ce site: Divers/index.md
