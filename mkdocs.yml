@@ -170,10 +170,6 @@ nav:
       - Frottement sec: Revisions/stat/stat-frot.md
       - Résolution du PFS 2D: Revisions/stat/stat-pfs-2d.md
       - Résolution du PFS 3D: Revisions/stat/stat-pfs-3d.md
-- Informatique:
-    - Informatique/index.md
-    - 2023-2024: Informatique/2023-2024.md
-    - Notebooks: Informatique/notebooks.md
 - Labo SII: 
     - Labo_SII/index.md 
     - BGR-300 : Labo_SII/bgr-300.md
@@ -232,11 +228,15 @@ nav:
     - C3-02 : activites/C3-02.md
     - E2-05 : activites/E2-05.md
     - G2-01 : activites/G2-01.md
+- PTSI-PT :
+  - old-ptsi/index.md
+  - Plans: old-ptsi/plans.md
+ - Informatique:
+    - Informatique/index.md
+    - 2023-2024: Informatique/2023-2024.md
+ - Notebooks: Informatique/notebooks.md
 - Divers : 
     - Carte: Divers/map.md
     - Ce site: Divers/index.md
     - Index: Divers/tags.md
     - Jupyter: Divers/archive/test.ipynb
-- PTSI-PT :
-  - old-ptsi/index.md
-  - Plans: old-ptsi/plans.md
