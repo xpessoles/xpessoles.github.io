@@ -236,7 +236,8 @@ nav:
   - 2023-2024: Informatique/2023-2024.md
 - Notebooks: Informatique/notebooks.md
 - Divers : 
-    - Carte: Divers/map.md
-    - Ce site: Divers/index.md
+    - Sites: Divers/sites.md
     - Index: Divers/tags.md
     - Jupyter: Divers/archive/test.ipynb
+    - Bac à sable: Divers/index.md
+    - Carte: Divers/map.md
