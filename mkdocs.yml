@@ -156,6 +156,11 @@ nav:
       #- Méthodes numériques : PSI/num/num-mn.md
       #- Introduction IA : PSI/num/num-ia.md
       #- Introduction RN : PSI/num/num-rn.md
+- Oraux :
+    - Oraux/index.md
+    - Oraux/TPs.md
+    - Oraux/activites.md
+    - Oraux/logiciels.md
 - Révisions:
     - Revisions/index.md
     - Cinématique: 
