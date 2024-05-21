@@ -28,7 +28,33 @@ title: Sujet de TPs
 [TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/xx_xx/xx_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/13_Moby_Crea/13_Documentation_Moby.pdf){ .md-button .md-button--primary }
 [Lien Capytale](https://capytale2.ac-paris.fr/web/c/11e1-3612495){ .md-button .md-button--primary }
-[Vidéo](https://github.com/xpessoles/TP_Sujets/blob/main/04_ResolutionCinematique/13_04_01/13_04_01_CarRide.mp4){ .md-button .md-button--primary }
+
+[Vidéo](https://github.com/xpessoles/TP_Sujets/raw/main/04_ResolutionCinematique/13_04_01/13_04_01_CarRide.mp4){ .md-button .md-button--primary }
+
+
+## Robot à câbles RC4
+
+## Barrière Sympact
+
+## Cheville NAO
+
+## ControlX
+
+## Cordeuse de raquette
+
+## Imprimante I3D
+
+## Moteur à courant continu
+
+## Direction assistée électrique
+
+## Bras Beta
+
+## BGR-300
+
+## Pilote Hydraulique de voilier
+
+
 
 
 
