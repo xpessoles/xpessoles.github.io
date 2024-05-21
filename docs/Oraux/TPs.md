@@ -7,29 +7,28 @@ title: Sujet de TPs
 
 ## MaxPIDE
 
-- [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/11_MaxPID/11_MaxPID_2h.pdf){ .md-button .md-button--primary }
-- [TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/11_MaxPID/11_MaxPID_4h.pdf){ .md-button .md-button--primary }
-- [Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/11_MaxpidE/11_MaxPIDE_Documentation.pdf){ .md-button .md-button--primary }
-- [Modèle SW](https://github.com/xpessoles/TP_Documents_PSI/blob/master/11_MaxpidE/Maxpid-V2_SolidWorks_V1.zip){ .md-button .md-button--primary }
+[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/11_MaxPID/11_MaxPID_2h.pdf){ .md-button .md-button--primary }
+[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/11_MaxPID/11_MaxPID_4h.pdf){ .md-button .md-button--primary }
+[Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/11_MaxpidE/11_MaxPIDE_Documentation.pdf){ .md-button .md-button--primary }
+[Modèle SW](https://github.com/xpessoles/TP_Documents_PSI/blob/master/11_MaxpidE/Maxpid-V2_SolidWorks_V1.zip){ .md-button .md-button--primary }
 
-</div>
 
 ## Plateforme 6 axes
 
 ## CoMAX
 
-- [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/04_CoMAX/04_CoMAX_2h.pdf){ .md-button .md-button--primary }
-- [TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/04_CoMAX/04_CoMAX_4h.pdf){ .md-button .md-button--primary }
-- [Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/04_CoMAX/04_CoMAX_Documentation.pdf){ .md-button .md-button--primary }
-- [Modèle Scilab-Xcos](https://github.com/xpessoles/TP_Documents_PSI/blob/master/04_CoMAX/04_CoMAX_XCOS.zip){ .md-button .md-button--primary }
+[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/04_CoMAX/04_CoMAX_2h.pdf){ .md-button .md-button--primary }
+[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/04_CoMAX/04_CoMAX_4h.pdf){ .md-button .md-button--primary }
+[Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/04_CoMAX/04_CoMAX_Documentation.pdf){ .md-button .md-button--primary }
+[Modèle Scilab-Xcos](https://github.com/xpessoles/TP_Documents_PSI/blob/master/04_CoMAX/04_CoMAX_XCOS.zip){ .md-button .md-button--primary }
 
 ## Moby Crea
 
-- [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/13_Moby_Crea/13_Moby_Crea_2h.pdf){ .md-button .md-button--primary } 
-- [TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/xx_xx/xx_4h.pdf){ .md-button .md-button--primary }
-- [Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/13_Moby_Crea/13_Documentation_Moby.pdf){ .md-button .md-button--primary }
-- [Lien Capytale](https://capytale2.ac-paris.fr/web/c/11e1-3612495){ .md-button .md-button--primary }
-- [Vidéo](https://github.com/xpessoles/TP_Sujets/blob/main/04_ResolutionCinematique/13_04_01/13_04_01_CarRide.mp4){ .md-button .md-button--primary }
+[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/13_Moby_Crea/13_Moby_Crea_2h.pdf){ .md-button .md-button--primary } 
+[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/xx_xx/xx_4h.pdf){ .md-button .md-button--primary }
+[Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/13_Moby_Crea/13_Documentation_Moby.pdf){ .md-button .md-button--primary }
+[Lien Capytale](https://capytale2.ac-paris.fr/web/c/11e1-3612495){ .md-button .md-button--primary }
+[Vidéo](https://github.com/xpessoles/TP_Sujets/blob/main/04_ResolutionCinematique/13_04_01/13_04_01_CarRide.mp4){ .md-button .md-button--primary }
 
 
 
