@@ -16,9 +16,9 @@ title: Sujet de TPs
 
 </div>
 
-# Plateforme 6 axes
+## Plateforme 6 axes
 
-# CoMAX
+## CoMAX
 
 
 <div class="grid cards" markdown>
@@ -30,7 +30,25 @@ title: Sujet de TPs
 
 </div>
 
-# CoMAX
+
+
+https://capytale2.ac-paris.fr/web/c/11e1-3612495
+
+
+## Moby Crea
+
+
+<div class="grid cards" markdown>
+
+- [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/13_Moby_Crea/13_Moby_Crea_2h.pdf)
+- [TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/xx_xx/xx_4h.pdf)
+- [Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/13_Moby_Crea/13_Documentation_Moby.pdf)
+- [Lien Capytale](https://capytale2.ac-paris.fr/web/c/11e1-3612495)
+- [Vidéo](https://github.com/xpessoles/TP_Sujets/blob/main/04_ResolutionCinematique/13_04_01/13_04_01_CarRide.mp4)
+
+</div>
+
+## ToDO
 
 
 <div class="grid cards" markdown>
