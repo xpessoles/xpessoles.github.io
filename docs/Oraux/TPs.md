@@ -1,5 +1,5 @@
 ---
-title: Préparation aux oraux : Sujets de TPs
+title: Sujets de TPs pour la préparation aux oraux
 ---
 
 [comment]: <> (Page manuelle)
