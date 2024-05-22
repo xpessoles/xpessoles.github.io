@@ -1,5 +1,5 @@
 ---
-title: Sujet de TPs
+title: Préparation aux oraux : Sujets de TPs
 ---
 
 [comment]: <> (Page manuelle)
@@ -68,6 +68,11 @@ title: Sujet de TPs
 ## Direction assistée électrique
 
 ## Bras Beta
+[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/02_BrasBeta/02_BrasBeta_2h.pdf){ .md-button .md-button--primary } 
+[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/02_BrasBeta/02_BrasBeta_4h.pdf){ .md-button .md-button--primary }
+[Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/02_BrasBeta/02_BrasBeta_Documentation.pdf){ .md-button .md-button--primary }
+
+[Modèle Scilab](https://github.com/xpessoles/TP_Documents_PSI/raw/master/02_BrasBeta/02_BrasBeta_Xcos.zip){ .md-button .md-button--primary }
 
 ## BGR-300
 
