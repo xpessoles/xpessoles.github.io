@@ -52,6 +52,12 @@ title: Sujet de TPs
 
 
 ## ControlX
+[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/05_ControlX/05_ControlX_2h.pdf){ .md-button .md-button--primary } 
+[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/05_ControlX/05_ControlX_4h.pdf){ .md-button .md-button--primary }
+[Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/05_ControlX/05_ControlX_Documentation.pdf){ .md-button .md-button--primary }
+
+[Modèle Matlab](https://github.com/xpessoles/TP_Documents_PSI/raw/master/05_ControlX/05_ControlX_Matlab.zip){ .md-button .md-button--primary }
+
 
 ## Cordeuse de raquette
 
