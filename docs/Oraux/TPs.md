@@ -46,7 +46,7 @@ title: Sujet de TPs
 [TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/03_ChevilleNAO/03_ChevilleNAO_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/03_ChevilleNAO/03_Documentation_ChevilleNAO.pdf){ .md-button .md-button--primary }
 
-[Modèle Matlab](https://github.com/xpessoles/TP_Documents_PSI/blob/master/03_ChevilleNAO/03_ChevilleNAO_Matlab.zip){ .md-button .md-button--primary }
+[Modèle Matlab](https://github.com/xpessoles/TP_Documents_PSI/raw/master/03_ChevilleNAO/03_ChevilleNAO_Matlab.zip){ .md-button .md-button--primary }
 
 
 ## ControlX
