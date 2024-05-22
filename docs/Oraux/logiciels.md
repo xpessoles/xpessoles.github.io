@@ -21,4 +21,4 @@ Activités d’entraînement sur les logiciels de simulation.
 
 ### Exercices MaxPID
 [Modèle SW](https://github.com/xpessoles/TP_Documents_PSI/blob/master/11_MaxpidE/Maxpid-V2_SolidWorks_V1.zip){ .md-button .md-button--primary }
-[Sujet](https://github.com/xpessoles/TP_Documents_PSI/blob/master/11_MaxpidE/Maxpid-V2_SolidWorks_V1.zip){ .md-button .md-button--primary }
+[Sujet](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/99_Simulation/SW/TD_Simulation_Meca3D_Maxpid.pdf){ .md-button .md-button--primary }
