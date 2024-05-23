@@ -69,6 +69,12 @@ title: Sujets de TPs pour la préparation aux oraux
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/22_I3D/22_I3D_2h.pdf){ .md-button .md-button--primary } 
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/22_ImprimanteI3D/22_ImprimanteI3D_Documentation.pdf){ .md-button .md-button--primary }
 
+## D2C
+[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/08_Drone_D2C/D2C_SED_Sujet.pdf){ .md-button .md-button--primary } 
+[Documentation](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/08_Drone_D2C/Documentation_DroneD2C_V3.pdf){ .md-button .md-button--primary }
+[Modèles](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/08_Drone_D2C/Modeles.zip){ .md-button .md-button--primary }
+
+
 ## Moteur à courant continu
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/06_Cordeuse/Cordeuse_Sujet.pdf){ .md-button .md-button--primary } 
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/12_MoteurCC_3Sigma/12_MoteurCC_DocumentsRessources.pdf){ .md-button .md-button--primary }
@@ -86,6 +92,14 @@ title: Sujets de TPs pour la préparation aux oraux
 
 [Modèle Scilab](https://github.com/xpessoles/TP_Documents_PSI/raw/master/02_BrasBeta/02_BrasBeta_Xcos.zip){ .md-button .md-button--primary }
 
+
+## Robot Delta 2D
+[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/17_RobotDelta2D/17_RobotDelta2D_2h.pdf){ .md-button .md-button--primary } 
+[Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/17_RobotDelta2D/17_RobotDelta2D_Documentation.pdf){ .md-button .md-button--primary }
+
+[Modèle SW](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/17_RobotDelta2D/17_RobotDelta2D_SW.zip){ .md-button .md-button--primary } 
+[Fichier Py](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/17_RobotDelta2D/DeplacementVertPas10mm_API.py){ .md-button .md-button--primary } 
+
 ## BGR-300
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/01_BGR-300/01_BGR-300_Sujet_2h.pdf){ .md-button .md-button--primary } 
 [TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/01_BGR-300/02_BrasBeta_4h.pdf){ .md-button .md-button--primary }
@@ -99,27 +113,3 @@ title: Sujets de TPs pour la préparation aux oraux
 
 
 
-
-## ToDO
-
-
-<div class="grid cards" markdown>
-
-xx_xx
-- [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/xx_xx/_2h.pdf){ .md-button .md-button--primary }
-- [TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/xx_xx/xx_4h.pdf){ .md-button .md-button--primary }
-- [Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/xx_xx/xx_xx_Documentation.pdf){ .md-button .md-button--primary }
-- [Modèle SW](https://github.com/xpessoles/TP_Documents_PSI/blob/master/xx_xx/xx){ .md-button .md-button--primary }
-
-</div>
-
-
-<div class="grid cards" markdown>
-
-xx_xx
-- [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/xx_xx/_2h.pdf)
-- [TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/xx_xx/xx_4h.pdf)
-- [Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/xx_xx/xx_xx_Documentation.pdf)
-- [Modèle SW](https://github.com/xpessoles/TP_Documents_PSI/blob/master/xx_xx/xx)
-
-</div>
