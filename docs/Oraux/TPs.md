@@ -14,7 +14,7 @@ title: Sujets de TPs pour la préparation aux oraux
 [Modèle SW](https://github.com/xpessoles/TP_Documents_PSI/blob/master/11_MaxpidE/Maxpid-V2_SolidWorks_V1.zip){ .md-button .md-button--primary }
 
 
-## Plateforme 6 axes
+[comment]: <> ## Plateforme 6 axes
 
 ## CoMAX
 
@@ -34,7 +34,7 @@ title: Sujets de TPs pour la préparation aux oraux
 [Vidéo](https://github.com/xpessoles/TP_Sujets/raw/main/04_ResolutionCinematique/13_04_01/13_04_01_CarRide.mp4){ .md-button .md-button--primary }
 
 
-## Robot à câbles RC4
+[comment]: <> ## Robot à câbles RC4
 
 ## Barrière Sympact
 
