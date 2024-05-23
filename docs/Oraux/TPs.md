@@ -64,8 +64,8 @@ title: Sujets de TPs pour la préparation aux oraux
 [Fichiers](https://github.com/xpessoles/TP_Documents_PSI/raw/master/06_Cordeuse/06_Cordeuse.zip){ .md-button .md-button--primary }
 
 ## Imprimante I3D
-[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/06_Cordeuse/Cordeuse_Sujet.pdf){ .md-button .md-button--primary } 
-[Fichiers](https://github.com/xpessoles/TP_Documents_PSI/raw/master/06_Cordeuse/06_Cordeuse.zip){ .md-button .md-button--primary }
+[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/22_I3D/22_I3D_2h.pdf){ .md-button .md-button--primary } 
+[Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/22_ImprimanteI3D/22_ImprimanteI3D_Documentation.pdf){ .md-button .md-button--primary }
 
 ## Moteur à courant continu
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/06_Cordeuse/Cordeuse_Sujet.pdf){ .md-button .md-button--primary } 
