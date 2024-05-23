@@ -76,8 +76,8 @@ title: Sujets de TPs pour la préparation aux oraux
 
 
 ## Direction assistée électrique
-[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/22_I3D/22_I3D_2h.pdf){ .md-button .md-button--primary } 
-[Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/22_ImprimanteI3D/22_ImprimanteI3D_Documentation.pdf){ .md-button .md-button--primary }
+[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/07_DAE/DAE_Sujet.pdf){ .md-button .md-button--primary } 
+[Fichiers](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/07_DAE/DAE_Eleves.zip){ .md-button .md-button--primary } 
 
 ## Bras Beta
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/02_BrasBeta/02_BrasBeta_2h.pdf){ .md-button .md-button--primary } 
