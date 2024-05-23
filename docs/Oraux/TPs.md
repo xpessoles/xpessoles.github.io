@@ -60,7 +60,8 @@ title: Sujets de TPs pour la préparation aux oraux
 
 
 ## Cordeuse de raquette
-
+[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/06_Cordeuse/Cordeuse_Sujet.pdf){ .md-button .md-button--primary } 
+[Fichiers](https://github.com/xpessoles/TP_Documents_PSI/raw/master/06_Cordeuse/06_Cordeuse.zip){ .md-button .md-button--primary }
 
 ## Imprimante I3D
 
