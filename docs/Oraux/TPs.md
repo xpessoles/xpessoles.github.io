@@ -61,11 +61,14 @@ title: Sujets de TPs pour la préparation aux oraux
 
 ## Cordeuse de raquette
 
+
 ## Imprimante I3D
 
 ## Moteur à courant continu
 
 ## Direction assistée électrique
+[TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/07_DAE/DAE_Sujet.pdf){ .md-button .md-button--primary } 
+[Fichiers](https://github.com/xpessoles/TP_Documents_PSI/raw/master/07_DAE/DAE_Eleves.zip){ .md-button .md-button--primary }
 
 ## Bras Beta
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/02_BrasBeta/02_BrasBeta_2h.pdf){ .md-button .md-button--primary } 
