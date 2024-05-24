@@ -110,6 +110,7 @@ title: Sujets de TPs pour la préparation aux oraux
 
 ## Pilote Hydraulique de voilier
 
+[Fichiers](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/Pilote.zip){ .md-button .md-button--primary }
 
 
 
