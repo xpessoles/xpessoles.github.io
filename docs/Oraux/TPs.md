@@ -63,7 +63,7 @@ title: Sujets de TPs pour la préparation aux oraux
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/06_Cordeuse/Cordeuse_Sujet.pdf){ .md-button .md-button--primary } 
 [TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/06_Cordeuse/06_Cordeuse_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/06_Cordeuse/Documentation_Cordeuse_V2.pdf){ .md-button .md-button--primary }
-[Fichiers](https://github.com/xpessoles/TP_Documents_PSI/raw/master/06_Cordeuse/06_Cordeuse.zip){ .md-button .md-button--primary }
+[Fichiers](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/06_Cordeuse/06_Cordeuse.zip){ .md-button .md-button--primary }
 
 ## Imprimante I3D
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/22_I3D/22_I3D_2h.pdf){ .md-button .md-button--primary } 
