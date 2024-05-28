@@ -8,7 +8,7 @@ title: Sujets de TPs pour la préparation aux oraux
 ## MaxPIDE
 
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/11_MaxPID/11_MaxPID_2h.pdf){ .md-button .md-button--primary }
-[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/11_MaxPID/11_MaxPID_4h.pdf){ .md-button .md-button--primary }
+[TP 4h :heavy_check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/11_MaxPID/11_MaxPID_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/11_MaxpidE/11_MaxPIDE_Documentation.pdf){ .md-button .md-button--primary }
 
 [Modèle SW](https://github.com/xpessoles/TP_Documents_PSI/raw/master/11_MaxpidE/Maxpid-V2_SolidWorks_V1.zip){ .md-button .md-button--primary }
@@ -19,7 +19,7 @@ title: Sujets de TPs pour la préparation aux oraux
 ## CoMAX
 
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/04_CoMAX/04_CoMAX_2h.pdf){ .md-button .md-button--primary }
-[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/04_CoMAX/04_CoMAX_4h.pdf){ .md-button .md-button--primary }
+[TP 4h :heavy_check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/04_CoMAX/04_CoMAX_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/04_CoMAX/04_Comax_Documentation.pdf){ .md-button .md-button--primary }
 
 [Modèle Scilab-Xcos](https://github.com/xpessoles/TP_Documents_PSI/raw/master/04_CoMAX/04_CoMAX_XCOS.zip){ .md-button .md-button--primary }
@@ -27,7 +27,7 @@ title: Sujets de TPs pour la préparation aux oraux
 ## Moby Crea
 
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/13_Moby_Crea/13_Moby_Crea_2h.pdf){ .md-button .md-button--primary } 
-[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/13_Moby_Crea/13_Moby_Crea_4h.pdf){ .md-button .md-button--primary }
+[TP 4h :heavy_check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/13_Moby_Crea/13_Moby_Crea_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/13_Moby_Crea/13_Documentation_Moby.pdf){ .md-button .md-button--primary }
 
 [Lien Capytale](https://capytale2.ac-paris.fr/web/c/11e1-3612495){ .md-button .md-button--primary }
