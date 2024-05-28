@@ -39,7 +39,7 @@ title: Sujets de TPs pour la préparation aux oraux
 ## Barrière Sympact
 
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/19_Sympact/19_Sympact_2h.pdf){ .md-button .md-button--primary } 
-[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/19_Sympact/19_Sympact_4h.pdf){ .md-button .md-button--primary }
+[TP 4h :heavy_check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/19_Sympact/19_Sympact_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/19_Sympact/19_Documentation_Sympact.pdf){ .md-button .md-button--primary }
 
 ## Cheville NAO
