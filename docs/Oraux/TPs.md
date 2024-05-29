@@ -27,7 +27,7 @@ title: Sujets de TPs pour la préparation aux oraux
 ## Moby Crea
 
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/13_Moby_Crea/13_Moby_Crea_2h.pdf){ .md-button .md-button--primary } 
-[TP 4h :heavy_check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/13_Moby_Crea/13_Moby_Crea_4h.pdf){ .md-button .md-button--primary }
+[TP 4h :check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/13_Moby_Crea/13_Moby_Crea_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/13_Moby_Crea/13_Documentation_Moby.pdf){ .md-button .md-button--primary }
 
 [Lien Capytale](https://capytale2.ac-paris.fr/web/c/11e1-3612495){ .md-button .md-button--primary }
@@ -53,7 +53,7 @@ title: Sujets de TPs pour la préparation aux oraux
 
 ## ControlX
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/05_ControlX/05_ControlX_2h.pdf){ .md-button .md-button--primary } 
-[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/05_ControlX/05_ControlX_4h.pdf){ .md-button .md-button--primary }
+[TP 4h :check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/05_ControlX/05_ControlX_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/05_ControlX/05_ControlX_Documentation.pdf){ .md-button .md-button--primary }
 
 [Modèle Matlab](https://github.com/xpessoles/TP_Documents_PSI/raw/master/05_ControlX/05_ControlX_Matlab.zip){ .md-button .md-button--primary }
