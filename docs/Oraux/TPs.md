@@ -45,7 +45,7 @@ title: Sujets de TPs pour la préparation aux oraux
 ## Cheville NAO
 
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/03_ChevilleNAO/03_ChevilleNAO_2h.pdf){ .md-button .md-button--primary } 
-[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/03_ChevilleNAO/03_ChevilleNAO_4h.pdf){ .md-button .md-button--primary }
+[TP 4h :check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/03_ChevilleNAO/03_ChevilleNAO_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/03_ChevilleNAO/03_Documentation_ChevilleNAO.pdf){ .md-button .md-button--primary }
 
 [Modèle Matlab](https://github.com/xpessoles/TP_Documents_PSI/raw/master/03_ChevilleNAO/03_ChevilleNAO_Matlab.zip){ .md-button .md-button--primary }
