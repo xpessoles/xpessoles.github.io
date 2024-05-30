@@ -67,6 +67,7 @@ title: Sujets de TPs pour la préparation aux oraux
 
 ## Imprimante I3D
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/22_I3D/22_I3D_2h.pdf){ .md-button .md-button--primary } 
+[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/22_I3D/22_I3D_4h.pdf){ .md-button .md-button--primary } 
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/22_ImprimanteI3D/22_ImprimanteI3D_Documentation.pdf){ .md-button .md-button--primary }
 
 ## D2C
