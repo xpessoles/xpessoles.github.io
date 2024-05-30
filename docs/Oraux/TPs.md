@@ -61,7 +61,7 @@ title: Sujets de TPs pour la préparation aux oraux
 
 ## Cordeuse de raquette
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/06_Cordeuse/Cordeuse_Sujet.pdf){ .md-button .md-button--primary } 
-[TP 4h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/06_Cordeuse/06_Cordeuse_4h.pdf){ .md-button .md-button--primary }
+[TP 4h :check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/06_Cordeuse/06_Cordeuse_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/06_Cordeuse/Documentation_Cordeuse_V2.pdf){ .md-button .md-button--primary }
 [Fichiers](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/06_Cordeuse/06_Cordeuse.zip){ .md-button .md-button--primary }
 
@@ -77,6 +77,7 @@ title: Sujets de TPs pour la préparation aux oraux
 
 ## Moteur à courant continu
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/12_MoteurMCC/12_MoteurCC_2h.pdf){ .md-button .md-button--primary } 
+[TP 4h :check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/12_MoteurMCC/12_MoteurCC_4h.pdf){ .md-button .md-button--primary } 
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/12_MoteurCC_3Sigma/12_MoteurCC_DocumentsRessources.pdf){ .md-button .md-button--primary }
 [Fichiers](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/12_MoteurMCC/CommandePWM_Mesure.slx){ .md-button .md-button--primary }
 
