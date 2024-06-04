@@ -30,7 +30,6 @@ theme:
         name: Mode clair
       primary: teal
       accent: teal
-  favicon: material/robot-industrial-outline
   icon:
     logo: material/robot-industrial-outline
     tag:
