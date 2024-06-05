@@ -1,5 +1,5 @@
 ---
-title: Réaliser une régression linéaire
+title: Logiciels de modélisation et simulation
 ---
 
 [comment]: <> (Page manuelle)
