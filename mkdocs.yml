@@ -248,6 +248,8 @@ nav:
     - Regression linéaire : tipe/regression.md
     - Polyfit : tipe/polyfit.md
     - Incertitudes : tipe/incertitudes.md
+    - Diagrammes log : tipe/log.md
+    - Figures multiples : tipe/multiples.md
   - Logiciels : tipe/logiciels.md
 - Divers : 
     - Sites: Divers/sites.md
