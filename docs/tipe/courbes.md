@@ -91,7 +91,7 @@ On obtient le résultat suivant.
 Pour sauvegarder, `matplotlib` permet de sauvegarder l'image en PNG, permettant ainsi de l'ajouter à votre présentation.
 
 
-??? info Épaisseur et couleurs de lignes
+??? info "Épaisseur et couleurs de lignes"
 
     Il est possible de modifier l'épaisseur et la couleur des traits en ajoutant des options. Par exemple :
     ``` py
@@ -127,8 +127,10 @@ plt.show()
 On obtient le résultat suivant. 
 
 <figure markdown="span">
-  ![Courbes](courbes/plot_01.png){ width="300" }
+  ![Courbes](courbes/plot_02.png){ width="300" }
   <figcaption>Tracé des courbes avec les points </figcaption>
 </figure>
 
-Pour sauvegarder, `matplotlib` permet de sauvegarder l'image en PNG, permettant ainsi de l'ajouter à votre présentation.
+??? info "Marqueurs"
+    
+	Il est possible de modifier le [marqueur de la courbe](https://matplotlib.org/stable/api/markers_api.html).
