@@ -54,11 +54,12 @@ Les options choisies ici sont les suivantes :
  - `unpack=True` : séparer les colonnes dans des variables différentes;
  - `usecols=(0,1,2)` : sélection des colonnes à charger.
  
- # Tracé d'une courbe
- On va ici tracer une courbe avec le minimum d'informations nécessaires (titres, légende des axes).
+# Tracé d'une courbe
 
- 
- Les points mesurés sont ici reliés par des lignes. Cela n'est pas forcément souhaitable, notamment si les points sont écartés. 
+## Tracé rapide
+On va ici tracer une courbe avec le minimum d'informations nécessaires (titres, légende des axes).
+
+Les points mesurés sont ici reliés par des lignes. Cela n'est pas forcément souhaitable, notamment si les points sont écartés. 
  
  
 ``` py title="Tracer de courbes"
@@ -86,3 +87,53 @@ On obtient le résultat suivant.
   ![Courbes](courbes/plot_01.png){ width="300" }
   <figcaption>Tracé des courbes</figcaption>
 </figure>
+
+Pour sauvegarder, `matplotlib` permet de sauvegarder l'image en PNG, permettant ainsi de l'ajouter à votre présentation.
+
+??? info Épaisseur et couleurs de lignes
+
+Il est possible de modifier l'épaisseur et la couleur des traits en ajoutant des options. Par exemple :
+``` py
+plt.plot(t,x,linewidth=3, color = "red", label = 'Déplacement horizontal [mm]')
+```
+
+On donne ci-dessous la [palette de couleur](https://matplotlib.org/stable/gallery/color/named_colors.html).
+
+<figure markdown="span">
+  ![Courbes](courbes/palette.webp){ width="300" }
+  <figcaption>Palette de couleurs </figcaption>
+</figure>
+
+
+???
+
+## Tracé des points de mesure
+
+ 
+ ``` py title="Tracer de courbes"
+import matplolib.pyplot as plt
+plt.close()
+# Tracer des courbes avec légende
+plt.plot(t,x,'.',label = 'Déplacement horizontal [mm]')
+plt.plot(t,y,'.',label = 'Déplacement vertical [mm]')
+
+# Affichage d'une grille
+plt.grid()
+
+# AFfichage de la légende
+plt.legend()
+plt.xlabel("Temps (s)")
+plt.ylabel("Déplacement (mm)")
+
+# Affichage de la courbe
+plt.show()
+``` 
+
+On obtient le résultat suivant. 
+
+<figure markdown="span">
+  ![Courbes](courbes/plot_01.png){ width="300" }
+  <figcaption>Tracé des courbes avec les points </figcaption>
+</figure>
+
+Pour sauvegarder, `matplotlib` permet de sauvegarder l'image en PNG, permettant ainsi de l'ajouter à votre présentation.
