@@ -242,7 +242,12 @@ nav:
 - Notebooks: Informatique/notebooks.md
 - TIPE:
   - tipe/index.md
-  - Courbes : tipe/courbes.md
+  - Courbes Python : 
+    - Courbes : tipe/courbes.md
+    - Import données : tipe/import.md
+    - Regression linéaire : tipe/regression.md
+    - Polyfit : tipe/polyfit.md
+    - Incertitudes : tipe/incertitudes.md
   - Logiciels : tipe/logiciels.md
 - Divers : 
     - Sites: Divers/sites.md
