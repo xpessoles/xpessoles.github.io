@@ -90,22 +90,18 @@ On obtient le résultat suivant.
 
 Pour sauvegarder, `matplotlib` permet de sauvegarder l'image en PNG, permettant ainsi de l'ajouter à votre présentation.
 
+
 ??? info Épaisseur et couleurs de lignes
 
-Il est possible de modifier l'épaisseur et la couleur des traits en ajoutant des options. Par exemple :
-``` py
-plt.plot(t,x,linewidth=3, color = "red", label = 'Déplacement horizontal [mm]')
-```
-
-On donne ci-dessous la [palette de couleur](https://matplotlib.org/stable/gallery/color/named_colors.html).
-
-<figure markdown="span">
-  ![Courbes](courbes/palette.webp){ width="300" }
-  <figcaption>Palette de couleurs </figcaption>
-</figure>
-
-
-???
+    Il est possible de modifier l'épaisseur et la couleur des traits en ajoutant des options. Par exemple :
+    ``` py
+    plt.plot(t,x,linewidth=3, color = "red", label = 'Déplacement horizontal [mm]')
+    ```
+    On donne ci-dessous la [palette de couleur](https://matplotlib.org/stable/gallery/color/named_colors.html).
+    <figure markdown="span">
+      ![Courbes](courbes/palette.webp){ width="300" }
+        <figcaption>Palette de couleurs </figcaption>
+    </figure>
 
 ## Tracé des points de mesure
 
