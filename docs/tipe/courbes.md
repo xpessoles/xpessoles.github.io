@@ -62,7 +62,7 @@ On va ici tracer une courbe avec le minimum d'informations nécessaires (titres,
 Les points mesurés sont ici reliés par des lignes. Cela n'est pas forcément souhaitable, notamment si les points sont écartés. 
  
  
-``` py title="Tracer de courbes"
+``` py title="Tracé de courbes"
 import matplolib.pyplot as plt
 plt.close()
 # Tracer des courbes avec légende
@@ -105,8 +105,7 @@ Pour sauvegarder, `matplotlib` permet de sauvegarder l'image en PNG, permettant 
 
 ## Tracé des points de mesure
 
- 
- ``` py title="Tracer de courbes"
+``` py title="Tracer de courbes"
 import matplolib.pyplot as plt
 plt.close()
 # Tracer des courbes avec légende
