@@ -161,7 +161,7 @@ nav:
     - Oraux/TPs.md
     - Oraux/activites.md
     - Oraux/logiciels.md
-- Révisions:
+- Révisions Sup:
     - Revisions/index.md
     - Cinématique: 
       - Revisions/cin/index.md
@@ -240,6 +240,9 @@ nav:
   - Informatique/index.md
   - 2023-2024: Informatique/2023-2024.md
 - Notebooks: Informatique/notebooks.md
+- TIPE:
+  - tipe/index.md
+  - Courbes : tipe/courbes.md
 - Divers : 
     - Sites: Divers/sites.md
     - Index: Divers/tags.md
