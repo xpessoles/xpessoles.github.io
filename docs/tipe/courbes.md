@@ -46,8 +46,8 @@ t,x,y =np.loadtxt("data_02.txt", dtype=float, skiprows=2, delimiter="\t", unpack
 ``` 
 
 Les options choisies ici sont les suivantes :
- * `dtype` : typage des variables en flottants;
- * `skiprows=2` : on saute 2 lignes car il y a du texte sur ces deux lignes;
- * `delimiter="\t"` : les champs sont séparés par des tabulations;
- * `unpack=True` : séparer les colonnes dans des variables différentes;
- * `usecols=(0,1,2)` : sélection des colonnes à charger.
+ - `dtype` : typage des variables en flottants;
+ - `skiprows=2` : on saute 2 lignes car il y a du texte sur ces deux lignes;
+ - `delimiter="\t"` : les champs sont séparés par des tabulations;
+ - `unpack=True` : séparer les colonnes dans des variables différentes;
+ - `usecols=(0,1,2)` : sélection des colonnes à charger.
