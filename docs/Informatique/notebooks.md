@@ -1,14 +1,14 @@
 !!! info "Information"
 
-Les sujets ont été réalisés avec Capytale. 
-Pour les personnes ne disposant pas (ou plus) de Capytale, les notebook sont mis à disposition pour être ouverts avec Basthon. Dans ce cas, la mise en forme et les tests automatiques ne sont donc plus fonctionnels. 
-Légende utilisée ci-dessous :
-- `Eval` : auto évaluation avec des tests automatiques;
-- `Seq` : activité séquencée dans Capytale;
-- `S - C` : sujet Capytale; 
-- `C - C` : corrigé Capytale; 
-- `S - J` : sujet Jupyter - Basthon; 
-- `C - J` : corrigé Jupyter - Basthon.
+    Les sujets ont été réalisés avec Capytale. 
+    Pour les personnes ne disposant pas (ou plus) de Capytale, les notebook sont mis à disposition pour être ouverts avec Basthon. Dans ce cas, la mise en forme et les tests automatiques ne sont donc plus fonctionnels. 
+    Légende utilisée ci-dessous :
+    - `Eval` : auto évaluation avec des tests automatiques;
+    - `Seq` : activité séquencée dans Capytale;
+    - `S - C` : sujet Capytale; 
+    - `C - C` : corrigé Capytale; 
+    - `S - J` : sujet Jupyter - Basthon; 
+    - `C - J` : corrigé Jupyter - Basthon.
  
  
 ## Activités Pratiques
