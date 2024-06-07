@@ -19,7 +19,7 @@
 
 | Activité |  Eval | Séq | S - C | C - C | S - J | C - J |
 | -------- |  :--: | :------: | :-------: | :---------: | :-------: | :---------: |
-| Jeu de Babylone  | :octicons-x-circle-16: | :octicons-check-circle-16: | [:octicons-check-circle-16:](https://capytale2.ac-paris.fr/web/c/6f2c-3515792) | [:octicons-check-circle-16:](https://capytale2.ac-paris.fr/web/c/a4ce-3516429) | [:simple-jupyter:]( https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/xpessoles/xpessoles.github.io/main/docs/jupyter/DM_Jeu_de_Babylone_Sujet.ipynb) | [:simple-jupyter: Corrigé]() |
+| Jeu de Babylone  | :octicons-x-circle-16: | :octicons-check-circle-16: | [:octicons-check-circle-16:](https://capytale2.ac-paris.fr/web/c/6f2c-3515792) | [:octicons-check-circle-16:](https://capytale2.ac-paris.fr/web/c/a4ce-3516429) | [:simple-jupyter:]( https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/xpessoles/xpessoles.github.io/main/docs/jupyter/DM_Jeu_de_Babylone_Sujet.ipynb) | :simple-jupyter: |
 
 
 ### Récursivité, listes, courbes
