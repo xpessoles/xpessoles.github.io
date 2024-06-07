@@ -25,7 +25,7 @@
 ### Récursivité, listes, courbes
 | Activité |  Eval | Séq | S - C | C - C | S - J | C - J |
 | -------- |  :--: | :------: | :-------: | :---------: | :-------: | :---------: |
-| Courbes de Bézier :star: :star: | [:octicons-x-circle-16:]() | [:octicons-x-circle-16:]() | [:octicons-check-circle-16:](https://capytale2.ac-paris.fr/web/c/a61e-3509651) | [:octicons-check-circle-16:](https://capytale2.ac-paris.fr/web/c/2095-3509679) | [:octicons-x-circle-16:]() | [:simple-jupyter:](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/xpessoles/xpessoles.github.io/main/docs/jupyter/DS_Courbe_de_Bezier_Corrige.ipynb) |
+| Courbes de Bézier :star: :star: | :octicons-x-circle-16: | :octicons-x-circle-16: | [:octicons-check-circle-16:](https://capytale2.ac-paris.fr/web/c/a61e-3509651) | [:octicons-check-circle-16:](https://capytale2.ac-paris.fr/web/c/2095-3509679) | [:octicons-x-circle-16:]() | [:simple-jupyter:](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/xpessoles/xpessoles.github.io/main/docs/jupyter/DS_Courbe_de_Bezier_Corrige.ipynb) |
 
 
 https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/xpessoles/xpessoles.github.io/main/docs/jupyter/fichier.ipynb
