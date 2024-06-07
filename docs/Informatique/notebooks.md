@@ -1,8 +1,16 @@
+!!! info "Information"
 
-* Sujet (S) et Corrigé (C) C : Capytale
-* Sujet (S) et Corrigé (C) J : Jupyter
-* Séq : activité Capytale séquencée. 
-
+Les sujets ont été réalisé avec Capytale. 
+Pour les personnes ne disposant pas (ou plus) de Capytale, les notebook sont mis à disposition pour être ouverts avec Basthon. Dans ce cas, la mise en forme et les tests automatiques ne sont donc plus fonctionnels. 
+Légende utilisée ci-dessous :
+ - `Eval` : auto évaluation avec des tests automatiques;
+ - `Seq` : activité séquencée dans Capytale;
+ - `S - C` : sujet Capytale; 
+ - `C - C` : corrigé Capytale; 
+ - `S - J` : sujet Jupyter - Basthon; 
+ - `C - J` : corrigé Jupyter - Basthon.
+ 
+ 
 ## Activités Pratiques
 | Activité | Thèmes | Eval | Séq | S - C | C - C | S - J | C - J |
 | -------- | :----: | :--: | :------: | :-------: | :---------: | :-------: | :---------: |
