@@ -129,21 +129,21 @@
  
     --- 
  
-	![Pompe hydraulique](../img/plans/0_mini.png){ align=left } 
+	![Pompe hydraulique](../img/plans/016_mini.png){ align=left } 
     [:octicons-arrow-right-24: Plan](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/Mecanismes) 
 	
 -   :octicons-graph-16:{ .lg .middle } __Changeur d'outil__
  
     --- 
  
-	![Changeur d'outil](../img/plans/0_mini.png){ align=left } 
+	![Changeur d'outil](../img/plans/017_mini.png){ align=left } 
     [:octicons-arrow-right-24: Plan](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/Mecanismes) 
 	
 -   :octicons-graph-16:{ .lg .middle } __Désileuse__
  
     --- 
  
-	![Désileuse](../img/plans/0_mini.png){ align=left } 
+	![Désileuse](../img/plans/018_mini.png){ align=left } 
     [:octicons-arrow-right-24: Plan](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/Mecanismes) 
 	
 	
