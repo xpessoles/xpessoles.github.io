@@ -94,7 +94,7 @@
  
     --- 
  
-	![Coupe tube](../img/plans/011_mini.pdf){ align=left } 
+	![Coupe tube](../img/plans/011_mini.png){ align=left } 
     [:octicons-arrow-right-24: Plan](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/Mecanismes) 
 	
 -   :octicons-graph-16:{ .lg .middle } __Compresseur de climatiseur__
@@ -115,14 +115,14 @@
  
     --- 
  
-	![Moteur de modélisme](../img/plans/015_mini.png){ align=left } 
+	![Moteur de modélisme](../img/plans/014_mini.png){ align=left } 
     [:octicons-arrow-right-24: Plan](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/Mecanismes) 
 	
 -   :octicons-graph-16:{ .lg .middle } __Pompe volumétrique__
  
     --- 
  
-	![Pompe volumétrique](../img/plans/0_mini.png){ align=left } 
+	![Pompe volumétrique](../img/plans/015_mini.png){ align=left } 
     [:octicons-arrow-right-24: Plan](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/Mecanismes) 
 	
 -   :octicons-graph-16:{ .lg .middle } __Pompe hydraulique__
