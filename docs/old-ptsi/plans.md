@@ -221,7 +221,7 @@
  
     --- 
  
-	![Actionneur de vanne](../img/plans/030_mini.png){ align=left } 
+	![Actionneur de vanne](../img/plans/030_mini.jpg){ align=left } 
     [:octicons-arrow-right-24: Plan](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/Mecanismes) 
 	
 -   :octicons-graph-16:{ .lg .middle } __Pompe Manuelle ENSIETA__
