@@ -151,7 +151,7 @@
  
     --- 
  
-	![Pompe à pistons](../img/plans/0_mini.png){ align=left } 
+	![Pompe à pistons](../img/plans/019_mini.png){ align=left } 
     [:octicons-arrow-right-24: Plan](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/Mecanismes) 
 	
 -   :octicons-graph-16:{ .lg .middle } __Roue motrice et directrice__
