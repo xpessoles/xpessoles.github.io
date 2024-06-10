@@ -1,5 +1,5 @@
 ---
-title: Tracer de courbes En construction.
+title: Tracer des courbes
 ---
 
 [comment]: <> (Page manuelle)
