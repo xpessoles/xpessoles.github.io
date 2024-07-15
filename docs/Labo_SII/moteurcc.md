@@ -26,3 +26,10 @@ tags:
 - [:fontawesome-solid-file-word:](https://github.com/xpessoles/TP_Sujets/raw/main/07_Modelisation_Composant/12_MoteurCC_07_Modelisation_Composants.docx) [:material-github:](https://github.com/xpessoles/TP_Sujets/tree/main/07_Modelisation_Composant) 07 : Modélisation composant
 - [:fontawesome-solid-file-word:](https://github.com/xpessoles/TP_Sujets/raw/main/12_ChoixSyntheseCorrecteur/12_MoteurCC_12_ChoixSyntheseCorrecteur.docx) [:material-github:](https://github.com/xpessoles/TP_Sujets/tree/main/12_ChoixSyntheseCorrecteur) 12 : Choix et Synthèse des correcteurs
 - [:fontawesome-solid-file-word:](https://github.com/xpessoles/TP_Sujets/raw/main/12_ChoixSyntheseCorrecteur/12_MoteurCC_12_ChoixSyntheseCorrecteur_Arduino.docx) [:material-github:](https://github.com/xpessoles/TP_Sujets/tree/main/12_ChoixSyntheseCorrecteur) 12 : Choix et Synthèse des correcteurs
+
+
+## Éléments de corrigé.
+
+- [:fontawesome-solid-file-powerpoint:](https://github.com/xpessoles/TP_Corriges/raw/main/12_MCC/12_MCC_Corrige.pptx) [:material-github:](https://github.com/xpessoles/TP_Corriges/tree/main/12_MCC) 
+
+C:\GitHub\TP_Corriges\12_MCC
