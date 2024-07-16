@@ -31,5 +31,3 @@ tags:
 ## Éléments de corrigé.
 
 - [:fontawesome-solid-file-powerpoint:](https://github.com/xpessoles/TP_Corriges/raw/main/12_MCC/12_MCC_Corrige.pptx) [:material-github:](https://github.com/xpessoles/TP_Corriges/tree/main/12_MCC) 
-
-C:\GitHub\TP_Corriges\12_MCC
