@@ -1,8 +1,16 @@
 !!! info "Information"
 
+	Je n'ai pas encore pris le temps de mettre un lien vers toutes mes activités Capytale. 
+	Vous en trouverez certaines [ici](https://xpessoles.github.io/Informatique/2023-2024/#activites-pratiques).
+
+
+!!! info "Information"
+
     Les sujets ont été réalisés avec Capytale. 
     Pour les personnes ne disposant pas (ou plus) de Capytale, les notebook sont mis à disposition pour être ouverts avec Basthon. Dans ce cas, la mise en forme et les tests automatiques ne sont donc plus fonctionnels. 
-    Légende utilisée ci-dessous : 
+    Légende utilisée ci-dessous.
+
+
 * `Eval` : auto évaluation avec des tests automatiques;
 * `Seq` : activité séquencée dans Capytale;
 * `S - C` : sujet Capytale; 
