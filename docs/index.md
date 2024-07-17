@@ -17,6 +17,10 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 </div>
 
 
+## Des polys
+Voici des polys pour avoir un aperçu du type de documents utilisés avec les élèves. 
+
+
 
 ## Quelques liens
 
@@ -24,6 +28,8 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
  * [Informatique en PTSI](https://ptsilamartin.github.io/info.html)
  * [La Martinière Monplaisir](https://martiniere-monplaisir.ent.auvergnerhonealpes.fr/)
  * [UPSTI - Annales](https://www.upsti.fr/espace-etudiants/annales-de-concours)
+
+
  
  <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-45JVSEKHDF"></script>
