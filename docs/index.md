@@ -20,6 +20,9 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 ## Des polys
 Voici des polys pour avoir un aperçu du type de documents utilisés avec les élèves. 
 
+[Full Poly](http://xpessoles-cpge.fr/pdf/FULL_POLY.pdf){ .md-button .md-button--primary }
+[Full Activites](http://xpessoles-cpge.fr/pdf/FULL_Activites.pdf){ .md-button .md-button--primary }
+
 
 
 ## Quelques liens
