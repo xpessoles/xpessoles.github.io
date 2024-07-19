@@ -4,6 +4,16 @@ Je vous souhaite la bienvenue sur ma nième tentative de réalisation d'un site 
 J'espère que cette fois, je parviendrai à proposer un site pérenne et actualisé...
 
 
+
+## Des polys
+Voici des polys pour avoir un aperçu du type de documents utilisés avec les élèves. 
+Le but de ces polys étant uniquement d'avoir un aperçu des activités proposées, il y a plein de bugs de mise en page. 
+
+[Full Poly](https://xpessoles-cpge.fr/pdf/FULL_POLY.pdf){ .md-button .md-button--primary }
+[Full Activites](https://xpessoles-cpge.fr/pdf/FULL_Activites.pdf){ .md-button .md-button--primary }
+
+## Accès directs
+
 <div class="grid cards" markdown>
 
 - [Documents 2023-2024](PSI/2023_2024.md)
@@ -16,12 +26,6 @@ J'espère que cette fois, je parviendrai à proposer un site pérenne et actuali
 
 </div>
 
-
-## Des polys
-Voici des polys pour avoir un aperçu du type de documents utilisés avec les élèves. 
-
-[Full Poly](http://xpessoles-cpge.fr/pdf/FULL_POLY.pdf){ .md-button .md-button--primary }
-[Full Activites](http://xpessoles-cpge.fr/pdf/FULL_Activites.pdf){ .md-button .md-button--primary }
 
 
 
