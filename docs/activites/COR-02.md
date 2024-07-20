@@ -8,5 +8,5 @@ tags:
 ##Régler un correcteur P graphiquement ou analytiquement 
 | Activités | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
-| 65_Eclipse | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/COR-02_65_Eclipse_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/COR-02_65_Eclipse_Sujet.pdf) |[:material-github:](https://github.com/xpessoles/PSI_ExercicesCompetences/tree/main/) |  
+| 65_Eclipse | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/COR-02_65_Eclipse_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/COR-02_65_Eclipse_Corrige.pdf) |[:material-github:](https://github.com/xpessoles/PSI_ExercicesCompetences/tree/main/) |  
 

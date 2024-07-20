@@ -8,5 +8,5 @@ tags:
 ##Régler un correcteur à avance de phase 
 | Activités | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
-| 65_Eclipse_03 | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/COR-04_65_Eclipse_03_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/COR-04_65_Eclipse_03_Sujet.pdf) |[:material-github:](https://github.com/xpessoles/PSI_ExercicesCompetences/tree/main/_03) |  
+| 65_Eclipse_03 | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/COR-04_65_Eclipse_03_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/COR-04_65_Eclipse_03_Corrige.pdf) |[:material-github:](https://github.com/xpessoles/PSI_ExercicesCompetences/tree/main/_03) |  
 

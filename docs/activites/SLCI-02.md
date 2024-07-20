@@ -8,5 +8,5 @@ tags:
 ##Modéliser un SLCI en utilisant la transformée de Laplace 
 | Activités | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
-| 51_MCC | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/SLCI-02_51_MCC_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/SLCI-02_51_MCC_Sujet.pdf) |[:material-github:](https://github.com/xpessoles/PSI_ExercicesCompetences/tree/main/) |  
+| 51_MCC | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/SLCI-02_51_MCC_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/SLCI-02_51_MCC_Corrige.pdf) |[:material-github:](https://github.com/xpessoles/PSI_ExercicesCompetences/tree/main/) |  
 
