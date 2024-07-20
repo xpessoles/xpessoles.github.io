@@ -8,6 +8,6 @@ tags:
 ##Déterminer les déformations d'une pièce 
 | Activités | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
-| 531_RdM | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/RDM-05_531_RdM_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://xpessoles-cpge.fr/pdf/RDM-05_531_RdM_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_ExercicesCompetences/tree/main/31_RdM) |  
-| 532_RdM | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/RDM-05_532_RdM_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://xpessoles-cpge.fr/pdf/RDM-05_532_RdM_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_ExercicesCompetences/tree/main/32_RdM) |  
+| 531_RdM | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/RDM-05_531_RdM_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/RDM-05_531_RdM_Sujet.pdf) |[:material-github:](https://github.com/xpessoles/PSI_ExercicesCompetences/tree/main/31_RdM) |  
+| 532_RdM | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/RDM-05_532_RdM_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/RDM-05_532_RdM_Sujet.pdf) |[:material-github:](https://github.com/xpessoles/PSI_ExercicesCompetences/tree/main/32_RdM) |  
 
