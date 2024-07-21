@@ -14,8 +14,8 @@ tags:
 | Applications | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
 | Pompe à plateau | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_01_Ch_03_Application_01_Pompe_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_01_Ch_03_Application_01_Pompe_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_01_ModelisationSystemes/tree/main/Ch_03_DynamiqueEnergetique1D/Cy_01_Ch_03_Application_01_Pompe) | 
-| Réducteur | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_01_Ch_03_Application_02_Reducteur_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_01_Ch_03_Application_02_Reducteur_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_01_ModelisationSystemes/tree/main/Ch_03_DynamiqueEnergetique1D/Cy_01_Ch_03_Application_02_Reducteur) | 
-| Axe numérique | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_01_Ch_03_Application_03_AxeNumerique_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_01_Ch_03_Application_03_AxeNumerique_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_01_ModelisationSystemes/tree/main/Ch_03_DynamiqueEnergetique1D/Cy_01_Ch_03_Application_03_AxeNumerique) | 
+| Réducteur | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_01_Ch_03_Application_02_Reducteur_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_01_Ch_03_Application_02_Reducteur_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_01_ModelisationSystemes/tree/main/Ch_03_DynamiqueEnergetique1D/Cy_01_Ch_03_Application_02_Reducteur) | 
+| Axe numérique | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_01_Ch_03_Application_03_AxeNumerique_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_01_Ch_03_Application_03_AxeNumerique_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_01_ModelisationSystemes/tree/main/Ch_03_DynamiqueEnergetique1D/Cy_01_Ch_03_Application_03_AxeNumerique) | 
 
 ### Travaux Dirigés 
  

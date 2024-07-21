@@ -20,7 +20,7 @@ tags:
  
 | Travaux Dirigés | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
-| Machine de forage | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_11_Ch_01_TD_01_Foreuse_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_11_Ch_01_TD_01_Foreuse_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_11_Statique_Revisions/tree/main/Chapitre_01_MAM/Cy_11_Ch_01_TD_01_Foreuse) | 
+| Machine de forage | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_11_Ch_01_TD_01_Foreuse_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_11_Ch_01_TD_01_Foreuse_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_11_Statique_Revisions/tree/main/Chapitre_01_MAM/Cy_11_Ch_01_TD_01_Foreuse) | 
 
 
 
