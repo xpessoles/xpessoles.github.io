@@ -19,7 +19,9 @@ tags:
  
 | Travaux Dirigés | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
-| Liaisons équivalentes | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_Application_01_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_Application_01_Corrige.pdf) | | Tour de la terreur | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_Application_02_Terreur_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_Application_02_Terreur_Corrige.pdf) | | Conception de la commande d’un robot chirurgical | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_TD_01_RobotChirurgical_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_TD_01_RobotChirurgical_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_06_ChaineSolides/tree/main/Chapitre_01_LiaisonsEquivalentes/Cy_06_01_TD_01_RobotChirurgical) | 
+| Liaisons équivalentes | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_Application_01_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_Application_01_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_06_ChaineSolides/tree/main/Chapitre_01_LiaisonsEquivalentes/Cy_06_01_Application_01) | 
+| Tour de la terreur | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_Application_02_Terreur_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_Application_02_Terreur_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_06_ChaineSolides/tree/main/Chapitre_01_LiaisonsEquivalentes/Cy_06_01_Application_02_Terreur) | 
+| Conception de la commande d’un robot chirurgical | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_TD_01_RobotChirurgical_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_06_01_TD_01_RobotChirurgical_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_06_ChaineSolides/tree/main/Chapitre_01_LiaisonsEquivalentes/Cy_06_01_TD_01_RobotChirurgical) | 
 
 
 
