@@ -5,6 +5,8 @@ tags:
   - C2-04
 ---
 
+[comment]: <> (Généré automatiquement par ALL_PDF/make_markdown.py, creation_fichiers_activites)
+
 
 ### Applications 
  
@@ -22,6 +24,6 @@ tags:
  
 | Colles | Sujet | Corrigé | Sources  | 
 | :-------------- | :---: | :-----: | :------: | 
-| Réglage d'un correcteur P et d'un correcteur à avance de phase | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_02_P_AP_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_02_P_AP_Corrige.pdf) | | Réglage d'un correcteur P et d'un correcteur à avance de phase | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_03_P_AP_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_03_P_AP_Corrige.pdf) | | Réglage d'un correcteur P et d'un correcteur à avance de phase | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_04_P_I_Sujet.pdf) | [:fontawesome-regular-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_04_P_I_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_03_ConceptionCommande/tree/main/Chapitre_01_Correction/Cy_03_01_Colle_04_P_I) | 
+| Réglage d'un correcteur P et d'un correcteur à avance de phase | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_02_P_AP_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_02_P_AP_Corrige.pdf) | | Réglage d'un correcteur P et d'un correcteur à avance de phase | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_03_P_AP_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_03_P_AP_Corrige.pdf) | | Réglage d'un correcteur P et d'un correcteur à avance de phase | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_04_P_I_Sujet.pdf) | [:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/Cy_03_01_Colle_04_P_I_Corrige.pdf) | [:material-github:](https://github.com/xpessoles/PSI_Cy_03_ConceptionCommande/tree/main/Chapitre_01_Correction/Cy_03_01_Colle_04_P_I) | 
 
 

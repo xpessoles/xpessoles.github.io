@@ -1,6 +1,12 @@
 ---
 title: SLCI Synthèse 
+tags:
+  - SLCI-02
+  - SLCI-09
+  - SLCI-11
 ---
+
+[comment]: <> (Généré automatiquement par ALL_PDF/make_markdown.py, creation_fichiers_activites)
 
 
 
