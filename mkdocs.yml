@@ -243,6 +243,7 @@ nav:
 - PTSI-PT :
   - old-ptsi/index.md
   - Plans: old-ptsi/plans.md
+  - Oldies : old-ptsi/old_ptsi.md
 - Informatique:
   - Informatique/index.md
   - 2023-2024: Informatique/2023-2024.md
