@@ -1,11 +1,5 @@
 import os
-chemins = [
-        "../../01_IntroductionIS_Analyser",
-        "../../03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre",
-        "../../04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser",
-        "../../06_Etude_Statique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre",
-        "../../09_Etude_Dynamique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre"
-        ]
+
 
 
 def make_pdf_list(chemins:[str]):
@@ -65,15 +59,24 @@ def make_dico_from_pdf_file(root, file):
 
 def write_md(pdf_list) :
     fid = open('old_ptsi.md','w', encoding="utf8")
-    fid.write("| Chemin | Fichier |  PDF  | Source | \n")
-    fid.write("| :----- | :-----: | :---: | :----: | \n")
+    fid.write("| Fichier |  PDF  | Source | Chemin | \n")
+    fid.write("| :------ | :---: | :----: | :----: | \n")
 
     for pdf in pdf_list :
-        fid.write("|"+pdf['chemin'][5:]+"|")
-        fid.write(pdf['fichier']+"|")
+        fid.write("|"+pdf['fichier']+"|")
         fid.write("[:fontawesome-solid-file-pdf:]("+pdf['lien_pdf']+") | ")
-        fid.write("[:material-github:]("+pdf["lien_git"]+") | \n")
+        fid.write("[:material-github:]("+pdf["lien_git"]+") |")
+        fid.write+pdf['chemin'][5:]+"| \n")
 
     fid.close()
+
+chemins = [
+        #"../../01_IntroductionIS_Analyser",
+        "../../02_SLCI_Analyser_Modeliser_Resoudre",
+        #"../../03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre",
+        #"../../04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser",
+        #"../../06_Etude_Statique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre",
+        #"../../09_Etude_Dynamique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre"
+        ]
 PDF_LISTE = make_pdf_list(chemins)
 write_md(PDF_LISTE)
