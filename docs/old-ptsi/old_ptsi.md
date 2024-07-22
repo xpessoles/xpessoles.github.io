@@ -2,6 +2,8 @@
 
 Mes (Très) vieux cours de PTSI... Je les mets là, si ça peut servir...
 
+
+## Ingéniérie Systèmes
 | Chemin | Fichier |  PDF  | Source | 
 | :----- | :-----: | :---: | :----: | 
 |/01_IntroductionIS_Analyser/01_IngenierieSystemes/Cours|01_IS_01_Intro_Cours.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/01_IS_01_Intro_Cours.pdf) | [:material-github:](https://github.com/xpessoles/01_IntroductionIS_Analyser/tree/master/01_IngenierieSystemes/Cours) | 
@@ -32,6 +34,11 @@ Mes (Très) vieux cours de PTSI... Je les mets là, si ça peut servir...
 |/01_IntroductionIS_Analyser/TD_IngenierieSystemes/01_IS_TD_01_SysReeduc|01_IS_TD_01_SysReeduc_Corr.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/01_IS_TD_01_SysReeduc_Corr.pdf) | [:material-github:](https://github.com/xpessoles/01_IntroductionIS_Analyser/tree/master/TD_IngenierieSystemes/01_IS_TD_01_SysReeduc) | 
 |/01_IntroductionIS_Analyser/TD_IngenierieSystemes/01_IS_TD_01_SysReeduc/images/Old|DS_01.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/DS_01.pdf) | [:material-github:](https://github.com/xpessoles/01_IntroductionIS_Analyser/tree/master/TD_IngenierieSystemes/01_IS_TD_01_SysReeduc/images/Old) | 
 |/01_IntroductionIS_Analyser/TD_IngenierieSystemes/01_IS_TD_01_SysReeduc/images/Old|DS_01_Corr.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/DS_01_Corr.pdf) | [:material-github:](https://github.com/xpessoles/01_IntroductionIS_Analyser/tree/master/TD_IngenierieSystemes/01_IS_TD_01_SysReeduc/images/Old) | 
+
+
+## Etude cinématique des systèmes de solides
+| Chemin | Fichier |  PDF  | Source | 
+| :----- | :-----: | :---: | :----: | 
 |/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/01_BasesMecanique/02_GeometrieVectorielle/Applications_01|03_Cin_02_Geometrie_App.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/03_Cin_02_Geometrie_App.pdf) | [:material-github:](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/01_BasesMecanique/02_GeometrieVectorielle/Applications_01) | 
 |/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/01_BasesMecanique/02_GeometrieVectorielle/Applications_02_CalculVectoriel|03_Cin_02_GeometrieVectorielle_Applications_02.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/03_Cin_02_GeometrieVectorielle_Applications_02.pdf) | [:material-github:](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/01_BasesMecanique/02_GeometrieVectorielle/Applications_02_CalculVectoriel) | 
 |/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/01_BasesMecanique/02_GeometrieVectorielle/Cours|03_Cin_02_Geometrie_Cours.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/03_Cin_02_Geometrie_Cours.pdf) | [:material-github:](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/01_BasesMecanique/02_GeometrieVectorielle/Cours) | 
@@ -231,10 +238,20 @@ Mes (Très) vieux cours de PTSI... Je les mets là, si ça peut servir...
 |/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/TD_Complementaires/Ch_06_TD_Transmission_VariateurBilles|Ch_06_TD_Transmission_VariateurBilles.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/Ch_06_TD_Transmission_VariateurBilles.pdf) | [:material-github:](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/TD_Complementaires/Ch_06_TD_Transmission_VariateurBilles) | 
 |/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/TD_Complementaires/Ch_06_TD_Transmission_VariateurBilles|Ch_06_TD_Transmission_VariateurBilles_Corr.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/Ch_06_TD_Transmission_VariateurBilles_Corr.pdf) | [:material-github:](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/TD_Complementaires/Ch_06_TD_Transmission_VariateurBilles) | 
 |/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/TD_Complementaires/Ch_07_TD_Robot_|Ch_07_TD_Robot_.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/Ch_07_TD_Robot_.pdf) | [:material-github:](https://github.com/xpessoles/03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/TD_Complementaires/Ch_07_TD_Robot_) | 
+
+
+## Étude des systèmes électriques
+| Chemin | Fichier |  PDF  | Source | 
+| :----- | :-----: | :---: | :----: | 
 |/04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser/01_DipolesSources/Application_01|04_Elec_01_DipolesSources_Application_01.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/04_Elec_01_DipolesSources_Application_01.pdf) | [:material-github:](https://github.com/xpessoles/04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser/tree/master/01_DipolesSources/Application_01) | 
 |/04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser/01_DipolesSources/TD_01_Girouette_Potentiometre|04_Elec_01_DipolesSources_TD_01_Girouette_Potentiometre.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/04_Elec_01_DipolesSources_TD_01_Girouette_Potentiometre.pdf) | [:material-github:](https://github.com/xpessoles/04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser/tree/master/01_DipolesSources/TD_01_Girouette_Potentiometre) | 
 |/04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser/01_DipolesSources/TD_01_Girouette_Potentiometre|04_Elec_01_DipolesSources_TD_01_Girouette_Potentiometre_Corr.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/04_Elec_01_DipolesSources_TD_01_Girouette_Potentiometre_Corr.pdf) | [:material-github:](https://github.com/xpessoles/04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser/tree/master/01_DipolesSources/TD_01_Girouette_Potentiometre) | 
 |/04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser/01_DipolesSources/TD_02_JaugeExtensometrie_Wheatstone|04_Elec_01_DipolesSources_TD_02_JaugeExtensometrie_Wheatstone.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/04_Elec_01_DipolesSources_TD_02_JaugeExtensometrie_Wheatstone.pdf) | [:material-github:](https://github.com/xpessoles/04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser/tree/master/01_DipolesSources/TD_02_JaugeExtensometrie_Wheatstone) | 
+
+
+## Étude statique des systèmes de solides
+| Chemin | Fichier |  PDF  | Source | 
+| :----- | :-----: | :---: | :----: | 
 |/06_Etude_Statique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/01_ModelisationAM/Applications_01_GeometrieMasses|05_Stat_01_ModelisationAM_Applications_01.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/05_Stat_01_ModelisationAM_Applications_01.pdf) | [:material-github:](https://github.com/xpessoles/06_Etude_Statique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/01_ModelisationAM/Applications_01_GeometrieMasses) | 
 |/06_Etude_Statique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/01_ModelisationAM/Applications_01_GeometrieMasses|05_Stat_01_ModelisationAM_Applications_01_Corr.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/05_Stat_01_ModelisationAM_Applications_01_Corr.pdf) | [:material-github:](https://github.com/xpessoles/06_Etude_Statique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/01_ModelisationAM/Applications_01_GeometrieMasses) | 
 |/06_Etude_Statique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/01_ModelisationAM/Applications_02_MomentPlan|05_Stat_01_ModelisationAM_Applications_02.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/05_Stat_01_ModelisationAM_Applications_02.pdf) | [:material-github:](https://github.com/xpessoles/06_Etude_Statique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre/tree/master/01_ModelisationAM/Applications_02_MomentPlan) | 
