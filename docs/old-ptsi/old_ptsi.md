@@ -1,3 +1,8 @@
+# PTSI - PT
+
+Mes (Très) vieux cours de PTSI... Je les mets là, si ça peut servir...
+
+
 | Chemin | Fichier |  PDF  | Source | 
 | :----- | :-----: | :---: | :----: | 
 |/01_IntroductionIS_Analyser/01_IngenierieSystemes/Cours|01_IS_01_Intro_Cours.pdf|[:fontawesome-solid-file-pdf:](https://xpessoles-cpge.fr/pdf/old/01_IS_01_Intro_Cours.pdf) | [:material-github:](https://github.com/xpessoles/01_IntroductionIS_Analyser/tree/main/01_IngenierieSystemes/Cours) | 
