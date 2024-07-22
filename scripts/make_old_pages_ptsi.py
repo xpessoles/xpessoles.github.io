@@ -59,20 +59,21 @@ def make_dico_from_pdf_file(root, file):
     dico['source'] = lien_pdf
 
     dico['depot'] = dico["chemin"][6:].split("/")[0]
-    dico['lien_git']="https://github.com/xpessoles/"+dico['depot']+"/tree/main"+dico["chemin"][6+len(dico['depot']):]
+    dico['lien_git']="https://github.com/xpessoles/"+dico['depot']+"/tree/master"+dico["chemin"][6+len(dico['depot']):]
 
     return dico
 
 def write_md(pdf_list) :
-    fid = open('old_ptsi.md','r', encoding="utf8")
+    fid = open('old_ptsi.md','w', encoding="utf8")
     fid.write("| Chemin | Fichier |  PDF  | Source | \n")
     fid.write("| :----- | :-----: | :---: | :----: | \n")
 
     for pdf in pdf_list :
         fid.write("|"+pdf['chemin'][5:]+"|")
-        fid.write(pdf['fichier'][5:]+"|")
+        fid.write(pdf['fichier']+"|")
         fid.write("[:fontawesome-solid-file-pdf:]("+pdf['lien_pdf']+") | ")
         fid.write("[:material-github:]("+pdf["lien_git"]+") | \n")
 
     fid.close()
 PDF_LISTE = make_pdf_list(chemins)
+write_md(PDF_LISTE)
