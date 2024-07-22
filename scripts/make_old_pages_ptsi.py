@@ -66,16 +66,18 @@ def write_md(pdf_list) :
         fid.write("|"+pdf['fichier']+"|")
         fid.write("[:fontawesome-solid-file-pdf:]("+pdf['lien_pdf']+") | ")
         fid.write("[:material-github:]("+pdf["lien_git"]+") |")
-        fid.write+pdf['chemin'][5:]+"| \n")
+        fid.write(pdf['chemin'][5:]+"| \n")
 
     fid.close()
 
 chemins = [
         #"../../01_IntroductionIS_Analyser",
-        "../../02_SLCI_Analyser_Modeliser_Resoudre",
+        #"../../02_SLCI_Analyser_Modeliser_Resoudre",
         #"../../03_Etude_Cinematique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre",
         #"../../04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser",
+        #"../../05_Etude_Systemes_Discrets_Analyse_Modeliser",
         #"../../06_Etude_Statique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre",
+        "../../07_Etude_Systemes_Mecaniques_Analyser_Concevoir_Realiser",
         #"../../09_Etude_Dynamique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre"
         ]
 PDF_LISTE = make_pdf_list(chemins)
