@@ -2,6 +2,7 @@ Vous trouverez ici d'anciennes ressources des années ou je travaillais en secti
 
 <div class="grid cards" markdown>
 
+- [Archives de PTSI](old-ptsi.md)
 - [Plans mécanismes](plans.md)
 
 </div>

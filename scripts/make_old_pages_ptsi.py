@@ -77,7 +77,7 @@ chemins = [
         #"../../04_Etude_Systemes_Electriques_Analyser_Modeliser_Resoudre_Realiser",
         #"../../05_Etude_Systemes_Discrets_Analyse_Modeliser",
         #"../../06_Etude_Statique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre",
-        "../../07_Etude_Systemes_Mecaniques_Analyser_Concevoir_Realiser",
+        "../../07_Etude_Systemes_Mecaniques_Analyser_Concevoir_Realiser"
         #"../../09_Etude_Dynamique_Systemes_Solides_Chaine_Energie_Analyser_Modeliser_Resoudre"
         ]
 PDF_LISTE = make_pdf_list(chemins)
