@@ -103,6 +103,8 @@ extra_javascript:
 
 nav:
 - Acceuil: index.md
+    - Merci: Divers/merci.md
+    - Sites: Divers/sites.md
 - PSI:
     - PSI/index.md
     - Documents 2023-2024: PSI/2023_2024.md
@@ -262,8 +264,6 @@ nav:
 - Evaluation:
   - evaluation/index.md
 - Divers : 
-    - Merci: Divers/merci.md
-    - Sites: Divers/sites.md
     - Index: Divers/tags.md
     - Jupyter: Divers/archive/test.ipynb
     - Bac à sable: Divers/index.md
