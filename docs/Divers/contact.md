@@ -1,3 +1,3 @@
 # Formulaire de contact
 
-https://forms.gle/2P5ARPjo2KSBaLyd6
+[CONTACT](https://forms.gle/2P5ARPjo2KSBaLyd6){ .md-button .md-button--primary }
