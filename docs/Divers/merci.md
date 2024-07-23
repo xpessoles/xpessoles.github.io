@@ -2,6 +2,8 @@
 title: Remerciements
 ---
 
+Le 20 juillet 2024. 
+
 
 Depuis que j'ai commencé à enseigner en 2010, au lycée Jules Haag de Besançon, je me dis qu'un jour, il faudra que je partage mes cours, mes TP, mes TD pour remercier tous les gens grâce auxquels j'ai pu commencer à enseigner. 
 
@@ -36,7 +38,7 @@ Merci à ceux qui étaient amis avant d'être collègues, merci Renaud ;) (Costa
 Pas merci à Robert et à Anthony car à cause d'eux, je me dis qu'il faut que je refasse tous mes diagrammes de Bode et tous mes schémas cinématiques :).
 
 
-Nos Sciences Industrielles de l'Ingénieur sont belles, on y rencontre plein de problèmes, plein de solutions,  (parfois des non solutions\footnote{J'ai toujours un problème avec les deux ponctuelles équivalentes à une liaison sphère-cylindre... mais où est l'axe ?}). 
+Nos Sciences Industrielles de l'Ingénieur sont belles, on y rencontre plein de problèmes, plein de solutions,  (parfois des non solutions). 
 On y rencontre surtout plein de profs qui aiment leur élèves, qui aiment leur métier, qui aiment leur discipline et qui aiment partager, expliquer, se questionner. Tous ces échanges m'ont beaucoup appris, me questionnent et m'apprennent encore beaucoup. 
 
 Merci aux élèves qui nous rajeunissent, qui nous questionnent, qui nous pressent, qui nous énervent, pour qui on donne tant de temps, mais qui ne le voient pas :)
