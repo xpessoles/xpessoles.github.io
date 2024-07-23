@@ -262,6 +262,7 @@ nav:
 - Evaluation:
   - evaluation/index.md
 - Divers : 
+    - Merci: Divers/merci.md
     - Sites: Divers/sites.md
     - Index: Divers/tags.md
     - Jupyter: Divers/archive/test.ipynb
