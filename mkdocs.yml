@@ -109,6 +109,7 @@ nav:
     - Contact: Divers/contact.md
 - PSI:
     - PSI/index.md
+    - Documents 2024-2025: PSI/2024_2025.md
     - Documents 2023-2024: PSI/2023_2024.md
     - Modélisation des SLCI: 
       - Transformée de Laplace: PSI/slci/slci-laplace.md
@@ -160,6 +161,9 @@ nav:
       #- Méthodes numériques : PSI/num/num-mn.md
       #- Introduction IA : PSI/num/num-ia.md
       #- Introduction RN : PSI/num/num-rn.md
+- MP:
+    - MP/index.md
+    - Documents 2024-2025: MP/2024_2025.md
 - Oraux :
     - Oraux/index.md
     - Oraux/TPs.md

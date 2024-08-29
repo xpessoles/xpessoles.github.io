@@ -4,6 +4,7 @@ title: PSI
 
 [comment]: <> (Page manuelle)
 
+[Polycopiés 2024-2026](2024_2025.md){ .md-button .md-button--primary }
 [Polycopiés 2023-2024](2023_2024.md){ .md-button .md-button--primary }
 
 
