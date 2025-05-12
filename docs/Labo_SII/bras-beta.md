@@ -13,7 +13,7 @@ tags:
 [comment]: <> (Généré automatiquement par make_page_systemes.py, creation_fichiers_systemes)
 
 ## Documentation 
-- [:fontawesome-solid-file-word:](https://github.com/xpessoles/TP_Documents_PSI/raw/master/02_BrasBeta/02_Documentation_BrasBeta.docx) [:material-github:](https://github.com/xpessoles/TP_Documents_PSI/tree/master/02_BrasBeta)   Documentation 
+- [:fontawesome-solid-file-word:](https://github.com/xpessoles/TP_Documents_PSI/raw/master/02_BrasBeta/02_BrasBeta_Documentation.docx) [:material-github:](https://github.com/xpessoles/TP_Documents_PSI/tree/master/02_BrasBeta)   Documentation 
 
 ## Sujets 
 - [:fontawesome-solid-file-word:](https://github.com/xpessoles/TP_Sujets/raw/main/01_MiseEnService/02_BrasBeta_01_MiseEnService.docx) [:material-github:](https://github.com/xpessoles/TP_Sujets/tree/main/01_MiseEnService) 01 : Mise en service

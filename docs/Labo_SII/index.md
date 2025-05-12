@@ -15,7 +15,7 @@
  
     --- 
  
-    Le Bras BETA reproduit un système de cotrôle de tubes de géérateur de vapeur. [S2IDIDAC](https://s2ididac.com/)
+    Le Bras BETA reproduit un système de cotrôle de tubes de générateur de vapeur. [S2IDIDAC](https://s2ididac.com/)
     ![Bras BETA](../img/bras-beta.png){ align=left } 
  
     [:octicons-arrow-right-24: Bras BETA](bras-beta.md) 
