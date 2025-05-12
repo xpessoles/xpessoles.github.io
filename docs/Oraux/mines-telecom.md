@@ -21,4 +21,4 @@ Sujets de préparation aux oraux de Mines-Telecom, ESM Saint-Cyr, Ecole Navale e
 [Sujet B](https://github.com/xpessoles/TD_Competences_PDF/raw/main/Exercices_MT/TeteDecoupe/MT_TeteDecoupe_02_SLCI_Cin.pdf){ .md-button .md-button--primary }
 [Sujet C](https://github.com/xpessoles/TD_Competences_PDF/raw/main/Exercices_MT/TeteDecoupe/MT_TeteDecoupe_03_Codeur_Cin.pdf){ .md-button .md-button--primary }
 [Sujet D](https://github.com/xpessoles/TD_Competences_PDF/raw/main/Exercices_MT/TeteDecoupe/MT_TeteDecoupe_04_Codeur_TEC.pdf){ .md-button .md-button--primary }
-[Sujet Full](https://github.com/xpessoles/TD_Competences_PDF/raw/main/Exercices_MT/TeteDecoupe/MT_Insight_full.pdf){ .md-button .md-button--primary }
+[Sujet Full](https://github.com/xpessoles/TD_Competences_PDF/raw/main/Exercices_MT/TeteDecoupe/MT_TeteDecoupe_full.pdf){ .md-button .md-button--primary }
