@@ -104,7 +104,7 @@ title: Sujets de TPs pour la préparation aux oraux
 
 ## BGR-300
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/01_BGR-300/01_BGR-300_Sujet_2h.pdf){ .md-button .md-button--primary } 
-[TP 4h :check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/01_BGR-300/01_BGR-300_Sujet_4h.pdf){ .md-button .md-button--primary }
+[TP 4h :check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/2025/01_BGR-300/01_BGR-300_Sujet_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/01_BGR-300/01_BGR-300_Documentation.pdf){ .md-button .md-button--primary }
 
 [Matlab](https://github.com/xpessoles/TP_Documents_PSI/raw/master/01_BGR-300/01_BGR-300_Matlab.zip){ .md-button .md-button--primary }
