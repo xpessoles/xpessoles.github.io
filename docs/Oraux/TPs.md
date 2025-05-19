@@ -16,17 +16,17 @@ title: Sujets de TPs pour la préparation aux oraux
 
 [comment]: <>  (Robot à câbles RC4)
 
-## CoMAX
+## Robot à câbles RC4
 
-[TP 4h :heavy_check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/2025/04_CoMAX/04_CoMAX_4h.pdf){ .md-button .md-button--primary }
-[Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/04_CoMAX/04_Comax_Documentation.pdf){ .md-button .md-button--primary }
+[TP 4h :heavy_check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/2025/16_RC4_Sujet_4h.pdf){ .md-button .md-button--primary }
+[Documentation](https://github.com/xpessoles/TP_Documents_PSI/blob/master/16_RC4/16_Documentation_RC4.docx){ .md-button .md-button--primary }
 
 
 
 ## CoMAX
 
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/04_CoMAX/04_CoMAX_2h.pdf){ .md-button .md-button--primary }
-[TP 4h :heavy_check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/2025/04_CoMAX/04_CoMAX_4h.pdf){ .md-button .md-button--primary }
+[TP 4h :heavy_check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/2025/4_CoMAX_4h.pdf){ .md-button .md-button--primary }
 [Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/04_CoMAX/04_Comax_Documentation.pdf){ .md-button .md-button--primary }
 
 [Modèle Scilab-Xcos](https://github.com/xpessoles/TP_Documents_PSI/raw/master/04_CoMAX/04_CoMAX_XCOS.zip){ .md-button .md-button--primary }
