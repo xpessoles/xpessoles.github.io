@@ -97,7 +97,7 @@ title: Sujets de TPs pour la préparation aux oraux
 ## Bras Beta
 [TP 2h](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/02_BrasBeta/02_BrasBeta_2h.pdf){ .md-button .md-button--primary } 
 [TP 4h :check_mark:](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/TPs_2024/02_BrasBeta/02_BrasBeta_4h.pdf){ .md-button .md-button--primary }
-[Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/02_BrasBeta/02_BrasBeta_Documentation.pdf){ .md-button .md-button--primary }
+[Documentation](https://github.com/xpessoles/TP_Documents_PSI/raw/master/02_BrasBeta/02_BrasBeta_Documentation.docx){ .md-button .md-button--primary }
 
 [Modèle Scilab](https://github.com/xpessoles/TP_Documents_PSI/raw/master/02_BrasBeta/02_BrasBeta_Xcos.zip){ .md-button .md-button--primary }
 
