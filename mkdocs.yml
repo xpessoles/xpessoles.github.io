@@ -274,3 +274,14 @@ nav:
     - Jupyter: Divers/archive/test.ipynb
     - Bac à sable: Divers/index.md
     - Carte: Divers/map.md
+- Rugby :
+    - Rugby/index.md
+    - Echauffement : Rugby/echauffement.md
+    - Jeu en mouvement : Rugby/mouvement.md
+        - Utilisation de l'espace : Rugby/espace.md
+        - Utilisation du partenaire : Rugby/partenaire.md
+        - Soutien du porteur de balle : Rugby/soutien.md
+        - Organisation défensive : Rugby/defense.md
+    - Gestion des contacts et des luttes : Rugby/contact.md
+        
+    
