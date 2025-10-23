@@ -277,11 +277,9 @@ nav:
 - Rugby :
     - Rugby/index.md
     - Echauffement : Rugby/echauffement.md
-    - Jeu en mouvement : Rugby/mouvement.md
-        #- Utiliser l espace : Rugby/espace.md
-        - Utiliser son partenaire : Rugby/partenaire.md
-        - Soutenir du porteur de balle : Rugby/soutien.md
-        - Organiser la défense : Rugby/defense.md
-    - Gérer les contacts et des luttes : Rugby/contact.md
-        
-    
+    #- Jeu en mouvement : Rugby/mouvement.md
+    #    #- Utiliser l espace : Rugby/espace.md
+    #    - Utiliser son partenaire : Rugby/partenaire.md
+    #    - Soutenir du porteur de balle : Rugby/soutien.md
+    #    - Organiser la défense : Rugby/defense.md
+    #- Gérer les contacts et des luttes : Rugby/contact.md
