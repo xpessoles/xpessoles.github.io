@@ -4,14 +4,14 @@ title: Échauffement
 
 ## Gainage épaules
 
- * Nombre d'enfants : 2
-
- * Enfant 1 saute-mouton puis passe entre les jambes de l’enfant 2
- * Enfant 2 se met en position de pompe
-   - Enfant 1 AR 10m, avec ballon
-   - Saute au dessus de l’enfant 2 puis en dessous du pont de l’enfant 1
- * Enfant 2 se met en position de gainage sur les coudes
-   - Enfant 1 AR 10m, avec ballon
+- Nombre d'enfants : 2 
+- Nombre de ballons : 1
+- Enfant 1 saute-mouton puis passe entre les jambes de l’enfant 2
+- Enfant 2 se met en position de pompe
+    * Enfant 1 AR 10m, avec ballon
+    * Saute au dessus de l’enfant 2 puis en dessous du pont de l’enfant 1
+- Enfant 2 se met en position de gainage sur les coudes
+    * Enfant 1 AR 10m, avec ballon
 
 
 
