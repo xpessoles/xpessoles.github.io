@@ -14,6 +14,10 @@ title: Échauffement
     * Enfant 1 AR 10m, avec ballon
 
 
+<p align="center">
+  <img src="https://xpessoles.github.io/img/fig_00.jpg" alt="Mon image centrée" style="width:300px;">
+</p>
+
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://xpessoles.github.io/img/fig_00.jpg" alt="Mon image" style="width: 250px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
