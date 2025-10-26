@@ -32,12 +32,19 @@ title: Échauffement
 - Nombre d'enfants : 4 
 - Nombre de ballons : 1
 - Nombre de plots : 4 plots
+
 ### Déroulement
 - Joueur A passe à B
     * Joueur A fait un Aller-Retour A-B-A
 - Joueur B passe à C
     * Joueur B fait un Aller-Retour B-C-B
 - ...
+
+### Variantes
+- Passe puis Aller en avant, retour en arrière
+- Passe puis Aller Retour en pas chassés
+- Passe puis pompes
+
 
 <p align="center">
   <img src="https://xpessoles.github.io/img/ech_02.png" alt="Mon image centrée" style="width:640;">
