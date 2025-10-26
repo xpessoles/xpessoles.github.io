@@ -17,7 +17,7 @@ title: Échauffement
 
 
 <p align="center">
-  <img src="https://xpessoles.github.io/img/fig_00.jpg" alt="Mon image centrée" style="width:300px;">
+  <img src="https://xpessoles.github.io/img/ech_01.png" alt="Mon image centrée" style="width:300px;">
 </p>
 
 
@@ -28,6 +28,25 @@ title: Échauffement
 
 
 ## Passes et cardio `ech_02`
+### Mise en place
+- Nombre d'enfants : 4 
+- Nombre de ballons : 1
+- Nombre de plots : 4 plots
+### Déroulement
+- Joueur A passe à B
+    * Joueur A fait un Aller-Retour A-B-A
+- Joueur B passe à C
+    * Joueur B fait un Aller-Retour B-C-B
+- ...
+
+<p align="center">
+  <img src="https://xpessoles.github.io/img/ech_02.png" alt="Mon image centrée" style="width:300px;">
+</p>
+
+
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/62liv-KtX98?t=30s" title="Stade n°4 : Échauffement - Ecole de Rugby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 
 ## Cardio et passes
