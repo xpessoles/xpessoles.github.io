@@ -17,12 +17,12 @@ title: Échauffement
 
 
 <p align="center">
-  <img src="https://xpessoles.github.io/img/ech_01.png" alt="Mon image centrée" style="width:300px;">
+  <img src="https://xpessoles.github.io/img/ech_01.png" alt="Mon image centrée" style="width:300px;border-radius: 8px;">
 </p>
 
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://xpessoles.github.io/img/fig_00.jpg" alt="Mon image" style="width: 250px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+   <img src="https://xpessoles.github.io/img/fig_00.jpg" alt="Mon image" style="width: 1px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/62liv-KtX98" title="Stade n°4 : Échauffement - Ecole de Rugby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
@@ -40,12 +40,12 @@ title: Échauffement
 - ...
 
 <p align="center">
-  <img src="https://xpessoles.github.io/img/ech_02.png" alt="Mon image centrée" style="width:300px;">
+  <img src="https://xpessoles.github.io/img/ech_02.png" alt="Mon image centrée" style="width:640;">
 </p>
 
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/62liv-KtX98?t=30s" title="Stade n°4 : Échauffement - Ecole de Rugby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/62liv-KtX98?t=25" title="Stade n°4 : Échauffement - Ecole de Rugby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
