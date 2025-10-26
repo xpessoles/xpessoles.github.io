@@ -2,10 +2,12 @@
 title: Échauffement
 ---
 
-## Gainage épaules
-
+## Gainage et épaules `ech_01`
+### Mise en place
 - Nombre d'enfants : 2 
 - Nombre de ballons : 1
+- Nombre de plotS : 1 plot par enfant
+### Déroulement
 - Enfant 1 saute-mouton puis passe entre les jambes de l’enfant 2
 - Enfant 2 se met en position de pompe
     * Enfant 1 AR 10m, avec ballon
@@ -25,7 +27,8 @@ title: Échauffement
 </div>
 
 
-## Cardio 
+## Passes et cardio `ech_02`
+
 
 ## Cardio et passes
 
