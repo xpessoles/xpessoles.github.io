@@ -56,7 +56,28 @@ title: Échauffement
 </div>
 
 
-## Cardio et passes
+## Cardio et passes `ech_03`
+### Mise en place
+- Nombre d'enfants : 5 
+- Nombre de ballons : 2
+- Nombre de plots : 6 plots
+
+### Déroulement
+Objectif : course entre les passeurs et le joueur qui fait un aller retour. 
+
+- Joueurs en lignes font passé la balle (Aller Retour)
+- Le joueur seul doit marquer un essai à l'aller puis au retour
+
+
+<p align="center">
+  <img src="https://xpessoles.github.io/img/ech_03.png" alt="Mon image centrée" style="width:640;">
+</p>
+
+
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/62liv-KtX98?t=57" title="Stade n°4 : Échauffement - Ecole de Rugby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 ## Cardio contact
 
