@@ -50,9 +50,9 @@ title: Échauffement
   <img src="https://xpessoles.github.io/img/ech_02.png" alt="Mon image centrée" style="width:640;">
 </p>
 
-
+https://youtu.be/62liv-KtX98?t=2
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/62liv-KtX98?t=25" title="Stade n°4 : Échauffement - Ecole de Rugby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://youtu.be/62liv-KtX98?t=25" title="Stade n°4 : Échauffement - Ecole de Rugby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
@@ -97,7 +97,7 @@ Objectif : course entre les passeurs et le joueur qui fait un aller retour.
 
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/62liv-KtX98?t=80" title="Stade n°4 : Échauffement - Ecole de Rugby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://youtu.be/62liv-KtX98?t=80" title="Stade n°4 : Échauffement - Ecole de Rugby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
