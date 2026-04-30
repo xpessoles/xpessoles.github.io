@@ -4,6 +4,20 @@ title: Préparation aux oraux
 
 [comment]: <> (Page manuelle)
 
+# Année 2025 - 2026
+
+[Épreuves orales 2025](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/PresentationsEpreuves/Presentations_Epreuves_2025.pdf){ .md-button .md-button--primary }
+[Chaînes de Puissance](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/ChainesPuissance.pdf){ .md-button .md-button--primary }
+[Protocoles Exp](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/ProtocolesExpérimentaux.pdf){ .md-button .md-button--primary }
+
+[Activités](activites.md){ .md-button .md-button--primary }
+[Sujets de TP](TPs_2026.md){ .md-button .md-button--primary }
+[Logiciels](logiciels.md){ .md-button .md-button--primary }
+[Mines Telecom](mines-telecom.md){ .md-button .md-button--primary }
+
+
+
+# Année 2024 - 2025
 [Épreuves orales 2025](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/PresentationsEpreuves/Presentations_Epreuves_2025.pdf){ .md-button .md-button--primary }
 [Chaînes de Puissance](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/ChainesPuissance.pdf){ .md-button .md-button--primary }
 [Protocoles Exp](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/ProtocolesExpérimentaux.pdf){ .md-button .md-button--primary }
