@@ -15,6 +15,10 @@ title: Préparation aux oraux
 [Logiciels](logiciels.md){ .md-button .md-button--primary }
 [Mines Telecom](mines-telecom.md){ .md-button .md-button--primary }
 
+## Révisions Capytale
+ * Lois en trapèze
+   * Sujet : https://capytale2.ac-paris.fr/web/c/809d-7465170
+   * Corrigé : https://capytale2.ac-paris.fr/web/c/890c-7476389
 
 
 # Année 2024 - 2025
