@@ -16,10 +16,13 @@ title: Préparation aux oraux
 [Mines Telecom](mines-telecom.md){ .md-button .md-button--primary }
 
 ## Révisions Capytale
- * Lois en trapèze
-   * Sujet : https://capytale2.ac-paris.fr/web/c/809d-7465170
-   * Corrigé : https://capytale2.ac-paris.fr/web/c/890c-7476389
-
+ - Lois en trapèze [Normal]
+   * [x] Sujet : https://capytale2.ac-paris.fr/web/c/809d-7465170
+   * [x] Corrigé : https://capytale2.ac-paris.fr/web/c/890c-7476389
+ 
+ - Loi ES géométrique [Normal]
+   * [x] Sujet : https://capytale2.ac-paris.fr/web/c/12c9-10619620
+   * [x] Corrigé : https://capytale2.ac-paris.fr/web/c/a4d6-10606178
 
 # Année 2024 - 2025
 [Épreuves orales 2025](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/PresentationsEpreuves/Presentations_Epreuves_2025.pdf){ .md-button .md-button--primary }
