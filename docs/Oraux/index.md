@@ -16,22 +16,28 @@ title: Préparation aux oraux
 [Mines Telecom](mines-telecom.md){ .md-button .md-button--primary }
 
 ## Révisions Capytale
- - Lois en trapèze [Normal]
+### Lois en trapèze [Normal]
    * [x] Sujet : https://capytale2.ac-paris.fr/web/c/809d-7465170
    * [x] Corrigé : https://capytale2.ac-paris.fr/web/c/890c-7476389
  
- - Loi ES géométrique - Sympact [Normal]
-   * [x] Sujet : https://capytale2.ac-paris.fr/web/c/3d9d-10606328
-   * [x] Corrigé : https://capytale2.ac-paris.fr/web/c/a4d6-10606178
+### Loi ES géométrique - Sympact [Normal]
+   * [x] [Sujet Sympact Géométrie]
+   * [x] [Corrigé Sympact Géométrie]
 
- - Loi ES cinématique - Sympact [Normal]
+  [Sujet Sympact Géométrie]: https://capytale2.ac-paris.fr/web/c/3d9d-10606328
+  [Corrigé Sympact Géométrie]: https://capytale2.ac-paris.fr/web/c/a4d6-10606178
+
+### Loi ES cinématique - Sympact [Normal]
    * [x] Sujet : https://capytale2.ac-paris.fr/web/c/12c9-10619620
    * [x] Corrigé : https://capytale2.ac-paris.fr/web/c/c529-10606627
  
- - Loi ES géométrique - RC4 [Difficile]
+### Loi ES géométrique - RC4 [Difficile]
    * [x] Sujet : https://capytale2.ac-paris.fr/web/c/27f0-3424307
    * [x] Corrigé : https://capytale2.ac-paris.fr/web/c/00a7-1328699
 
+### Correcteurs numériques
+   * [x] Sujet https://capytale2.ac-paris.fr/web/c/6a79-1371367
+   * [x] Corrigé https://capytale2.ac-paris.fr/web/c/b218-1381542
 # Année 2024 - 2025
 [Épreuves orales 2025](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/PresentationsEpreuves/Presentations_Epreuves_2025.pdf){ .md-button .md-button--primary }
 [Chaînes de Puissance](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/ChainesPuissance.pdf){ .md-button .md-button--primary }
