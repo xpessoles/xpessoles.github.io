@@ -16,7 +16,7 @@ Le but de ces polys étant uniquement d'avoir un aperçu des activités proposé
 
 <div class="grid cards" markdown>
 
-- [Préparation oraux](Oraux.md)
+- [Préparation oraux](Oraux/Oraux.md)
 - [Documents 2023-2024](PSI/2023_2024.md)
 - [Documents PSI](PSI/index.md)
 - [Révisions Sup](Revisions/index.md)
