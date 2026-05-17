@@ -50,7 +50,14 @@ title: Préparation aux oraux
    
   [Sujet Correcteurs numériques]: https://capytale2.ac-paris.fr/web/c/6a79-1371367
   [Corrigé Correcteurs numériques]: https://capytale2.ac-paris.fr/web/c/b218-1381542
-  
+
+### Oscillateur harmonique - Euler
+
+   * [x] [Sujet Oscillateur]
+   * [x] [Corrigé Oscillateur]
+
+  [Sujet Oscillateur]: https://capytale2.ac-paris.fr/web/c/c204-10972821
+  [Corrigé Oscillateur]: https://capytale2.ac-paris.fr/web/c/bf6f-1439188
 
 # Année 2024 - 2025
 [Épreuves orales 2025](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/PresentationsEpreuves/Presentations_Epreuves_2025.pdf){ .md-button .md-button--primary }
