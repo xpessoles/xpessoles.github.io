@@ -79,6 +79,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
+  - pymdownx.tasklist:
+      custom_checkbox: true # Pour les listes avec checkboxes
   - attr_list           # pour les infobulles sur les mots ?
   - abbr                # pour les infobulles sur les mots ?
   - md_in_html
