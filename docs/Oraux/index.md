@@ -17,8 +17,8 @@ title: Préparation aux oraux
 
 ## Révisions Capytale
 ### Lois en trapèze [Normal]
-   * [x] [Sujet Trapèze]: https://capytale2.ac-paris.fr/web/c/809d-7465170
-   * [x] [Corrigé Trapèze]: https://capytale2.ac-paris.fr/web/c/890c-7476389
+   * [x] [Sujet Trapèze]
+   * [x] [Corrigé Trapèze]
  
   [Sujet Trapèze]: https://capytale2.ac-paris.fr/web/c/809d-7465170
   [Corrigé Trapèze]: https://capytale2.ac-paris.fr/web/c/890c-7476389
@@ -38,15 +38,15 @@ title: Préparation aux oraux
   [Corrigé Sympact Cinématique]: https://capytale2.ac-paris.fr/web/c/c529-10606627
    
 ### Loi ES géométrique - RC4 [Difficile]
-   * [x] [Sujet RC4]: https://capytale2.ac-paris.fr/web/c/27f0-3424307
-   * [x] [Corrigé RC4] : https://capytale2.ac-paris.fr/web/c/00a7-1328699
+   * [x] [Sujet RC4]
+   * [x] [Corrigé RC4]
 
   [Sujet RC4]: https://capytale2.ac-paris.fr/web/c/27f0-3424307
   [Corrigé RC4]: https://capytale2.ac-paris.fr/web/c/00a7-1328699
 
 ### Correcteurs numériques
-   * [x] [Sujet Correcteurs numériques]: https://capytale2.ac-paris.fr/web/c/6a79-1371367
-   * [x] [Corrigé Correcteurs numériques]: https://capytale2.ac-paris.fr/web/c/b218-1381542
+   * [x] [Sujet Correcteurs numériques]
+   * [x] [Corrigé Correcteurs numériques]
    
   [Sujet Correcteurs numériques]: https://capytale2.ac-paris.fr/web/c/6a79-1371367
   [Corrigé Correcteurs numériques]: https://capytale2.ac-paris.fr/web/c/b218-1381542
