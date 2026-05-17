@@ -17,8 +17,11 @@ title: Préparation aux oraux
 
 ## Révisions Capytale
 ### Lois en trapèze [Normal]
-   * [x] Sujet : https://capytale2.ac-paris.fr/web/c/809d-7465170
-   * [x] Corrigé : https://capytale2.ac-paris.fr/web/c/890c-7476389
+   * [x] [Sujet Trapèze]: https://capytale2.ac-paris.fr/web/c/809d-7465170
+   * [x] [Corrigé Trapèze]: https://capytale2.ac-paris.fr/web/c/890c-7476389
+ 
+  [Sujet Trapèze]: https://capytale2.ac-paris.fr/web/c/809d-7465170
+  [Corrigé Trapèze]: https://capytale2.ac-paris.fr/web/c/890c-7476389
  
 ### Loi ES géométrique - Sympact [Normal]
    * [x] [Sujet Sympact Géométrie]
@@ -28,16 +31,27 @@ title: Préparation aux oraux
   [Corrigé Sympact Géométrie]: https://capytale2.ac-paris.fr/web/c/a4d6-10606178
 
 ### Loi ES cinématique - Sympact [Normal]
-   * [x] Sujet : https://capytale2.ac-paris.fr/web/c/12c9-10619620
-   * [x] Corrigé : https://capytale2.ac-paris.fr/web/c/c529-10606627
+   * [x] [Sujet Sympact Cinématique]
+   * [x] [Corrigé Sympact Cinématique]
  
+  [Sujet Sympact Cinématique]: https://capytale2.ac-paris.fr/web/c/12c9-10619620
+  [Corrigé Sympact Cinématique]: https://capytale2.ac-paris.fr/web/c/c529-10606627
+   
 ### Loi ES géométrique - RC4 [Difficile]
-   * [x] Sujet : https://capytale2.ac-paris.fr/web/c/27f0-3424307
-   * [x] Corrigé : https://capytale2.ac-paris.fr/web/c/00a7-1328699
+   * [x] [Sujet RC4]: https://capytale2.ac-paris.fr/web/c/27f0-3424307
+   * [x] [Corrigé RC4] : https://capytale2.ac-paris.fr/web/c/00a7-1328699
+
+  [Sujet RC4]: https://capytale2.ac-paris.fr/web/c/27f0-3424307
+  [Corrigé RC4]: https://capytale2.ac-paris.fr/web/c/00a7-1328699
 
 ### Correcteurs numériques
-   * [x] Sujet https://capytale2.ac-paris.fr/web/c/6a79-1371367
-   * [x] Corrigé https://capytale2.ac-paris.fr/web/c/b218-1381542
+   * [x] [Sujet Correcteurs numériques]: https://capytale2.ac-paris.fr/web/c/6a79-1371367
+   * [x] [Corrigé Correcteurs numériques]: https://capytale2.ac-paris.fr/web/c/b218-1381542
+   
+  [Sujet Correcteurs numériques]: https://capytale2.ac-paris.fr/web/c/6a79-1371367
+  [Corrigé Correcteurs numériques]: https://capytale2.ac-paris.fr/web/c/b218-1381542
+  
+
 # Année 2024 - 2025
 [Épreuves orales 2025](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/PresentationsEpreuves/Presentations_Epreuves_2025.pdf){ .md-button .md-button--primary }
 [Chaînes de Puissance](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/ChainesPuissance.pdf){ .md-button .md-button--primary }
