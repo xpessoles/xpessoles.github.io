@@ -7,6 +7,11 @@ title: Logiciels de simulation
 Activités d’entraînement sur les logiciels de simulation.
 
 ## Scilab - Xcos
+  * [x] [Modélisation causale du MCC]
+  * [x] [Modélisation acausale du MCC]
+
+  [Modélisation causale du MCC]:https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/2026/12_MoteurCC_06_Modelisation_Connaissance_CPGE.pdf
+  [Modélisation acausale du MCC]:https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/2026/12_MoteurCC_06_Modelisation_Connaissance_SIMM.pdf
 
 [Doc XCOS](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/99_Simulation/01_Module_CPGE.pdf){ .md-button .md-button--primary }
 [Causal](https://github.com/xpessoles/PSI_Preparation_Oral/blob/main/TPs_2024/99_Simulation/12_MoteurCC_06_Modelisation_Connaissance_CPGE.pdf){ .md-button .md-button--primary }
