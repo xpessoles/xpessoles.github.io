@@ -15,6 +15,14 @@ title: Préparation aux oraux
 [Logiciels](logiciels.md){ .md-button .md-button--primary }
 [Mines Telecom](mines-telecom.md){ .md-button .md-button--primary }
 
+## Semaine 1
+   * [Séance de TD] : Modélisation causale/acausale https://xpessoles.github.io/Oraux/logiciels/#scilab-xcos
+   * [Travail pour le 25/05/2026] : Tout sauf Détermination des lois de mouvement
+   
+   
+   [Séance de TD]: https://xpessoles.github.io/Oraux/logiciels/#scilab-xcos
+   [Travail pour le 25/05/2026]: https://raw.githubusercontent.com/xpessoles/PSI_Preparation_Oral/main/2025_ActivitesPreparation.pdf
+   
 ## Révisions Capytale
 ### Lois en trapèze [Normal]
    * [x] [Sujet Trapèze]
@@ -59,7 +67,7 @@ title: Préparation aux oraux
   [Sujet Oscillateur]: https://capytale2.ac-paris.fr/web/c/c204-10972821
   [Corrigé Oscillateur]: https://capytale2.ac-paris.fr/web/c/bf6f-1439188
 
-# Année 2024 - 2025
+## Année 2024 - 2025
 [Épreuves orales 2025](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/PresentationsEpreuves/Presentations_Epreuves_2025.pdf){ .md-button .md-button--primary }
 [Chaînes de Puissance](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/ChainesPuissance.pdf){ .md-button .md-button--primary }
 [Protocoles Exp](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/ProtocolesExpérimentaux.pdf){ .md-button .md-button--primary }
