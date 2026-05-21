@@ -8,6 +8,7 @@ title: Préparation aux oraux
 
 [Épreuves orales 2025](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/PresentationsEpreuves/Presentations_Epreuves_2025.pdf){ .md-button .md-button--primary }
 [Chaînes de Puissance](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/ChainesPuissance.pdf){ .md-button .md-button--primary }
+[Technologie](https://github.com/xpessoles/Cy_00_PSI_Presentation/raw/master/ElementChaineFonctionnelle.pdf){ .md-button .md-button--primary }
 [Protocoles Exp](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/ProtocolesExpérimentaux.pdf){ .md-button .md-button--primary }
 
 [Activités](activites.md){ .md-button .md-button--primary }
