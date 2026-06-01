@@ -94,13 +94,12 @@ markdown_extensions:
       permalink: true
   
 copyright: |
-  &copy; 2025 <a href="https://github.com/xpessoles"  target="_blank" rel="noopener">Xavier Pessoles</a>
+  &copy; 2026 <a href="https://github.com/xpessoles"  target="_blank" rel="noopener">Xavier Pessoles</a>
 
 
 extra_javascript:
   - javascripts/mathjax.js
   - javascripts/feedback.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
