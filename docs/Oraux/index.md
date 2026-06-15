@@ -11,7 +11,7 @@ title: Préparation aux oraux
 [Technologie](https://github.com/xpessoles/Cy_00_PSI_Presentation/raw/master/ElementChaineFonctionnelle.pdf){ .md-button .md-button--primary }
 [Protocoles Exp](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/ProtocolesExpérimentaux.pdf){ .md-button .md-button--primary }
 
-[Résumé techno 2026](https://github.com/xpessoles/Cy_00_PSI_Presentation/raw/master/ElementChaineFonctionnelle.pdf){ .md-button .md-button--primary }
+[Résumé techno 2026](https://github.com/xpessoles/PSI_Preparation_Oral/raw/main/Fiches_Protocoles_Techno/FicheTechno.pdf){ .md-button .md-button--primary }
 
 [Activités](activites.md){ .md-button .md-button--primary }
 [Sujets de TP](TPs_2026.md){ .md-button .md-button--primary }
